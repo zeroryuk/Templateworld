@@ -1,2 +1,2 @@
-[00:02:27]: [Join Announcement] ZeroRyuk
-[00:02:41]: [Leave Announcement] ZeroRyuk
+[00:01:08]: [Join Announcement] ZeroRyuk
+[00:02:14]: [Leave Announcement] ZeroRyuk

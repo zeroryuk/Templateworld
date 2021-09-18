@@ -1,70 +1,27 @@
 return {
   ["workshop-1207269058"]={ configuration_options={  }, enabled=true },
-  ["workshop-1505270912"]={
+  ["workshop-1289779251"]={
     configuration_options={
-      [""]=0,
-      Hamlet=10,
-      Moon=10,
-      Moonshipwrecked=0,
-      Shipwrecked=25,
-      Shipwrecked_plus=true,
-      Shipwreckedworld_plus=true,
-      Together=20,
-      Volcano=true,
-      Waves=true,
-      anthill=1,
-      aporkalypse=true,
-      boatlefthud=0,
-      cherryforest=20,
-      city_tab=1,
-      compactruins=false,
-      continentsize=2,
-      coralbiome=1,
-      disable_snow_effectst=false,
-      enableallprefabs=false,
-      fillingthebiomes=4,
-      flood=10,
-      fog=10,
-      forge=1,
-      frost_island=10,
-      frost_islandworld=10,
-      gorgecity=1,
-      gorgeisland=1,
-      hail=true,
-      hamlet_caves=1,
-      hamletcaves_hamletworld=1,
-      hamletcaves_shipwreckedworld=1,
-      hamletclouds=false,
-      hayfever=10,
-      home_tab=1,
-      housewallajust=0,
-      howmanyislands=22,
-      kindofworld=15,
-      kraken=1,
-      lilypad=1,
-      lobbyexit=false,
-      luajit=false,
-      mangrove=1,
-      megarandomCompatibilityWater=false,
-      nautical_tab=true,
-      obsidian_tab=1,
-      octopusking=1,
-      pigcity1=15,
-      pigcity2=20,
-      pigruins=1,
-      pinacle=1,
-      removedark=false,
-      seafaring_tab=false,
-      sealnado=true,
-      set_idioma="stringsEU",
-      shipgraveyard=1,
-      startlocation=5,
-      togethercaves_hamletworld=1,
-      togethercaves_shipwreckedworld=1,
-      tropicalshards=0,
-      underwater=true,
-      volcaniceruption=10,
-      wind=10 
+      audio=false,
+      audio_cherrymusic=true,
+      audio_mutemobs=1,
+      biome=false,
+      biome_caves=false,
+      biome_forestsize=2,
+      biome_generation="archipelago",
+      biome_wormhole=false,
+      character=false,
+      character_spawnpoint=1,
+      character_wirlywings=false,
+      language=false,
+      language_set="english",
+      misc=false,
+      misc_bloomprint=0.01,
+      misc_cherrycraft=false,
+      misc_cherryvignettes=false,
+      misc_craftingtab=false,
+      misc_minigame=75,
+      misc_skins=true 
     },
     enabled=true 
   },
@@ -83,6 +40,17 @@ return {
     enabled=true 
   },
   ["workshop-1637709131"]={ configuration_options={  }, enabled=true },
+  ["workshop-1951468597"]={
+    configuration_options={
+      CanSpawnSpore=true,
+      HouseHammered=true,
+      HouseLanguage=true,
+      NewInteriors=true,
+      NewWalls=true,
+      Tardis=false 
+    },
+    enabled=true 
+  },
   ["workshop-2208128427"]={
     configuration_options={
       LOOT_PUMP_EQUIP=true,
@@ -313,6 +281,14 @@ return {
       watson_concoction_stomachache_on_eat_damage=5,
       watson_concoction_sweat_moisture_per_sec=1,
       watson_concoction_total_poison_dps=1 
+    },
+    enabled=true 
+  },
+  ["workshop-2420839895"]={
+    configuration_options={
+      ROPE_BRIDGE_BOARDS_RATIO=0.375,
+      ROPE_BRIDGE_DISTANCE=16,
+      ROPE_BRIDGE_ROPE_RATIO=0.375 
     },
     enabled=true 
   },
@@ -685,6 +661,10 @@ return {
       irys_hope_sanity=225,
       irys_hope_voice="willow" 
     },
+    enabled=true 
+  },
+  ["workshop-362191380"]={
+    configuration_options={ DEBUG_MODE=0, NETSCORE_THRESHOLD=2, REFRESH_INTERVAL=1, USE_INVINCIBLE=0 },
     enabled=true 
   },
   ["workshop-444235588"]={

@@ -1,0 +1,2180 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 69%
+	Available Physical Memory: 4947m/16221m
+	Available Page File: 11485m/27997m
+	Available Virtual Memory: 134213509m/134217727m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 11m
+	Working Set Size: 11m
+	Quota Peak Page Pool Usage: 175k
+	Quota Page Pool Usage: 175k
+	Quota Peak Non Paged Pool Usage:12k
+	Quota Non Paged Pool Usage: 12k
+	Page File Usage: 3m
+	Peak Page File Usage: 3m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/DoNotStarveTogetherDedicated/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 478446
+[00:00:00]: Current time: Thu Sep 16 06:49:31 2021
+
+[00:00:00]: Don't Starve Together: 478446 WIN32
+[00:00:00]: Build Date: 242
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -console -cluster DoNotStarveTogetherDedicated -shard Master 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (42520)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10999, 27016)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: ProfileIndex:2.95
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: THREAD - started 'Ping Job Thread' (42564)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application D:\Steam\steamapps\common\Don't Starve Together Dedicated Server\bin64\dontstarve_dedicated_server_nullrenderer_x64.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/DoNotStarveTogetherDedicated/blocklist.txt (Failure)
+[00:00:00]: THREAD - started 'StreamInput' (42588)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/DoNotStarveTogetherDedicated/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/DoNotStarveTogetherDedicated/whitelist.txt (Failure)
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/DoNotStarveTogetherDedicated/cluster_token.txt
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/DoNotStarveTogetherDedicated/cluster_token.txt
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Home
+    version                   10.0.19042
+    platformSpecific          SP 0.0
+    architecture              64-bit
+  CPU                       
+    clockSpeed                2592
+    name                      Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+    manufacturer              GenuineIntel
+    numCores                  6
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    megsOfRam                 1024
+    videoModeDescription      1920 x 1080 x 4294967296 colors
+    name                      Intel(R) UHD Graphics 630
+    driverVersion             25.20.100.6617
+    driverDate                20190308000000.000000-000
+    refreshRate               144
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: AppVersion::GetArchitecture() x64
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: running main.lua
+	
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:01]: SUCCESS: Loaded modoverrides.lua	
+[00:00:02]: modoverrides.lua enabling workshop-1207269058	
+[00:00:02]: modoverrides.lua enabling workshop-2358978811	
+[00:00:02]: modoverrides.lua enabling workshop-1289779251	
+[00:00:02]: modoverrides.lua enabling workshop-2411450759	
+[00:00:02]: modoverrides.lua enabling workshop-2289662010	
+[00:00:02]: modoverrides.lua enabling workshop-2304170675	
+[00:00:02]: modoverrides.lua enabling workshop-2410382718	
+[00:00:02]: modoverrides.lua enabling workshop-2336991112	
+[00:00:02]: modoverrides.lua enabling workshop-2431606769	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2304170675	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2410382718	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2289662010	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2336991112	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2358978811	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2431606769	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1289779251	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2411450759	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2304170675_CLIENT	
+[00:00:02]: Loading mod: workshop-2304170675 (Takanashi Kiara) Version:1.8.0	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2410382718_CLIENT	
+[00:00:02]: Loading mod: workshop-2410382718 (Ninomae Ina'nis) Version:1.2.3	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2289662010_CLIENT	
+[00:00:02]: Loading mod: workshop-2289662010 (Rail Cart) Version:1.06	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1207269058_CLIENT	
+[00:00:02]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.15	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2336991112_CLIENT	
+[00:00:02]: Loading mod: workshop-2336991112 (Calliope Mori) Version:1.6.0	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2358978811_CLIENT	
+[00:00:02]: Loading mod: workshop-2358978811 (Gawr Gura) Version:1.5.6	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2431606769_CLIENT	
+[00:00:02]: Loading mod: workshop-2431606769 (Hoshimachi Suisei) Version:1.1.2	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1289779251_CLIENT	
+[00:00:02]: Loading mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  ) Version:1.6-pre25r	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2411450759_CLIENT	
+[00:00:02]: Loading mod: workshop-2411450759 (Amelia Watson) Version:1.1.4	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2358978811	
+[00:00:02]: Overriding mod workshop-2358978811's option  with value 0	
+[00:00:02]: Overriding mod workshop-2358978811's option  with value 0	
+[00:00:02]: Overriding mod workshop-2358978811's option  with value 0	
+[00:00:02]: Overriding mod workshop-2358978811's option  with value 0	
+[00:00:02]: Overriding mod workshop-2358978811's option Others with value 0	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_hunger with value 250	
+[00:00:02]: Overriding mod workshop-2358978811's option Wetness with value 0	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_trident_dmg with value 34	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_dmg with value 1	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_trident_spell_amount with value 5	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_trident_durability with value 300	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_voice with value gura	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_wet_sanity with value 0	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_trident_spell_mining with value false	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_trident_recipe with value 1	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_health with value 100	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_trident_spell_durability with value 150	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_speed with value 1.25	
+[00:00:02]: Overriding mod workshop-2358978811's option Basic Stats with value 0	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_starting_items with value 0	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_swim_rate with value 5	
+[00:00:02]: Overriding mod workshop-2358978811's option Friends with value 0	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_dry_sanity with value 0	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_friends with value 1	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_dry_rate with value 1	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_clothes with value false	
+[00:00:02]: Overriding mod workshop-2358978811's option Trident with value 0	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_sanity with value 100	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_hunger_rate with value 1.25	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1289779251	
+[00:00:02]: Overriding mod workshop-1289779251's option biome_caves with value false	
+[00:00:02]: Overriding mod workshop-1289779251's option misc with value false	
+[00:00:02]: Overriding mod workshop-1289779251's option character_wirlywings with value false	
+[00:00:02]: Overriding mod workshop-1289779251's option character with value false	
+[00:00:02]: Overriding mod workshop-1289779251's option language with value false	
+[00:00:02]: Overriding mod workshop-1289779251's option misc_minigame with value 75	
+[00:00:02]: Overriding mod workshop-1289779251's option biome with value false	
+[00:00:02]: Overriding mod workshop-1289779251's option biome_forestsize with value 2	
+[00:00:02]: Overriding mod workshop-1289779251's option biome_wormhole with value false	
+[00:00:02]: Overriding mod workshop-1289779251's option misc_cherrycraft with value false	
+[00:00:02]: Overriding mod workshop-1289779251's option misc_bloomprint with value 0.01	
+[00:00:02]: Overriding mod workshop-1289779251's option biome_generation with value archipelago	
+[00:00:02]: Overriding mod workshop-1289779251's option language_set with value english	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2411450759	
+[00:00:02]: Overriding mod workshop-2411450759's option  with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option  with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option  with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option  with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option  with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option  with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option  with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option  with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_groundpound_key with value KEY_G	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_filter with value true	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_drowsiness_enable with value true	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_speed with value 1.1	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_sanity with value 200	
+[00:00:02]: Overriding mod workshop-2411450759's option Concoction - Buffs with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_sanity_penalty_on_salt with value 10	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_toxic_gamer_lines_enabled with value true	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_dmg with value 1	
+[00:00:02]: Overriding mod workshop-2411450759's option Basic Stats with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_watch_recipe with value 1	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_hunger with value 150	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_groundpound_radius with value 5	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_sweat_moisture_per_sec with value 1	
+[00:00:02]: Overriding mod workshop-2411450759's option Salty Gamer with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option Bubba with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_sanity_regen_amount with value 50	
+[00:00:02]: Overriding mod workshop-2411450759's option Groundpound with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_hunger_rate with value 1	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_groundpound_destroy_structure_enabled with value false	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_total_poison_dps with value 1	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_clothes with value false	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_health with value 150	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_voice with value willow	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_absorption_modifier with value 0.3	
+[00:00:02]: Overriding mod workshop-2411450759's option bubba_dig_chance with value 0.3	
+[00:00:02]: Overriding mod workshop-2411450759's option Watson Concoction with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_stomachache_hunger_damage with value 50	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_health_regen_amount with value 70	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_movespeed_buff with value 1.6	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_groundpound_dmg_multi with value 2	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_duration with value 25	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_salt_droprate_attacked with value 0.3	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_watch_max_uses with value 3	
+[00:00:02]: Overriding mod workshop-2411450759's option bubba_dig_enabled with value true	
+[00:00:02]: Overriding mod workshop-2411450759's option Timeleap with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_attack_multiplier with value 1.3	
+[00:00:02]: Overriding mod workshop-2411450759's option bubba_dig_cooldown with value 15	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_recipe with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_groundpound_hunger_cost with value 30	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_headache_sanity_damage with value 50	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_starting with value 2	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_watch_timeleap_secs with value 5	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_stomachache_on_eat_damage with value 5	
+[00:00:02]: Overriding mod workshop-2411450759's option Others with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option Concoction - Side Effects with value 0	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2289662010	
+[00:00:02]: Overriding mod workshop-2289662010's option RAILCART_SPAWNSMOKE with value true	
+[00:00:02]: Overriding mod workshop-2289662010's option RAILCART_PLAYSOUND with value true	
+[00:00:02]: Overriding mod workshop-2289662010's option RAILCART_SPEEDUP with value 1	
+[00:00:02]: Overriding mod workshop-2289662010's option RAILCART_CRAFTAMOUNT with value 6	
+[00:00:02]: Overriding mod workshop-2289662010's option RAILCART_DAMPING with value 1	
+[00:00:02]: Overriding mod workshop-2289662010's option RAILCART_BRAKING with value 1	
+[00:00:02]: Overriding mod workshop-2289662010's option RAILCART_FIREPROOF with value false	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2304170675	
+[00:00:02]: Overriding mod workshop-2304170675's option  with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option  with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option  with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option  with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option  with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option  with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option Other Perks with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_sword_starting with value true	
+[00:00:02]: Overriding mod workshop-2304170675's option Sword and Shield Fuel with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_hunger_rate with value 1	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_resurrection_cd with value 480	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_sanity with value 100	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_freeze_resist with value 2	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_shield_cd with value 4	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_cold_resist with value -50	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_ms with value 0.9	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_sword_flame with value true	
+[00:00:02]: Overriding mod workshop-2304170675's option Basic Stats with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_fuel with value 4	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_dmg with value 1	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_resu_key with value KEY_Z	
+[00:00:02]: Overriding mod workshop-2304170675's option Resurrection with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_sword_dmg with value 51	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_health with value 175	
+[00:00:02]: Overriding mod workshop-2304170675's option Flaming Sword with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option Svalinn with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_food with value true	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_sword_durability with value 2.4	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_heat_resist with value true	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_shield_recipe with value 1	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_sword_wet with value 50	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_sword_recipe with value 1	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_clothes with value false	
+[00:00:02]: Overriding mod workshop-2304170675's option Resistances with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_resu_penalty with value true	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_sword_hunger with value 5	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_shield_durability with value 25	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_hunger with value 150	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2410382718	
+[00:00:02]: Overriding mod workshop-2410382718's option  with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option  with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option  with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option  with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option  with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option Other Perks with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_tako_health with value 125	
+[00:00:02]: Overriding mod workshop-2410382718's option Wetness with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_block with value 70	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_clothes with value false	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_tako_monster with value false	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_sanity with value 250	
+[00:00:02]: Overriding mod workshop-2410382718's option Basic Stats with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_dry_rate with value 1	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_crowbar_dmg with value 51	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_hunger with value 150	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_summon_cost_health with value 20	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_dmg with value 1	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_summon_cost_sanity with value 20	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_wet_sanity with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_tentacles_size with value 100	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_crowbar_rp with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option Takodachis with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_sanity_cost with value 10	
+[00:00:02]: Overriding mod workshop-2410382718's option Crowbar with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_swim_rate with value 5	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_crowbar_durability with value 200	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_voice with value wickerbottom	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_tako_regen with value 10	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_tako_damage with value 6	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_starting with value true	
+[00:00:02]: Overriding mod workshop-2410382718's option The Ancient Ones with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_return_damage with value 50	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_health with value 125	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_ms with value 1	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_monster with value true	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_hunger_rate with value 1	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_dry_sanity with value 0	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2336991112	
+[00:00:02]: Overriding mod workshop-2336991112's option  with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option  with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option  with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option  with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option  with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option  with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option  with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option Other Perks with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_cursed with value true	
+[00:00:02]: Overriding mod workshop-2336991112's option Visual Config with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option Guzzler Hat with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_tsun with value true	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_speed with value 1	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_hat_interval with value 6	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_kazoo_durability with value 4	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_reap_heal with value 5	
+[00:00:02]: Overriding mod workshop-2336991112's option Basic Stats with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option Scythe with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_clothes with value false	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_hud with value true	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_reap_counter with value 60	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_hunger with value 125	
+[00:00:02]: Overriding mod workshop-2336991112's option Sleeping (Death) with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_health with value 125	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_dmg with value 1	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_hunger_rate with value 1	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_hat_durability with value 9	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_mori_grave with value 0.04	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_sleep_penalty with value true	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_sleep_soulrate with value 1	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_starters with value true	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_reap_onhurt with value 1	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_scythe_durability with value 666	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_sleep_recovery with value 1	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_sleep_duration with value 30	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_scythe_dmg with value 68	
+[00:00:02]: Overriding mod workshop-2336991112's option Kazoo with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_immortal with value true	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_scythe_maxrate with value 70	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_scythe_crit_dmg with value 3	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_sanity with value 200	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_soul_strike with value 5	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_scythe_recipe with value 1	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_hat_conversion with value 2	
+[00:00:02]: Overriding mod workshop-2336991112's option Souls with value 0	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2431606769	
+[00:00:02]: Overriding mod workshop-2431606769's option  with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option  with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option  with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option  with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option  with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option  with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option  with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option  with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_kill_base_sanity_gain with value 10	
+[00:00:02]: Overriding mod workshop-2431606769's option anemachi_bl_durability with value 1000	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_activation_kill_time with value 7	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_fear_ghost_dark with value true	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_hunger_rate with value 1	
+[00:00:02]: Overriding mod workshop-2431606769's option Hitwoman Idol with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_health with value 150	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_activation_heart_consumption with value true	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_dmg with value 1	
+[00:00:02]: Overriding mod workshop-2431606769's option Basic Stats with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option anemachi_bl_recipe with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_axe_efficiency with value 1	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_tblock_damage with value 68	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_starting_items with value 1	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_tblock_recipe with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_attack_boss_sanity_gain with value 10	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_tblock_proj_speed with value 10	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_tblock_auto_catch with value true	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_tblock_uses with value 20	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_axe_dmg_multi with value 1.5	
+[00:00:02]: Overriding mod workshop-2431606769's option Others with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_sanity with value 220	
+[00:00:02]: Overriding mod workshop-2431606769's option Suicopath - Basic with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option Tetris Queen with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_regular_kill_sanity_gain with value 5	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_on_kill_victim_heart_droprate with value 1	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_language with value JP	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_dont_eat_vegetable with value true	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_clothes with value false	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_multiaxe_dmg_multi with value 2.5	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_goldenaxe_dmg_multi with value 2.5	
+[00:00:02]: Overriding mod workshop-2431606769's option Suicopath - On Kill with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_moonglassaxe_dmg_multi with value 2.5	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_movespeed with value 1	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_hunger with value 120	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_axe_durability with value 1.2	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_screen_effect with value true	
+[00:00:02]: Overriding mod workshop-2431606769's option Axe Proficiency with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_player_kill_gain_multi with value 1.5	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_largecreature_kill_gain_multi with value 2	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_kill_base_health_gain with value 20	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_insanity_aura_sanity_drain with value 3	
+[00:00:02]: Overriding mod workshop-2431606769's option BL Fanbook with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_deactivation_sanity_percent with value 0.1	
+[00:00:02]: Overriding mod workshop-2431606769's option Language/言語 with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_base_damage_multi with value 1.2	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_attack_living_sanity_gain with value 5	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_activation_kill_counts with value 5	
+[00:00:02]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	Loading modworldgenmain.lua	
+[00:00:02]: modimport: ../mods/workshop-1289779251/tile_adder.lua	
+[00:00:02]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_assets	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_characters	
+[00:00:02]: modimport: ../mods/workshop-1289779251/skins_api	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_prefabs	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_recipes	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_tuning	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_widgets	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/fx	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/minimap_icons	
+[00:00:02]: modimport: ../mods/workshop-1289779251/postinit/prefabs/bee	
+[00:00:02]: modimport: ../mods/workshop-1289779251/postinit/prefabs/birds	
+[00:00:02]: modimport: ../mods/workshop-1289779251/postinit/prefabs/forest	
+[00:00:02]: modimport: ../mods/workshop-1289779251/postinit/prefabs/firepit	
+[00:00:02]: modimport: ../mods/workshop-1289779251/postinit/prefabs/hats	
+[00:00:02]: modimport: ../mods/workshop-1289779251/postinit/prefabs/moonbase	
+[00:00:02]: modimport: ../mods/workshop-1289779251/postinit/prefabs/shadowskittish	
+[00:00:02]: modimport: ../mods/workshop-1289779251/postinit/prefabs/wilson	
+[00:00:02]: modimport: ../mods/workshop-1289779251/postinit/prefabs/winona_battery_high	
+[00:00:02]: modimport: ../mods/workshop-1289779251/postinit/components/ambientsound	
+[00:00:02]: modimport: ../mods/workshop-1289779251/postinit/stategraph/chester	
+[00:00:02]: modimport: ../mods/workshop-1289779251/postinit/stategraph/wilson	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wilson.lua	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_descriptions/willow.lua	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wolfgang.lua	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wendy.lua	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wx78.lua	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wickerbottom.lua	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_descriptions/woodie.lua	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wes.lua	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_descriptions/waxwell.lua	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wathgrithr.lua	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_descriptions/webber.lua	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_descriptions/winona.lua	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wortox.lua	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wormwood.lua	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_descriptions/warly.lua	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wurt.lua	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_descriptions/walter.lua	
+[00:00:02]: Mod: workshop-2304170675 (Takanashi Kiara)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-2304170675 (Takanashi Kiara)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-2304170675 (Takanashi Kiara)	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-2304170675/scripts/util/kiara_fx.lua	
+[00:00:02]: modimport: ../mods/workshop-2304170675/scripts/util/kiara_settings.lua	
+[00:00:02]: modimport: ../mods/workshop-2304170675/scripts/util/kiara_recipes.lua	
+[00:00:02]: modimport: ../mods/workshop-2304170675/scripts/widgets/kiara_widgets.lua	
+[00:00:02]: modimport: ../mods/workshop-2304170675/scripts/util/kiara_fuel.lua	
+[00:00:02]: modimport: ../mods/workshop-2304170675/scripts/stategraphs/kiara_states.lua	
+[00:00:02]: modimport: ../mods/workshop-2304170675/scripts/stategraphs/kiara_shieldparry.lua	
+[00:00:02]: modimport: ../mods/workshop-2304170675/scripts/util/kiara_skins.lua	
+[00:00:02]: Mod: workshop-2289662010 (Rail Cart)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-2289662010 (Rail Cart)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-2289662010 (Rail Cart)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-2410382718 (Ninomae Ina'nis)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-2410382718 (Ninomae Ina'nis)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-2410382718 (Ninomae Ina'nis)	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-2410382718/scripts/util/ninomae_skins.lua	
+[00:00:02]: modimport: ../mods/workshop-2410382718/scripts/util/ninomae_settings.lua	
+[00:00:02]: modimport: ../mods/workshop-2410382718/scripts/stategraphs/ninomae_states.lua	
+[00:00:02]: modimport: ../mods/workshop-2410382718/scripts/util/ninomae_recipes.lua	
+[00:00:02]: modimport: ../mods/workshop-2410382718/scripts/util/ninomae_fx.lua	
+[00:00:02]: Mod: workshop-2431606769 (Hoshimachi Suisei)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-2431606769 (Hoshimachi Suisei)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-2431606769 (Hoshimachi Suisei)	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-2431606769/scripts/util/suisei_settings.lua	
+[00:00:02]: modimport: ../mods/workshop-2431606769/scripts/util/suisei_recipes.lua	
+[00:00:02]: modimport: ../mods/workshop-2431606769/scripts/stategraphs/suisei_states.lua	
+[00:00:02]: modimport: ../mods/workshop-2431606769/scripts/util/suisei_skins.lua	
+[00:00:02]: modimport: ../mods/workshop-2431606769/scripts/util/suisei_fx.lua	
+[00:00:02]: Mod: workshop-2358978811 (Gawr Gura)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-2358978811 (Gawr Gura)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-2358978811 (Gawr Gura)	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-2358978811/scripts/util/gura_skins.lua	
+[00:00:02]: modimport: ../mods/workshop-2358978811/scripts/util/gura_settings.lua	
+[00:00:02]: modimport: ../mods/workshop-2358978811/scripts/util/gura_recipes.lua	
+[00:00:02]: modimport: ../mods/workshop-2358978811/scripts/util/gura_swim.lua	
+[00:00:02]: modimport: ../mods/workshop-2358978811/scripts/util/gura_modprefabs.lua	
+[00:00:02]: Mod: workshop-2336991112 (Calliope Mori)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-2336991112 (Calliope Mori)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-2336991112 (Calliope Mori)	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-2336991112/scripts/util/calliope_skins.lua	
+[00:00:02]: modimport: ../mods/workshop-2336991112/scripts/util/calliope_settings.lua	
+[00:00:02]: modimport: ../mods/workshop-2336991112/scripts/util/calliope_recipes.lua	
+[00:00:02]: modimport: ../mods/workshop-2336991112/scripts/util/calliope_widget.lua	
+[00:00:02]: modimport: ../mods/workshop-2336991112/scripts/util/calliope_states.lua	
+[00:00:02]: Mod: workshop-2411450759 (Amelia Watson)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-2411450759 (Amelia Watson)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-2411450759 (Amelia Watson)	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-2411450759/scripts/util/amelia_settings.lua	
+[00:00:02]: modimport: ../mods/workshop-2411450759/scripts/util/amelia_recipes.lua	
+[00:00:02]: modimport: ../mods/workshop-2411450759/scripts/amelia_states.lua	
+[00:00:02]: modimport: ../mods/workshop-2411450759/scripts/util/amelia_fx.lua	
+[00:00:02]: modimport: ../mods/workshop-2411450759/scripts/util/amelia_skins.lua	
+[00:00:02]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[00:00:02]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:03]: LOADING LUA SUCCESS
+[00:00:03]: Registering Server mod namespace "workshop-1289779251"
+[00:00:03]: Registering Server mod namespace "workshop-2410382718"
+[00:00:03]: Registering Server mod namespace "workshop-2411450759"
+[00:00:03]: Registering Server mod namespace "workshop-1207269058"
+[00:00:03]: Registering Server mod namespace "amelia"
+[00:00:03]: Registering Server mod namespace "workshop-2304170675"
+[00:00:03]: Registering Server mod namespace "workshop-2358978811"
+[00:00:03]: Registering Server mod namespace "workshop-2431606769"
+[00:00:03]: Registering Server mod namespace "workshop-2336991112"
+[00:00:03]: Registering Server mod namespace "railcart"
+[00:00:03]: PlayerDeaths could not load morgue	
+[00:00:03]: PlayerHistory could not load player_history	
+[00:00:03]: ServerPreferences could not load server_preferences	
+[00:00:03]: bloom_enabled	true	
+[00:00:03]: OnFilesLoaded()	
+[00:00:03]: OnUpdatePurchaseStateComplete	
+[00:00:03]: Klump load on boot started.	
+[00:00:03]: Klump files loaded: 	0	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	Registering prefabs	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_tree	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_tree	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_tree_short	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_tree_normal	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_tree_tall	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_tree_white	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_tree_white_short	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_tree_white_normal	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_tree_white_tall	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_tree_petal	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_tree_petal	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_planted_tree	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_sapling	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherrygem_sapling	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_pond	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pond	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    pond_cherryplant	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_petals	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_petals	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_randomplant	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_randomplant	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_randompoi	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_bloomsrooms	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_red_bloomsroom	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_red_bloomsroom_seed	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_red_bloomsroom_seed_placer	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_green_bloomsroom	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_green_bloomsroom_seed	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_green_bloomsroom_seed_placer	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_blue_bloomsroom	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_blue_bloomsroom_seed	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_blue_bloomsroom_seed_placer	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/flower_cherry	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    flower_cherry	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_goosebush	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_goosebush	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_rosebush	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_rosebush	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_daylily	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_daylily	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_magicflower	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_magicflower	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_magicflower_seedy	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_magicflower_short	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_magicflower_med	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_magicflower_tall	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_magicflower_flower	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_magicflower_flower	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_magicflower_seed	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_magicflower_seed	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_magicflower_seed_placer	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_foreststatue	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_foreststatue	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_foreststatue_back	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_foreststatue_light	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_foreststatue_geode	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_foreststatue_sapling	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_foreststatue_perfect_fx	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_props	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_foreststatue_prop_tree	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_foreststatue_prop_bush	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_foreststatue_prop_grass	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_foreststatue_prop_rock	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_watchernest	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_watchernest	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_watchernest_decor	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_watcherfirefly_spawner	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_watcherfirefly_spawner	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_bloomlight	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_bloomlight	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/bloomprint	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    bloomprint	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryamulet_bloomprint	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryaxe_bloomprint	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherrygem_bloomprint	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryhat_bloomprint	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherrystaff_bloomprint	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_beesmoker_bloomprint	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_birdhouse_bloomprint	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_blowdart_distortion_bloomprint	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_blowdart_duplicate_bloomprint	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pacifier_bloomprint	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pot_bloomprint	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_stonelamp_long_bloomprint	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    turf_cherrycraft_bloomprint	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    glommerflower_seed_bloomprint	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    turf_cherry_bloomprint	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherryturf	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    turf_cherry3	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    turf_cherry	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    turf_cherry2	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    turf_cherry4	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherryturf_craft	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    turf_cherrycraft	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_cooked	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_double	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_placer	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherrygem	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherrygem	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cheerfulgem	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherrygem_placer	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cheerfulgem_placer	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_preparedfoods	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pie	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_taffy	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_cola	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_cake	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_taffy_spice_garlic	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_cake_spice_garlic	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_taffy_spice_salt	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_cola_spice_chili	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pie_spice_chili	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_cake_spice_chili	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_taffy_spice_chili	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pie_spice_sugar	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_cola_spice_sugar	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_taffy_spice_sugar	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_cola_spice_garlic	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_cola_spice_salt	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pie_spice_garlic	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_cake_spice_sugar	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pie_spice_salt	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_cake_spice_salt	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_blossom	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_blossom_pink	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_blossom_white	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_blossomlog	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_blossomlog_pink	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/feathers_cherry	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    feather_catbird	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    feather_chaffinch	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/chester_eyebone_cherry	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    chester_eyebone_cherry	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/glommerflower_cherry	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    glommerflower_seed	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    glommerflower_thorn	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    glommerflower_shadow	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    glommerflower_halloween	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherryling	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryling	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryling_ancient	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryling_light	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_bee	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_bee	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_honeyvines	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_honey	
+[00:00:05]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_beepoisonbuff	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_beequeen	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_beequeen	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_beequeenpoisonbuff	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_beeguard	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_beeguard	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_butterfly	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_butterfly	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_butterfly_placer	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_dragonfly	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_dragonfly	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_dragonfly_placer	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_fireflies	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_fireflies	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_birds	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    chaffinch	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    catbird	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/armor_cherry	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    armorcherry	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherryaxe	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryaxe	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherryhat	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryhat	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherryamulet	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryamulet	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryamulet_fx	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherrystaff	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherrystaff	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_boomerang	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_boomerang	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_blowdart	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_blowdart_distortion	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_blowdart_duplicate	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_blowdart_distortionbuff	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherrymooneye	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherrymooneye	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_watcherlantern	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_watcherlantern	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_watcherfirefly	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_nesthat	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_nesthat	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_nesthat_egg	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_beesmoker	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_beesmoker	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_beesmokerfuel	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_beesmoker_smoke	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_beesmoker_placer	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_birdhouse	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_birdhouse	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_birdhouse_placer	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_bonsai	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_bonsai	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_pacifier	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pacifier	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pacifier_fx	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pacifier_placer	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_pot	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pot	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pot_placer	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_stonelamp	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_stonelamp	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_stonelamp_tiny	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_stonelamp_short	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_stonelamp_normal	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_stonelamp_tall	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_stonelamp_dug	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_stonelamp_placer	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_stonelamp_dug_placer	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_upgrades	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryupgrade_friendpit_item	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryupgrade_friendpit	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryupgrade_friendpitfire	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/trophyscale_cherry_bugs	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    trophyscale_cherry_bugs	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    trophyscale_cherry_bugs_placer	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/wirlywings	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    wirlywings	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/wirlywings_none	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    wirlywings_none	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    wirlywings_slurper	
+[00:00:06]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering default mod prefab	
+[00:00:06]: AnimationFile::LoadFile Failed to open anim/cherryturf.zip
+[00:00:07]: AnimationFile::LoadFile Failed to open anim/cherryturf.zip
+[00:00:07]: Could not preload undefined prefab (forgedarts)
+[00:00:07]: Could not preload undefined prefab (featheredtunic)
+[00:00:07]: AnimationFile::LoadFile Failed to open anim/cherryturf.zip
+[00:00:07]: AnimationFile::LoadFile Failed to open anim/cherryturf.zip
+[00:00:07]: Mod: workshop-2304170675 (Takanashi Kiara)	Registering prefabs	
+[00:00:07]: Mod: workshop-2304170675 (Takanashi Kiara)	  Registering prefab file: prefabs/kiara	
+[00:00:07]: Mod: workshop-2304170675 (Takanashi Kiara)	    kiara	
+[00:00:07]: Mod: workshop-2304170675 (Takanashi Kiara)	  Registering prefab file: prefabs/kiara_none	
+[00:00:07]: Mod: workshop-2304170675 (Takanashi Kiara)	    kiara_none	
+[00:00:07]: Mod: workshop-2304170675 (Takanashi Kiara)	    kiara_shadow	
+[00:00:07]: Mod: workshop-2304170675 (Takanashi Kiara)	  Registering prefab file: prefabs/kiara_sword	
+[00:00:07]: Mod: workshop-2304170675 (Takanashi Kiara)	    kiara_sword	
+[00:00:07]: Mod: workshop-2304170675 (Takanashi Kiara)	  Registering prefab file: prefabs/kiara_shield	
+[00:00:07]: Mod: workshop-2304170675 (Takanashi Kiara)	    kiara_shield	
+[00:00:07]: Mod: workshop-2304170675 (Takanashi Kiara)	  Registering prefab file: prefabs/kiara_shield_entity	
+[00:00:07]: Mod: workshop-2304170675 (Takanashi Kiara)	    kiara_shield_entity	
+[00:00:07]: Mod: workshop-2304170675 (Takanashi Kiara)	  Registering default mod prefab	
+[00:00:08]: Mod: workshop-2289662010 (Rail Cart)	Registering prefabs	
+[00:00:08]: Mod: workshop-2289662010 (Rail Cart)	  Registering prefab file: prefabs/railtrack	
+[00:00:08]: Mod: workshop-2289662010 (Rail Cart)	    railtrack_default	
+[00:00:08]: Mod: workshop-2289662010 (Rail Cart)	    railtrack_default_item	
+[00:00:08]: Mod: workshop-2289662010 (Rail Cart)	    railtrack_ocean	
+[00:00:08]: Mod: workshop-2289662010 (Rail Cart)	    railtrack_ocean_item	
+[00:00:08]: Mod: workshop-2289662010 (Rail Cart)	    railtrack_boost	
+[00:00:08]: Mod: workshop-2289662010 (Rail Cart)	    railtrack_boost_item	
+[00:00:08]: Mod: workshop-2289662010 (Rail Cart)	    railtrack_damp	
+[00:00:08]: Mod: workshop-2289662010 (Rail Cart)	    railtrack_damp_item	
+[00:00:08]: Mod: workshop-2289662010 (Rail Cart)	    railtrack_reverse	
+[00:00:08]: Mod: workshop-2289662010 (Rail Cart)	    railtrack_reverse_item	
+[00:00:08]: Mod: workshop-2289662010 (Rail Cart)	  Registering prefab file: prefabs/railtrack_tool	
+[00:00:08]: Mod: workshop-2289662010 (Rail Cart)	    railtrack_tool	
+[00:00:08]: Mod: workshop-2289662010 (Rail Cart)	  Registering prefab file: prefabs/railcart_smoke	
+[00:00:08]: Mod: workshop-2289662010 (Rail Cart)	    railcart_smoke	
+[00:00:08]: Mod: workshop-2289662010 (Rail Cart)	  Registering default mod prefab	
+[00:00:08]: Mod: workshop-2410382718 (Ninomae Ina'nis)	Registering prefabs	
+[00:00:08]: Mod: workshop-2410382718 (Ninomae Ina'nis)	  Registering prefab file: prefabs/ninomae	
+[00:00:08]: Mod: workshop-2410382718 (Ninomae Ina'nis)	    ninomae	
+[00:00:08]: Mod: workshop-2410382718 (Ninomae Ina'nis)	  Registering prefab file: prefabs/ninomae_none	
+[00:00:08]: Mod: workshop-2410382718 (Ninomae Ina'nis)	    ninomae_none	
+[00:00:08]: Mod: workshop-2410382718 (Ninomae Ina'nis)	    ninomae_shadow	
+[00:00:08]: Mod: workshop-2410382718 (Ninomae Ina'nis)	  Registering prefab file: prefabs/ninomae_tentacles	
+[00:00:08]: Mod: workshop-2410382718 (Ninomae Ina'nis)	    ninomae_tentacles	
+[00:00:08]: Mod: workshop-2410382718 (Ninomae Ina'nis)	  Registering prefab file: prefabs/ninomae_aochan	
+[00:00:08]: Mod: workshop-2410382718 (Ninomae Ina'nis)	    ninomae_aochan	
+[00:00:08]: Mod: workshop-2410382718 (Ninomae Ina'nis)	  Registering prefab file: prefabs/ninomae_ripple	
+[00:00:08]: Mod: workshop-2410382718 (Ninomae Ina'nis)	    ninomae_float_fx_front	
+[00:00:08]: Mod: workshop-2410382718 (Ninomae Ina'nis)	    ninomae_float_fx_back	
+[00:00:08]: Mod: workshop-2410382718 (Ninomae Ina'nis)	  Registering prefab file: prefabs/ninomae_takodachi	
+[00:00:08]: Mod: workshop-2410382718 (Ninomae Ina'nis)	    ninomae_takodachi	
+[00:00:08]: Mod: workshop-2410382718 (Ninomae Ina'nis)	    ninomae_takodachi1_builder	
+[00:00:08]: Mod: workshop-2410382718 (Ninomae Ina'nis)	    ninomae_takodachi2_builder	
+[00:00:08]: Mod: workshop-2410382718 (Ninomae Ina'nis)	  Registering prefab file: prefabs/ninomaersh_mallow	
+[00:00:08]: Mod: workshop-2410382718 (Ninomae Ina'nis)	    takomallow	
+[00:00:08]: Mod: workshop-2410382718 (Ninomae Ina'nis)	  Registering prefab file: prefabs/ninomae_crowbar	
+[00:00:08]: Mod: workshop-2410382718 (Ninomae Ina'nis)	    ninomae_crowbar	
+[00:00:08]: Mod: workshop-2410382718 (Ninomae Ina'nis)	  Registering default mod prefab	
+[00:00:08]: Mod: workshop-2431606769 (Hoshimachi Suisei)	Registering prefabs	
+[00:00:08]: Mod: workshop-2431606769 (Hoshimachi Suisei)	  Registering prefab file: prefabs/suisei	
+[00:00:08]: Mod: workshop-2431606769 (Hoshimachi Suisei)	    suisei	
+[00:00:08]: Mod: workshop-2431606769 (Hoshimachi Suisei)	  Registering prefab file: prefabs/suisei_none	
+[00:00:08]: Mod: workshop-2431606769 (Hoshimachi Suisei)	    suisei_none	
+[00:00:08]: Mod: workshop-2431606769 (Hoshimachi Suisei)	  Registering prefab file: prefabs/suisei_tblock	
+[00:00:08]: Mod: workshop-2431606769 (Hoshimachi Suisei)	    suisei_tblock	
+[00:00:08]: Mod: workshop-2431606769 (Hoshimachi Suisei)	  Registering prefab file: prefabs/suisei_victim_hearts	
+[00:00:08]: Mod: workshop-2431606769 (Hoshimachi Suisei)	    rawheartmeat	
+[00:00:08]: Mod: workshop-2431606769 (Hoshimachi Suisei)	    rawheartmeat_large	
+[00:00:08]: Mod: workshop-2431606769 (Hoshimachi Suisei)	    cookedheartmeat	
+[00:00:08]: Mod: workshop-2431606769 (Hoshimachi Suisei)	    cookedheartmeat_large	
+[00:00:08]: Mod: workshop-2431606769 (Hoshimachi Suisei)	  Registering prefab file: prefabs/anemachi_bl	
+[00:00:08]: Mod: workshop-2431606769 (Hoshimachi Suisei)	    anemachi_bl	
+[00:00:08]: Mod: workshop-2431606769 (Hoshimachi Suisei)	  Registering default mod prefab	
+[00:00:09]: Could not preload undefined prefab (suisei_shadow)
+[00:00:09]: Mod: workshop-2358978811 (Gawr Gura)	Registering prefabs	
+[00:00:09]: Mod: workshop-2358978811 (Gawr Gura)	  Registering prefab file: prefabs/gura	
+[00:00:09]: Mod: workshop-2358978811 (Gawr Gura)	    gura	
+[00:00:09]: Mod: workshop-2358978811 (Gawr Gura)	    mermhouse_placer	
+[00:00:09]: Mod: workshop-2358978811 (Gawr Gura)	  Registering prefab file: prefabs/gura_none	
+[00:00:09]: Mod: workshop-2358978811 (Gawr Gura)	    gura_none	
+[00:00:09]: Mod: workshop-2358978811 (Gawr Gura)	    gura_shadow	
+[00:00:09]: Mod: workshop-2358978811 (Gawr Gura)	  Registering prefab file: prefabs/gura_trident	
+[00:00:09]: Mod: workshop-2358978811 (Gawr Gura)	    gura_trident	
+[00:00:09]: Mod: workshop-2358978811 (Gawr Gura)	  Registering prefab file: prefabs/gura_floaties	
+[00:00:09]: Mod: workshop-2358978811 (Gawr Gura)	    gura_floaties	
+[00:00:09]: Mod: workshop-2358978811 (Gawr Gura)	  Registering prefab file: prefabs/gura_ripple	
+[00:00:09]: Mod: workshop-2358978811 (Gawr Gura)	    float_fx_front2	
+[00:00:09]: Mod: workshop-2358978811 (Gawr Gura)	    float_fx_back2	
+[00:00:09]: Mod: workshop-2358978811 (Gawr Gura)	  Registering default mod prefab	
+[00:00:09]: Mod: workshop-2336991112 (Calliope Mori)	Registering prefabs	
+[00:00:09]: Mod: workshop-2336991112 (Calliope Mori)	  Registering prefab file: prefabs/calliope_mori	
+[00:00:09]: Mod: workshop-2336991112 (Calliope Mori)	    calliope_mori	
+[00:00:09]: Mod: workshop-2336991112 (Calliope Mori)	  Registering prefab file: prefabs/calliope_mori_none	
+[00:00:09]: Mod: workshop-2336991112 (Calliope Mori)	    calliope_mori_none	
+[00:00:09]: Mod: workshop-2336991112 (Calliope Mori)	    calliope_mori_shadow	
+[00:00:09]: Mod: workshop-2336991112 (Calliope Mori)	  Registering prefab file: prefabs/calliope_scythe	
+[00:00:09]: Mod: workshop-2336991112 (Calliope Mori)	    calliope_scythe	
+[00:00:09]: Mod: workshop-2336991112 (Calliope Mori)	  Registering prefab file: prefabs/calliope_wine	
+[00:00:09]: Mod: workshop-2336991112 (Calliope Mori)	    calliope_wine	
+[00:00:09]: Mod: workshop-2336991112 (Calliope Mori)	  Registering prefab file: prefabs/calliope_hat	
+[00:00:09]: Mod: workshop-2336991112 (Calliope Mori)	    calliope_hat	
+[00:00:09]: Mod: workshop-2336991112 (Calliope Mori)	  Registering prefab file: prefabs/calliope_kazoo	
+[00:00:09]: Mod: workshop-2336991112 (Calliope Mori)	    calliope_kazoo	
+[00:00:09]: Mod: workshop-2336991112 (Calliope Mori)	  Registering default mod prefab	
+[00:00:09]: Mod: workshop-2411450759 (Amelia Watson)	Registering prefabs	
+[00:00:09]: Mod: workshop-2411450759 (Amelia Watson)	  Registering prefab file: prefabs/amelia	
+[00:00:09]: Mod: workshop-2411450759 (Amelia Watson)	    amelia	
+[00:00:09]: Mod: workshop-2411450759 (Amelia Watson)	  Registering prefab file: prefabs/amelia_none	
+[00:00:09]: Mod: workshop-2411450759 (Amelia Watson)	    amelia_none	
+[00:00:09]: Mod: workshop-2411450759 (Amelia Watson)	    amelia_shadow	
+[00:00:09]: Mod: workshop-2411450759 (Amelia Watson)	  Registering prefab file: prefabs/bubba	
+[00:00:09]: Mod: workshop-2411450759 (Amelia Watson)	    bubba	
+[00:00:09]: Mod: workshop-2411450759 (Amelia Watson)	  Registering prefab file: prefabs/amelia_watch	
+[00:00:09]: Mod: workshop-2411450759 (Amelia Watson)	    amelia_watch	
+[00:00:09]: Mod: workshop-2411450759 (Amelia Watson)	  Registering prefab file: prefabs/watson_concoction	
+[00:00:09]: Mod: workshop-2411450759 (Amelia Watson)	    watson_concoction	
+[00:00:09]: Mod: workshop-2411450759 (Amelia Watson)	  Registering prefab file: prefabs/ameliabuffs	
+[00:00:09]: Mod: workshop-2411450759 (Amelia Watson)	    buff_watsonconcoctioneffect	
+[00:00:09]: Mod: workshop-2411450759 (Amelia Watson)	  Registering prefab file: prefabs/concoction_fx	
+[00:00:09]: Mod: workshop-2411450759 (Amelia Watson)	    conc_poison_drip_fx	
+[00:00:09]: Mod: workshop-2411450759 (Amelia Watson)	    conc_poison_particle_fx	
+[00:00:09]: Mod: workshop-2411450759 (Amelia Watson)	    conc_sweat_fx	
+[00:00:09]: Mod: workshop-2411450759 (Amelia Watson)	  Registering default mod prefab	
+[00:00:10]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[00:00:10]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[00:00:10]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[00:00:10]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[00:00:10]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[00:00:10]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[00:00:10]: 	Load FE	
+[00:00:10]: 	Load FE: done	
+[00:00:10]: THREAD - started 'FilesExistAsyncThread' (36576)
+[00:00:10]: Check for write access: TRUE
+[00:00:10]: FilesExistAsyncThread started (18570 files)...
+[00:00:10]: Check for read access: TRUE
+[00:00:10]: Available disk space for save files: 166258 MB
+[00:00:10]: ModIndex: Load sequence finished successfully.	
+[00:00:10]: Reset() returning
+[00:00:11]: Error: Could not find file: anim/cherrystaff_fx.zip
+[00:00:11]: Error: Could not find file: anim/cherrytree_pink_fx.zip
+[00:00:11]: Error: Could not find file: anim/cherrytree_white_fx.zip
+[00:00:11]: Error: Could not find file: anim/dayliling_fx.zip
+[00:00:11]: Error: Could not find file: anim/dayliling_fx.zip
+[00:00:11]: Error: Could not find file: anim/dayliling_fx.zip
+[00:00:11]: Error: Could not find file: anim/kiara_fx.zip
+[00:00:11]: Error: Could not find file: anim/takosplash.zip
+[00:00:11]: Error: Could not find file: anim/amebuff.zip
+[00:00:11]: Error: Could not find file: anim/amebuff.zip
+[00:00:11]: Error: Could not find file: anim/amebuff.zip
+[00:00:11]: Error: Could not find file: anim/amebuff.zip
+[00:00:11]: Error: Could not find file: anim/amebuff.zip
+[00:00:11]: [200] Account Communication Success (6)
+[00:00:11]: Received (KU_B-XFv0pO) from TokenPurpose
+[00:00:11]: Starting Dedicated Server Game	
+[00:00:11]: Network tick rate: U=15(2), D=0
+[00:00:11]: About to start a server with the following settings:
+[00:00:11]:   Dedicated: true
+[00:00:11]:   Online: true
+[00:00:11]:   Passworded: true
+[00:00:11]:   ServerPort: 10999
+[00:00:11]:   SteamAuthPort: 8766
+[00:00:11]:   SteamMasterServerPort: 27016
+[00:00:11]:   ClanID: false
+[00:00:11]:   ClanOnly: false
+[00:00:11]:   ClanAdmin: false
+[00:00:11]:   LanOnly: false
+[00:00:11]:   FriendsOnly: false
+[00:00:11]:   EnableAutosaver: true
+[00:00:11]:   EncodeUserPath: true
+[00:00:11]:   PVP: false
+[00:00:11]:   MaxPlayers: 20
+[00:00:11]:   GameMode: endless
+[00:00:11]:   OverridenDNS: 
+[00:00:11]:   PauseWhenEmpty: true
+[00:00:11]:   IdleTimeout: 1800s
+[00:00:11]:   VoteEnabled: true
+[00:00:11]:   InternetBroadcasting: true
+[00:00:11]:   Intent: cooperative
+[00:00:11]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-1289779251	
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-2410382718	
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-2411450759	
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-2304170675	
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-2336991112	
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-2358978811	
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-2431606769	
+[00:00:11]: Could not load mod_config_data/modconfiguration_workshop-2289662010	
+[00:00:11]: Online Server Started on port: 10999
+[00:00:11]: SUCCESS: Loaded modoverrides.lua	
+[00:00:11]: Found a level data override file with these contents:	
+[00:00:11]: 	K: 	desc	 V: 	The standard Don't Starve experience.	
+[00:00:11]: 	K: 	hideminimap	 V: 	false	
+[00:00:11]: 	K: 	id	 V: 	SURVIVAL_TOGETHER	
+[00:00:11]: 	K: 	location	 V: 	forest	
+[00:00:11]: 	K: 	max_playlist_position	 V: 	999	
+[00:00:11]: 	K: 	min_playlist_position	 V: 	0	
+[00:00:11]: 	K: 	name	 V: 	Standard Forest	
+[00:00:11]: 	K: 	numrandom_set_pieces	 V: 	4	
+[00:00:11]: 	K: 	override_level_string	 V: 	false	
+[00:00:11]: 	K: 	overrides	 V: 	table: 00000000125DFDD0	
+[00:00:11]: 		K: 	alternatehunt	 V: 	default	
+[00:00:11]: 		K: 	angrybees	 V: 	default	
+[00:00:11]: 		K: 	antliontribute	 V: 	default	
+[00:00:11]: 		K: 	autumn	 V: 	default	
+[00:00:11]: 		K: 	bats_setting	 V: 	default	
+[00:00:11]: 		K: 	bearger	 V: 	default	
+[00:00:11]: 		K: 	beefalo	 V: 	default	
+[00:00:11]: 		K: 	beefaloheat	 V: 	default	
+[00:00:11]: 		K: 	beequeen	 V: 	default	
+[00:00:11]: 		K: 	bees	 V: 	default	
+[00:00:11]: 		K: 	bees_setting	 V: 	default	
+[00:00:11]: 		K: 	berrybush	 V: 	default	
+[00:00:11]: 		K: 	birds	 V: 	default	
+[00:00:11]: 		K: 	bloomshrooms	 V: 	default	
+[00:00:11]: 		K: 	boons	 V: 	default	
+[00:00:11]: 		K: 	branching	 V: 	default	
+[00:00:11]: 		K: 	brightmarecreatures	 V: 	default	
+[00:00:11]: 		K: 	bunnymen_setting	 V: 	default	
+[00:00:11]: 		K: 	butterfly	 V: 	default	
+[00:00:11]: 		K: 	buzzard	 V: 	default	
+[00:00:11]: 		K: 	cactus	 V: 	default	
+[00:00:11]: 		K: 	carrot	 V: 	default	
+[00:00:11]: 		K: 	carrots_regrowth	 V: 	default	
+[00:00:11]: 		K: 	catcoon	 V: 	default	
+[00:00:11]: 		K: 	catcoons	 V: 	default	
+[00:00:11]: 		K: 	cherry_dragonflies	 V: 	default	
+[00:00:11]: 		K: 	cherry_trees	 V: 	default	
+[00:00:11]: 		K: 	cherryforest_size	 V: 	default	
+[00:00:11]: 		K: 	cherrylings	 V: 	default	
+[00:00:11]: 		K: 	cherrysetpieces	 V: 	default	
+[00:00:11]: 		K: 	chess	 V: 	default	
+[00:00:11]: 		K: 	cookiecutters	 V: 	default	
+[00:00:11]: 		K: 	crabking	 V: 	default	
+[00:00:11]: 		K: 	day	 V: 	default	
+[00:00:11]: 		K: 	deciduousmonster	 V: 	default	
+[00:00:11]: 		K: 	deciduoustree_regrowth	 V: 	default	
+[00:00:11]: 		K: 	deerclops	 V: 	default	
+[00:00:11]: 		K: 	dragonfly	 V: 	default	
+[00:00:11]: 		K: 	dropeverythingondespawn	 V: 	default	
+[00:00:11]: 		K: 	evergreen_regrowth	 V: 	default	
+[00:00:11]: 		K: 	extrastartingitems	 V: 	default	
+[00:00:11]: 		K: 	fishschools	 V: 	default	
+[00:00:11]: 		K: 	flint	 V: 	default	
+[00:00:11]: 		K: 	flowers	 V: 	default	
+[00:00:11]: 		K: 	flowers_regrowth	 V: 	default	
+[00:00:11]: 		K: 	frograin	 V: 	default	
+[00:00:11]: 		K: 	frogs	 V: 	default	
+[00:00:11]: 		K: 	fruitfly	 V: 	default	
+[00:00:11]: 		K: 	gnarwail	 V: 	default	
+[00:00:11]: 		K: 	goosebushes	 V: 	default	
+[00:00:11]: 		K: 	goosemoose	 V: 	default	
+[00:00:11]: 		K: 	grass	 V: 	default	
+[00:00:11]: 		K: 	grassgekkos	 V: 	default	
+[00:00:11]: 		K: 	has_ocean	 V: 	true	
+[00:00:11]: 		K: 	honeyvines	 V: 	default	
+[00:00:11]: 		K: 	hound_mounds	 V: 	default	
+[00:00:11]: 		K: 	houndmound	 V: 	default	
+[00:00:11]: 		K: 	hounds	 V: 	default	
+[00:00:11]: 		K: 	hunt	 V: 	default	
+[00:00:11]: 		K: 	keep_disconnected_tiles	 V: 	true	
+[00:00:11]: 		K: 	klaus	 V: 	default	
+[00:00:11]: 		K: 	krampus	 V: 	default	
+[00:00:11]: 		K: 	layout_mode	 V: 	LinkNodesByKeys	
+[00:00:11]: 		K: 	liefs	 V: 	default	
+[00:00:11]: 		K: 	lightning	 V: 	default	
+[00:00:11]: 		K: 	lightninggoat	 V: 	default	
+[00:00:11]: 		K: 	loop	 V: 	default	
+[00:00:11]: 		K: 	lureplants	 V: 	default	
+[00:00:11]: 		K: 	malbatross	 V: 	default	
+[00:00:11]: 		K: 	marshbush	 V: 	default	
+[00:00:11]: 		K: 	merm	 V: 	default	
+[00:00:11]: 		K: 	merms	 V: 	default	
+[00:00:11]: 		K: 	meteorshowers	 V: 	default	
+[00:00:11]: 		K: 	meteorspawner	 V: 	default	
+[00:00:11]: 		K: 	moles	 V: 	default	
+[00:00:11]: 		K: 	moles_setting	 V: 	default	
+[00:00:11]: 		K: 	moon_berrybush	 V: 	default	
+[00:00:11]: 		K: 	moon_bullkelp	 V: 	default	
+[00:00:11]: 		K: 	moon_carrot	 V: 	default	
+[00:00:11]: 		K: 	moon_fissure	 V: 	default	
+[00:00:11]: 		K: 	moon_fruitdragon	 V: 	default	
+[00:00:11]: 		K: 	moon_hotspring	 V: 	default	
+[00:00:11]: 		K: 	moon_rock	 V: 	default	
+[00:00:11]: 		K: 	moon_sapling	 V: 	default	
+[00:00:11]: 		K: 	moon_spider	 V: 	default	
+[00:00:11]: 		K: 	moon_spiders	 V: 	default	
+[00:00:11]: 		K: 	moon_starfish	 V: 	default	
+[00:00:11]: 		K: 	moon_tree	 V: 	default	
+[00:00:11]: 		K: 	moon_tree_regrowth	 V: 	default	
+[00:00:11]: 		K: 	mosquitos	 V: 	default	
+[00:00:11]: 		K: 	mushroom	 V: 	default	
+[00:00:11]: 		K: 	mutated_hounds	 V: 	default	
+[00:00:11]: 		K: 	no_joining_islands	 V: 	true	
+[00:00:11]: 		K: 	no_wormholes_to_disconnected_tiles	 V: 	true	
+[00:00:11]: 		K: 	ocean_bullkelp	 V: 	default	
+[00:00:11]: 		K: 	ocean_seastack	 V: 	ocean_default	
+[00:00:11]: 		K: 	ocean_shoal	 V: 	default	
+[00:00:11]: 		K: 	ocean_waterplant	 V: 	ocean_default	
+[00:00:11]: 		K: 	ocean_wobsterden	 V: 	default	
+[00:00:11]: 		K: 	penguins	 V: 	default	
+[00:00:11]: 		K: 	penguins_moon	 V: 	default	
+[00:00:11]: 		K: 	perd	 V: 	default	
+[00:00:11]: 		K: 	petalwind	 V: 	default	
+[00:00:11]: 		K: 	petrification	 V: 	default	
+[00:00:11]: 		K: 	pigs	 V: 	default	
+[00:00:11]: 		K: 	pigs_setting	 V: 	default	
+[00:00:11]: 		K: 	ponds	 V: 	default	
+[00:00:11]: 		K: 	prefabswaps_start	 V: 	default	
+[00:00:11]: 		K: 	rabbits	 V: 	default	
+[00:00:11]: 		K: 	rabbits_setting	 V: 	default	
+[00:00:11]: 		K: 	reeds	 V: 	default	
+[00:00:11]: 		K: 	regrowth	 V: 	default	
+[00:00:11]: 		K: 	roads	 V: 	default	
+[00:00:11]: 		K: 	rock	 V: 	default	
+[00:00:11]: 		K: 	rock_ice	 V: 	default	
+[00:00:11]: 		K: 	rosebushes	 V: 	default	
+[00:00:11]: 		K: 	saltstack_regrowth	 V: 	default	
+[00:00:11]: 		K: 	sapling	 V: 	default	
+[00:00:11]: 		K: 	season_start	 V: 	default	
+[00:00:11]: 		K: 	seasonalstartingitems	 V: 	default	
+[00:00:11]: 		K: 	shadowcreatures	 V: 	default	
+[00:00:11]: 		K: 	sharks	 V: 	default	
+[00:00:11]: 		K: 	spawnprotection	 V: 	default	
+[00:00:11]: 		K: 	specialevent	 V: 	default	
+[00:00:11]: 		K: 	spider_warriors	 V: 	default	
+[00:00:11]: 		K: 	spiderqueen	 V: 	default	
+[00:00:11]: 		K: 	spiders	 V: 	default	
+[00:00:11]: 		K: 	spiders_setting	 V: 	default	
+[00:00:11]: 		K: 	spring	 V: 	default	
+[00:00:11]: 		K: 	squid	 V: 	default	
+[00:00:11]: 		K: 	start_location	 V: 	default	
+[00:00:11]: 		K: 	summer	 V: 	default	
+[00:00:11]: 		K: 	tallbirds	 V: 	default	
+[00:00:11]: 		K: 	task_set	 V: 	default	
+[00:00:11]: 		K: 	tentacles	 V: 	default	
+[00:00:11]: 		K: 	touchstone	 V: 	default	
+[00:00:11]: 		K: 	trees	 V: 	default	
+[00:00:11]: 		K: 	tumbleweed	 V: 	default	
+[00:00:11]: 		K: 	twiggytrees_regrowth	 V: 	default	
+[00:00:11]: 		K: 	walrus	 V: 	default	
+[00:00:11]: 		K: 	walrus_setting	 V: 	default	
+[00:00:11]: 		K: 	wasps	 V: 	default	
+[00:00:11]: 		K: 	watchernests	 V: 	default	
+[00:00:11]: 		K: 	weather	 V: 	default	
+[00:00:11]: 		K: 	wildfires	 V: 	default	
+[00:00:11]: 		K: 	winter	 V: 	default	
+[00:00:11]: 		K: 	wobsters	 V: 	default	
+[00:00:11]: 		K: 	world_size	 V: 	default	
+[00:00:11]: 		K: 	wormhole_prefab	 V: 	wormhole	
+[00:00:11]: 	K: 	random_set_pieces	 V: 	table: 00000000125E00F0	
+[00:00:11]: 		K: 	1	 V: 	Sculptures_2	
+[00:00:11]: 		K: 	2	 V: 	Sculptures_3	
+[00:00:11]: 		K: 	3	 V: 	Sculptures_4	
+[00:00:11]: 		K: 	4	 V: 	Sculptures_5	
+[00:00:11]: 		K: 	5	 V: 	Chessy_1	
+[00:00:11]: 		K: 	6	 V: 	Chessy_2	
+[00:00:11]: 		K: 	7	 V: 	Chessy_3	
+[00:00:11]: 		K: 	8	 V: 	Chessy_4	
+[00:00:11]: 		K: 	9	 V: 	Chessy_5	
+[00:00:11]: 		K: 	10	 V: 	Chessy_6	
+[00:00:11]: 		K: 	11	 V: 	Maxwell1	
+[00:00:11]: 		K: 	12	 V: 	Maxwell2	
+[00:00:11]: 		K: 	13	 V: 	Maxwell3	
+[00:00:11]: 		K: 	14	 V: 	Maxwell4	
+[00:00:11]: 		K: 	15	 V: 	Maxwell6	
+[00:00:11]: 		K: 	16	 V: 	Maxwell7	
+[00:00:11]: 		K: 	17	 V: 	Warzone_1	
+[00:00:11]: 		K: 	18	 V: 	Warzone_2	
+[00:00:11]: 		K: 	19	 V: 	Warzone_3	
+[00:00:11]: 	K: 	required_prefabs	 V: 	table: 00000000125DF510	
+[00:00:11]: 		K: 	1	 V: 	multiplayer_portal	
+[00:00:11]: 	K: 	required_setpieces	 V: 	table: 00000000125DFC40	
+[00:00:11]: 		K: 	1	 V: 	Sculptures_1	
+[00:00:11]: 		K: 	2	 V: 	Maxwell5	
+[00:00:11]: 	K: 	settings_desc	 V: 	The standard Don't Starve experience.	
+[00:00:11]: 	K: 	settings_id	 V: 	SURVIVAL_TOGETHER	
+[00:00:11]: 	K: 	settings_name	 V: 	Standard Forest	
+[00:00:11]: 	K: 	substitutes	 V: 	table: 00000000125DFFB0	
+[00:00:11]: 	K: 	version	 V: 	4	
+[00:00:11]: 	K: 	worldgen_desc	 V: 	The standard Don't Starve experience.	
+[00:00:11]: 	K: 	worldgen_id	 V: 	SURVIVAL_TOGETHER	
+[00:00:11]: 	K: 	worldgen_name	 V: 	Standard Forest	
+[00:00:11]: Loaded and applied level data override from ../leveldataoverride.lua	
+[00:00:11]: Overwriting savedata with level data file.	
+[00:00:11]: Not applying world gen overrides.	
+[00:00:11]: Collecting garbage...
+[00:00:11]: lua_gc took 0.05 seconds
+[00:00:11]: ~ShardLuaProxy()
+[00:00:11]: ~cEventLeaderboardProxy()
+[00:00:11]: ~ItemServerLuaProxy()
+[00:00:11]: ~InventoryLuaProxy()
+[00:00:11]: ~NetworkLuaProxy()
+[00:00:11]: ~SimLuaProxy()
+[00:00:11]: FilesExistAsyncThread aborted.
+[00:00:11]: ... FilesExistAsyncThread complete
+[00:00:11]: lua_close took 0.06 seconds
+[00:00:11]: ReleaseAll
+[00:00:11]: ReleaseAll Finished
+[00:00:11]: cGame::StartPlaying
+[00:00:11]: AppVersion::GetArchitecture() x64
+[00:00:11]: LOADING LUA
+[00:00:11]: DoLuaFile scripts/main.lua
+[00:00:11]: DoLuaFile loading buffer scripts/main.lua
+[00:00:12]:   taskgrouplist:	default	Together	
+[00:00:12]:   taskgrouplist:	classic	Classic	
+[00:00:12]:   taskgrouplist:	cave_default	Underground	
+[00:00:12]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:12]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:12]: running main.lua
+	
+[00:00:12]: loaded modindex	
+[00:00:12]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:12]: SUCCESS: Loaded modoverrides.lua	
+[00:00:12]: modoverrides.lua enabling workshop-1207269058	
+[00:00:12]: modoverrides.lua enabling workshop-2358978811	
+[00:00:12]: modoverrides.lua enabling workshop-1289779251	
+[00:00:12]: modoverrides.lua enabling workshop-2411450759	
+[00:00:12]: modoverrides.lua enabling workshop-2289662010	
+[00:00:12]: modoverrides.lua enabling workshop-2304170675	
+[00:00:12]: modoverrides.lua enabling workshop-2410382718	
+[00:00:12]: modoverrides.lua enabling workshop-2336991112	
+[00:00:12]: modoverrides.lua enabling workshop-2431606769	
+[00:00:12]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2304170675	
+[00:00:12]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2410382718	
+[00:00:12]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2289662010	
+[00:00:12]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:12]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2336991112	
+[00:00:12]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2358978811	
+[00:00:12]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2431606769	
+[00:00:12]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1289779251	
+[00:00:12]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2411450759	
+[00:00:12]: Could not load mod_config_data/modconfiguration_workshop-2304170675	
+[00:00:12]: Loading mod: workshop-2304170675 (Takanashi Kiara) Version:1.8.0	
+[00:00:12]: Could not load mod_config_data/modconfiguration_workshop-2410382718	
+[00:00:12]: Loading mod: workshop-2410382718 (Ninomae Ina'nis) Version:1.2.3	
+[00:00:12]: Could not load mod_config_data/modconfiguration_workshop-2289662010	
+[00:00:12]: Loading mod: workshop-2289662010 (Rail Cart) Version:1.06	
+[00:00:12]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[00:00:12]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.15	
+[00:00:12]: Could not load mod_config_data/modconfiguration_workshop-2336991112	
+[00:00:12]: Loading mod: workshop-2336991112 (Calliope Mori) Version:1.6.0	
+[00:00:12]: Could not load mod_config_data/modconfiguration_workshop-2358978811	
+[00:00:12]: Loading mod: workshop-2358978811 (Gawr Gura) Version:1.5.6	
+[00:00:12]: Could not load mod_config_data/modconfiguration_workshop-2431606769	
+[00:00:12]: Loading mod: workshop-2431606769 (Hoshimachi Suisei) Version:1.1.2	
+[00:00:12]: Could not load mod_config_data/modconfiguration_workshop-1289779251	
+[00:00:12]: Loading mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  ) Version:1.6-pre25r	
+[00:00:12]: Could not load mod_config_data/modconfiguration_workshop-2411450759	
+[00:00:12]: Loading mod: workshop-2411450759 (Amelia Watson) Version:1.1.4	
+[00:00:12]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
+[00:00:12]: applying configuration_options from modoverrides.lua to mod workshop-2358978811	
+[00:00:12]: Overriding mod workshop-2358978811's option  with value 0	
+[00:00:12]: Overriding mod workshop-2358978811's option  with value 0	
+[00:00:12]: Overriding mod workshop-2358978811's option  with value 0	
+[00:00:12]: Overriding mod workshop-2358978811's option  with value 0	
+[00:00:12]: Overriding mod workshop-2358978811's option Others with value 0	
+[00:00:12]: Overriding mod workshop-2358978811's option gura_hunger with value 250	
+[00:00:12]: Overriding mod workshop-2358978811's option Wetness with value 0	
+[00:00:12]: Overriding mod workshop-2358978811's option gura_trident_dmg with value 34	
+[00:00:12]: Overriding mod workshop-2358978811's option gura_dmg with value 1	
+[00:00:12]: Overriding mod workshop-2358978811's option gura_trident_spell_amount with value 5	
+[00:00:12]: Overriding mod workshop-2358978811's option gura_trident_durability with value 300	
+[00:00:12]: Overriding mod workshop-2358978811's option gura_voice with value gura	
+[00:00:12]: Overriding mod workshop-2358978811's option gura_wet_sanity with value 0	
+[00:00:12]: Overriding mod workshop-2358978811's option gura_trident_spell_mining with value false	
+[00:00:12]: Overriding mod workshop-2358978811's option gura_trident_recipe with value 1	
+[00:00:12]: Overriding mod workshop-2358978811's option gura_health with value 100	
+[00:00:12]: Overriding mod workshop-2358978811's option gura_trident_spell_durability with value 150	
+[00:00:12]: Overriding mod workshop-2358978811's option gura_speed with value 1.25	
+[00:00:12]: Overriding mod workshop-2358978811's option Basic Stats with value 0	
+[00:00:12]: Overriding mod workshop-2358978811's option gura_starting_items with value 0	
+[00:00:12]: Overriding mod workshop-2358978811's option gura_swim_rate with value 5	
+[00:00:12]: Overriding mod workshop-2358978811's option Friends with value 0	
+[00:00:12]: Overriding mod workshop-2358978811's option gura_dry_sanity with value 0	
+[00:00:12]: Overriding mod workshop-2358978811's option gura_friends with value 1	
+[00:00:12]: Overriding mod workshop-2358978811's option gura_dry_rate with value 1	
+[00:00:12]: Overriding mod workshop-2358978811's option gura_clothes with value false	
+[00:00:12]: Overriding mod workshop-2358978811's option Trident with value 0	
+[00:00:12]: Overriding mod workshop-2358978811's option gura_sanity with value 100	
+[00:00:12]: Overriding mod workshop-2358978811's option gura_hunger_rate with value 1.25	
+[00:00:12]: applying configuration_options from modoverrides.lua to mod workshop-1289779251	
+[00:00:12]: Overriding mod workshop-1289779251's option biome_caves with value false	
+[00:00:12]: Overriding mod workshop-1289779251's option misc with value false	
+[00:00:12]: Overriding mod workshop-1289779251's option character_wirlywings with value false	
+[00:00:12]: Overriding mod workshop-1289779251's option character with value false	
+[00:00:12]: Overriding mod workshop-1289779251's option language with value false	
+[00:00:12]: Overriding mod workshop-1289779251's option misc_minigame with value 75	
+[00:00:12]: Overriding mod workshop-1289779251's option biome with value false	
+[00:00:12]: Overriding mod workshop-1289779251's option biome_forestsize with value 2	
+[00:00:12]: Overriding mod workshop-1289779251's option biome_wormhole with value false	
+[00:00:12]: Overriding mod workshop-1289779251's option misc_cherrycraft with value false	
+[00:00:12]: Overriding mod workshop-1289779251's option misc_bloomprint with value 0.01	
+[00:00:12]: Overriding mod workshop-1289779251's option biome_generation with value archipelago	
+[00:00:12]: Overriding mod workshop-1289779251's option language_set with value english	
+[00:00:12]: applying configuration_options from modoverrides.lua to mod workshop-2411450759	
+[00:00:12]: Overriding mod workshop-2411450759's option  with value 0	
+[00:00:12]: Overriding mod workshop-2411450759's option  with value 0	
+[00:00:12]: Overriding mod workshop-2411450759's option  with value 0	
+[00:00:12]: Overriding mod workshop-2411450759's option  with value 0	
+[00:00:12]: Overriding mod workshop-2411450759's option  with value 0	
+[00:00:12]: Overriding mod workshop-2411450759's option  with value 0	
+[00:00:12]: Overriding mod workshop-2411450759's option  with value 0	
+[00:00:12]: Overriding mod workshop-2411450759's option  with value 0	
+[00:00:12]: Overriding mod workshop-2411450759's option amelia_groundpound_key with value KEY_G	
+[00:00:12]: Overriding mod workshop-2411450759's option watson_concoction_filter with value true	
+[00:00:12]: Overriding mod workshop-2411450759's option watson_concoction_drowsiness_enable with value true	
+[00:00:12]: Overriding mod workshop-2411450759's option amelia_speed with value 1.1	
+[00:00:12]: Overriding mod workshop-2411450759's option amelia_sanity with value 200	
+[00:00:12]: Overriding mod workshop-2411450759's option Concoction - Buffs with value 0	
+[00:00:12]: Overriding mod workshop-2411450759's option amelia_sanity_penalty_on_salt with value 10	
+[00:00:12]: Overriding mod workshop-2411450759's option amelia_toxic_gamer_lines_enabled with value true	
+[00:00:12]: Overriding mod workshop-2411450759's option amelia_dmg with value 1	
+[00:00:12]: Overriding mod workshop-2411450759's option Basic Stats with value 0	
+[00:00:12]: Overriding mod workshop-2411450759's option amelia_watch_recipe with value 1	
+[00:00:12]: Overriding mod workshop-2411450759's option amelia_hunger with value 150	
+[00:00:12]: Overriding mod workshop-2411450759's option amelia_groundpound_radius with value 5	
+[00:00:12]: Overriding mod workshop-2411450759's option watson_concoction_sweat_moisture_per_sec with value 1	
+[00:00:12]: Overriding mod workshop-2411450759's option Salty Gamer with value 0	
+[00:00:12]: Overriding mod workshop-2411450759's option Bubba with value 0	
+[00:00:12]: Overriding mod workshop-2411450759's option watson_concoction_sanity_regen_amount with value 50	
+[00:00:12]: Overriding mod workshop-2411450759's option Groundpound with value 0	
+[00:00:12]: Overriding mod workshop-2411450759's option amelia_hunger_rate with value 1	
+[00:00:12]: Overriding mod workshop-2411450759's option amelia_groundpound_destroy_structure_enabled with value false	
+[00:00:12]: Overriding mod workshop-2411450759's option watson_concoction_total_poison_dps with value 1	
+[00:00:12]: Overriding mod workshop-2411450759's option amelia_clothes with value false	
+[00:00:12]: Overriding mod workshop-2411450759's option amelia_health with value 150	
+[00:00:12]: Overriding mod workshop-2411450759's option amelia_voice with value willow	
+[00:00:12]: Overriding mod workshop-2411450759's option watson_concoction_absorption_modifier with value 0.3	
+[00:00:12]: Overriding mod workshop-2411450759's option bubba_dig_chance with value 0.3	
+[00:00:12]: Overriding mod workshop-2411450759's option Watson Concoction with value 0	
+[00:00:12]: Overriding mod workshop-2411450759's option watson_concoction_stomachache_hunger_damage with value 50	
+[00:00:12]: Overriding mod workshop-2411450759's option watson_concoction_health_regen_amount with value 70	
+[00:00:12]: Overriding mod workshop-2411450759's option watson_concoction_movespeed_buff with value 1.6	
+[00:00:12]: Overriding mod workshop-2411450759's option amelia_groundpound_dmg_multi with value 2	
+[00:00:12]: Overriding mod workshop-2411450759's option watson_concoction_duration with value 25	
+[00:00:12]: Overriding mod workshop-2411450759's option amelia_salt_droprate_attacked with value 0.3	
+[00:00:12]: Overriding mod workshop-2411450759's option amelia_watch_max_uses with value 3	
+[00:00:12]: Overriding mod workshop-2411450759's option bubba_dig_enabled with value true	
+[00:00:12]: Overriding mod workshop-2411450759's option Timeleap with value 0	
+[00:00:12]: Overriding mod workshop-2411450759's option watson_concoction_attack_multiplier with value 1.3	
+[00:00:12]: Overriding mod workshop-2411450759's option bubba_dig_cooldown with value 15	
+[00:00:12]: Overriding mod workshop-2411450759's option watson_concoction_recipe with value 0	
+[00:00:12]: Overriding mod workshop-2411450759's option amelia_groundpound_hunger_cost with value 30	
+[00:00:12]: Overriding mod workshop-2411450759's option watson_concoction_headache_sanity_damage with value 50	
+[00:00:12]: Overriding mod workshop-2411450759's option amelia_starting with value 2	
+[00:00:12]: Overriding mod workshop-2411450759's option amelia_watch_timeleap_secs with value 5	
+[00:00:12]: Overriding mod workshop-2411450759's option watson_concoction_stomachache_on_eat_damage with value 5	
+[00:00:12]: Overriding mod workshop-2411450759's option Others with value 0	
+[00:00:12]: Overriding mod workshop-2411450759's option Concoction - Side Effects with value 0	
+[00:00:12]: applying configuration_options from modoverrides.lua to mod workshop-2289662010	
+[00:00:12]: Overriding mod workshop-2289662010's option RAILCART_SPAWNSMOKE with value true	
+[00:00:12]: Overriding mod workshop-2289662010's option RAILCART_PLAYSOUND with value true	
+[00:00:12]: Overriding mod workshop-2289662010's option RAILCART_SPEEDUP with value 1	
+[00:00:12]: Overriding mod workshop-2289662010's option RAILCART_CRAFTAMOUNT with value 6	
+[00:00:12]: Overriding mod workshop-2289662010's option RAILCART_DAMPING with value 1	
+[00:00:12]: Overriding mod workshop-2289662010's option RAILCART_BRAKING with value 1	
+[00:00:12]: Overriding mod workshop-2289662010's option RAILCART_FIREPROOF with value false	
+[00:00:12]: applying configuration_options from modoverrides.lua to mod workshop-2304170675	
+[00:00:12]: Overriding mod workshop-2304170675's option  with value 0	
+[00:00:12]: Overriding mod workshop-2304170675's option  with value 0	
+[00:00:12]: Overriding mod workshop-2304170675's option  with value 0	
+[00:00:12]: Overriding mod workshop-2304170675's option  with value 0	
+[00:00:12]: Overriding mod workshop-2304170675's option  with value 0	
+[00:00:12]: Overriding mod workshop-2304170675's option  with value 0	
+[00:00:12]: Overriding mod workshop-2304170675's option Other Perks with value 0	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_sword_starting with value true	
+[00:00:12]: Overriding mod workshop-2304170675's option Sword and Shield Fuel with value 0	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_hunger_rate with value 1	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_resurrection_cd with value 480	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_sanity with value 100	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_freeze_resist with value 2	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_shield_cd with value 4	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_cold_resist with value -50	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_ms with value 0.9	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_sword_flame with value true	
+[00:00:12]: Overriding mod workshop-2304170675's option Basic Stats with value 0	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_fuel with value 4	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_dmg with value 1	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_resu_key with value KEY_Z	
+[00:00:12]: Overriding mod workshop-2304170675's option Resurrection with value 0	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_sword_dmg with value 51	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_health with value 175	
+[00:00:12]: Overriding mod workshop-2304170675's option Flaming Sword with value 0	
+[00:00:12]: Overriding mod workshop-2304170675's option Svalinn with value 0	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_food with value true	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_sword_durability with value 2.4	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_heat_resist with value true	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_shield_recipe with value 1	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_sword_wet with value 50	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_sword_recipe with value 1	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_clothes with value false	
+[00:00:12]: Overriding mod workshop-2304170675's option Resistances with value 0	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_resu_penalty with value true	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_sword_hunger with value 5	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_shield_durability with value 25	
+[00:00:12]: Overriding mod workshop-2304170675's option kiara_hunger with value 150	
+[00:00:12]: applying configuration_options from modoverrides.lua to mod workshop-2410382718	
+[00:00:12]: Overriding mod workshop-2410382718's option  with value 0	
+[00:00:12]: Overriding mod workshop-2410382718's option  with value 0	
+[00:00:12]: Overriding mod workshop-2410382718's option  with value 0	
+[00:00:12]: Overriding mod workshop-2410382718's option  with value 0	
+[00:00:12]: Overriding mod workshop-2410382718's option  with value 0	
+[00:00:12]: Overriding mod workshop-2410382718's option Other Perks with value 0	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_tako_health with value 125	
+[00:00:12]: Overriding mod workshop-2410382718's option Wetness with value 0	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_block with value 70	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_clothes with value false	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_tako_monster with value false	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_sanity with value 250	
+[00:00:12]: Overriding mod workshop-2410382718's option Basic Stats with value 0	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_dry_rate with value 1	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_crowbar_dmg with value 51	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_hunger with value 150	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_summon_cost_health with value 20	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_dmg with value 1	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_summon_cost_sanity with value 20	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_wet_sanity with value 0	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_tentacles_size with value 100	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_crowbar_rp with value 0	
+[00:00:12]: Overriding mod workshop-2410382718's option Takodachis with value 0	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_sanity_cost with value 10	
+[00:00:12]: Overriding mod workshop-2410382718's option Crowbar with value 0	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_swim_rate with value 5	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_crowbar_durability with value 200	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_voice with value wickerbottom	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_tako_regen with value 10	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_tako_damage with value 6	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_starting with value true	
+[00:00:12]: Overriding mod workshop-2410382718's option The Ancient Ones with value 0	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_return_damage with value 50	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_health with value 125	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_ms with value 1	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_monster with value true	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_hunger_rate with value 1	
+[00:00:12]: Overriding mod workshop-2410382718's option ninomae_dry_sanity with value 0	
+[00:00:12]: applying configuration_options from modoverrides.lua to mod workshop-2336991112	
+[00:00:12]: Overriding mod workshop-2336991112's option  with value 0	
+[00:00:12]: Overriding mod workshop-2336991112's option  with value 0	
+[00:00:12]: Overriding mod workshop-2336991112's option  with value 0	
+[00:00:12]: Overriding mod workshop-2336991112's option  with value 0	
+[00:00:12]: Overriding mod workshop-2336991112's option  with value 0	
+[00:00:12]: Overriding mod workshop-2336991112's option  with value 0	
+[00:00:12]: Overriding mod workshop-2336991112's option  with value 0	
+[00:00:12]: Overriding mod workshop-2336991112's option Other Perks with value 0	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_cursed with value true	
+[00:00:12]: Overriding mod workshop-2336991112's option Visual Config with value 0	
+[00:00:12]: Overriding mod workshop-2336991112's option Guzzler Hat with value 0	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_tsun with value true	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_speed with value 1	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_hat_interval with value 6	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_kazoo_durability with value 4	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_reap_heal with value 5	
+[00:00:12]: Overriding mod workshop-2336991112's option Basic Stats with value 0	
+[00:00:12]: Overriding mod workshop-2336991112's option Scythe with value 0	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_clothes with value false	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_hud with value true	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_reap_counter with value 60	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_hunger with value 125	
+[00:00:12]: Overriding mod workshop-2336991112's option Sleeping (Death) with value 0	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_health with value 125	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_dmg with value 1	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_hunger_rate with value 1	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_hat_durability with value 9	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_mori_grave with value 0.04	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_sleep_penalty with value true	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_sleep_soulrate with value 1	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_starters with value true	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_reap_onhurt with value 1	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_scythe_durability with value 666	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_sleep_recovery with value 1	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_sleep_duration with value 30	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_scythe_dmg with value 68	
+[00:00:12]: Overriding mod workshop-2336991112's option Kazoo with value 0	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_immortal with value true	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_scythe_maxrate with value 70	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_scythe_crit_dmg with value 3	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_sanity with value 200	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_soul_strike with value 5	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_scythe_recipe with value 1	
+[00:00:12]: Overriding mod workshop-2336991112's option calliope_hat_conversion with value 2	
+[00:00:12]: Overriding mod workshop-2336991112's option Souls with value 0	
+[00:00:12]: applying configuration_options from modoverrides.lua to mod workshop-2431606769	
+[00:00:12]: Overriding mod workshop-2431606769's option  with value 0	
+[00:00:12]: Overriding mod workshop-2431606769's option  with value 0	
+[00:00:12]: Overriding mod workshop-2431606769's option  with value 0	
+[00:00:12]: Overriding mod workshop-2431606769's option  with value 0	
+[00:00:12]: Overriding mod workshop-2431606769's option  with value 0	
+[00:00:12]: Overriding mod workshop-2431606769's option  with value 0	
+[00:00:12]: Overriding mod workshop-2431606769's option  with value 0	
+[00:00:12]: Overriding mod workshop-2431606769's option  with value 0	
+[00:00:12]: Overriding mod workshop-2431606769's option suicopath_kill_base_sanity_gain with value 10	
+[00:00:12]: Overriding mod workshop-2431606769's option anemachi_bl_durability with value 1000	
+[00:00:12]: Overriding mod workshop-2431606769's option suicopath_activation_kill_time with value 7	
+[00:00:12]: Overriding mod workshop-2431606769's option suisei_fear_ghost_dark with value true	
+[00:00:12]: Overriding mod workshop-2431606769's option suisei_hunger_rate with value 1	
+[00:00:12]: Overriding mod workshop-2431606769's option Hitwoman Idol with value 0	
+[00:00:12]: Overriding mod workshop-2431606769's option suisei_health with value 150	
+[00:00:12]: Overriding mod workshop-2431606769's option suicopath_activation_heart_consumption with value true	
+[00:00:12]: Overriding mod workshop-2431606769's option suisei_dmg with value 1	
+[00:00:12]: Overriding mod workshop-2431606769's option Basic Stats with value 0	
+[00:00:12]: Overriding mod workshop-2431606769's option anemachi_bl_recipe with value 0	
+[00:00:12]: Overriding mod workshop-2431606769's option suisei_axe_efficiency with value 1	
+[00:00:12]: Overriding mod workshop-2431606769's option suisei_tblock_damage with value 68	
+[00:00:12]: Overriding mod workshop-2431606769's option suisei_starting_items with value 1	
+[00:00:12]: Overriding mod workshop-2431606769's option suisei_tblock_recipe with value 0	
+[00:00:12]: Overriding mod workshop-2431606769's option suicopath_attack_boss_sanity_gain with value 10	
+[00:00:12]: Overriding mod workshop-2431606769's option suisei_tblock_proj_speed with value 10	
+[00:00:12]: Overriding mod workshop-2431606769's option suisei_tblock_auto_catch with value true	
+[00:00:12]: Overriding mod workshop-2431606769's option suisei_tblock_uses with value 20	
+[00:00:12]: Overriding mod workshop-2431606769's option suisei_axe_dmg_multi with value 1.5	
+[00:00:12]: Overriding mod workshop-2431606769's option Others with value 0	
+[00:00:12]: Overriding mod workshop-2431606769's option suisei_sanity with value 220	
+[00:00:12]: Overriding mod workshop-2431606769's option Suicopath - Basic with value 0	
+[00:00:12]: Overriding mod workshop-2431606769's option Tetris Queen with value 0	
+[00:00:12]: Overriding mod workshop-2431606769's option suisei_regular_kill_sanity_gain with value 5	
+[00:00:12]: Overriding mod workshop-2431606769's option suisei_on_kill_victim_heart_droprate with value 1	
+[00:00:12]: Overriding mod workshop-2431606769's option suisei_language with value JP	
+[00:00:12]: Overriding mod workshop-2431606769's option suisei_dont_eat_vegetable with value true	
+[00:00:12]: Overriding mod workshop-2431606769's option suisei_clothes with value false	
+[00:00:12]: Overriding mod workshop-2431606769's option suisei_multiaxe_dmg_multi with value 2.5	
+[00:00:12]: Overriding mod workshop-2431606769's option suisei_goldenaxe_dmg_multi with value 2.5	
+[00:00:12]: Overriding mod workshop-2431606769's option Suicopath - On Kill with value 0	
+[00:00:12]: Overriding mod workshop-2431606769's option suisei_moonglassaxe_dmg_multi with value 2.5	
+[00:00:12]: Overriding mod workshop-2431606769's option suisei_movespeed with value 1	
+[00:00:12]: Overriding mod workshop-2431606769's option suisei_hunger with value 120	
+[00:00:12]: Overriding mod workshop-2431606769's option suisei_axe_durability with value 1.2	
+[00:00:12]: Overriding mod workshop-2431606769's option suicopath_screen_effect with value true	
+[00:00:12]: Overriding mod workshop-2431606769's option Axe Proficiency with value 0	
+[00:00:12]: Overriding mod workshop-2431606769's option suicopath_player_kill_gain_multi with value 1.5	
+[00:00:12]: Overriding mod workshop-2431606769's option suicopath_largecreature_kill_gain_multi with value 2	
+[00:00:12]: Overriding mod workshop-2431606769's option suicopath_kill_base_health_gain with value 20	
+[00:00:12]: Overriding mod workshop-2431606769's option suicopath_insanity_aura_sanity_drain with value 3	
+[00:00:12]: Overriding mod workshop-2431606769's option BL Fanbook with value 0	
+[00:00:12]: Overriding mod workshop-2431606769's option suicopath_deactivation_sanity_percent with value 0.1	
+[00:00:12]: Overriding mod workshop-2431606769's option Language/言語 with value 0	
+[00:00:12]: Overriding mod workshop-2431606769's option suicopath_base_damage_multi with value 1.2	
+[00:00:12]: Overriding mod workshop-2431606769's option suicopath_attack_living_sanity_gain with value 5	
+[00:00:12]: Overriding mod workshop-2431606769's option suicopath_activation_kill_counts with value 5	
+[00:00:12]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	Loading modworldgenmain.lua	
+[00:00:12]: modimport: ../mods/workshop-1289779251/tile_adder.lua	
+[00:00:12]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	Loading modmain.lua	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/init_assets	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/init_characters	
+[00:00:12]: modimport: ../mods/workshop-1289779251/skins_api	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/init_prefabs	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/init_recipes	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/init_tuning	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/init_widgets	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/fx	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/minimap_icons	
+[00:00:12]: modimport: ../mods/workshop-1289779251/postinit/prefabs/bee	
+[00:00:12]: modimport: ../mods/workshop-1289779251/postinit/prefabs/birds	
+[00:00:12]: modimport: ../mods/workshop-1289779251/postinit/prefabs/forest	
+[00:00:12]: modimport: ../mods/workshop-1289779251/postinit/prefabs/firepit	
+[00:00:12]: modimport: ../mods/workshop-1289779251/postinit/prefabs/hats	
+[00:00:12]: modimport: ../mods/workshop-1289779251/postinit/prefabs/moonbase	
+[00:00:12]: modimport: ../mods/workshop-1289779251/postinit/prefabs/shadowskittish	
+[00:00:12]: modimport: ../mods/workshop-1289779251/postinit/prefabs/wilson	
+[00:00:12]: modimport: ../mods/workshop-1289779251/postinit/prefabs/winona_battery_high	
+[00:00:12]: modimport: ../mods/workshop-1289779251/postinit/components/ambientsound	
+[00:00:12]: modimport: ../mods/workshop-1289779251/postinit/stategraph/chester	
+[00:00:12]: modimport: ../mods/workshop-1289779251/postinit/stategraph/wilson	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wilson.lua	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/init_descriptions/willow.lua	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wolfgang.lua	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wendy.lua	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wx78.lua	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wickerbottom.lua	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/init_descriptions/woodie.lua	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wes.lua	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/init_descriptions/waxwell.lua	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wathgrithr.lua	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/init_descriptions/webber.lua	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/init_descriptions/winona.lua	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wortox.lua	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wormwood.lua	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/init_descriptions/warly.lua	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wurt.lua	
+[00:00:12]: modimport: ../mods/workshop-1289779251/init/init_descriptions/walter.lua	
+[00:00:12]: Mod: workshop-2304170675 (Takanashi Kiara)	Loading modworldgenmain.lua	
+[00:00:12]: Mod: workshop-2304170675 (Takanashi Kiara)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:12]: Mod: workshop-2304170675 (Takanashi Kiara)	Loading modmain.lua	
+[00:00:12]: modimport: ../mods/workshop-2304170675/scripts/util/kiara_fx.lua	
+[00:00:12]: modimport: ../mods/workshop-2304170675/scripts/util/kiara_settings.lua	
+[00:00:12]: modimport: ../mods/workshop-2304170675/scripts/util/kiara_recipes.lua	
+[00:00:12]: modimport: ../mods/workshop-2304170675/scripts/widgets/kiara_widgets.lua	
+[00:00:12]: modimport: ../mods/workshop-2304170675/scripts/util/kiara_fuel.lua	
+[00:00:12]: modimport: ../mods/workshop-2304170675/scripts/stategraphs/kiara_states.lua	
+[00:00:12]: modimport: ../mods/workshop-2304170675/scripts/stategraphs/kiara_shieldparry.lua	
+[00:00:12]: modimport: ../mods/workshop-2304170675/scripts/util/kiara_skins.lua	
+[00:00:12]: Mod: workshop-2289662010 (Rail Cart)	Loading modworldgenmain.lua	
+[00:00:12]: Mod: workshop-2289662010 (Rail Cart)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:12]: Mod: workshop-2289662010 (Rail Cart)	Loading modmain.lua	
+[00:00:12]: Mod: workshop-2410382718 (Ninomae Ina'nis)	Loading modworldgenmain.lua	
+[00:00:12]: Mod: workshop-2410382718 (Ninomae Ina'nis)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:12]: Mod: workshop-2410382718 (Ninomae Ina'nis)	Loading modmain.lua	
+[00:00:12]: modimport: ../mods/workshop-2410382718/scripts/util/ninomae_skins.lua	
+[00:00:12]: modimport: ../mods/workshop-2410382718/scripts/util/ninomae_settings.lua	
+[00:00:12]: modimport: ../mods/workshop-2410382718/scripts/stategraphs/ninomae_states.lua	
+[00:00:12]: modimport: ../mods/workshop-2410382718/scripts/util/ninomae_recipes.lua	
+[00:00:12]: modimport: ../mods/workshop-2410382718/scripts/util/ninomae_fx.lua	
+[00:00:12]: Mod: workshop-2431606769 (Hoshimachi Suisei)	Loading modworldgenmain.lua	
+[00:00:12]: Mod: workshop-2431606769 (Hoshimachi Suisei)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:12]: Mod: workshop-2431606769 (Hoshimachi Suisei)	Loading modmain.lua	
+[00:00:12]: modimport: ../mods/workshop-2431606769/scripts/util/suisei_settings.lua	
+[00:00:12]: modimport: ../mods/workshop-2431606769/scripts/util/suisei_recipes.lua	
+[00:00:12]: modimport: ../mods/workshop-2431606769/scripts/stategraphs/suisei_states.lua	
+[00:00:12]: modimport: ../mods/workshop-2431606769/scripts/util/suisei_skins.lua	
+[00:00:12]: modimport: ../mods/workshop-2431606769/scripts/util/suisei_fx.lua	
+[00:00:12]: Mod: workshop-2358978811 (Gawr Gura)	Loading modworldgenmain.lua	
+[00:00:12]: Mod: workshop-2358978811 (Gawr Gura)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:12]: Mod: workshop-2358978811 (Gawr Gura)	Loading modmain.lua	
+[00:00:12]: modimport: ../mods/workshop-2358978811/scripts/util/gura_skins.lua	
+[00:00:12]: modimport: ../mods/workshop-2358978811/scripts/util/gura_settings.lua	
+[00:00:12]: modimport: ../mods/workshop-2358978811/scripts/util/gura_recipes.lua	
+[00:00:12]: modimport: ../mods/workshop-2358978811/scripts/util/gura_swim.lua	
+[00:00:12]: modimport: ../mods/workshop-2358978811/scripts/util/gura_modprefabs.lua	
+[00:00:12]: Mod: workshop-2336991112 (Calliope Mori)	Loading modworldgenmain.lua	
+[00:00:12]: Mod: workshop-2336991112 (Calliope Mori)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:12]: Mod: workshop-2336991112 (Calliope Mori)	Loading modmain.lua	
+[00:00:12]: modimport: ../mods/workshop-2336991112/scripts/util/calliope_skins.lua	
+[00:00:12]: modimport: ../mods/workshop-2336991112/scripts/util/calliope_settings.lua	
+[00:00:12]: modimport: ../mods/workshop-2336991112/scripts/util/calliope_recipes.lua	
+[00:00:12]: modimport: ../mods/workshop-2336991112/scripts/util/calliope_widget.lua	
+[00:00:12]: modimport: ../mods/workshop-2336991112/scripts/util/calliope_states.lua	
+[00:00:12]: Mod: workshop-2411450759 (Amelia Watson)	Loading modworldgenmain.lua	
+[00:00:12]: Mod: workshop-2411450759 (Amelia Watson)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:12]: Mod: workshop-2411450759 (Amelia Watson)	Loading modmain.lua	
+[00:00:12]: modimport: ../mods/workshop-2411450759/scripts/util/amelia_settings.lua	
+[00:00:12]: modimport: ../mods/workshop-2411450759/scripts/util/amelia_recipes.lua	
+[00:00:12]: modimport: ../mods/workshop-2411450759/scripts/amelia_states.lua	
+[00:00:12]: modimport: ../mods/workshop-2411450759/scripts/util/amelia_fx.lua	
+[00:00:12]: modimport: ../mods/workshop-2411450759/scripts/util/amelia_skins.lua	
+[00:00:12]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:00:12]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:12]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[00:00:12]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:12]: LOADING LUA SUCCESS
+[00:00:12]: Registering Server mod namespace "workshop-1289779251"
+[00:00:12]: Registering Server mod namespace "workshop-2410382718"
+[00:00:12]: Registering Server mod namespace "workshop-2411450759"
+[00:00:12]: Registering Server mod namespace "workshop-1207269058"
+[00:00:12]: Registering Server mod namespace "amelia"
+[00:00:12]: Registering Server mod namespace "workshop-2304170675"
+[00:00:12]: Registering Server mod namespace "workshop-2358978811"
+[00:00:12]: Registering Server mod namespace "workshop-2431606769"
+[00:00:12]: Registering Server mod namespace "workshop-2336991112"
+[00:00:12]: Registering Server mod namespace "railcart"
+[00:00:12]: PlayerDeaths could not load morgue	
+[00:00:12]: PlayerHistory could not load player_history	
+[00:00:12]: ServerPreferences could not load server_preferences	
+[00:00:12]: bloom_enabled	true	
+[00:00:12]: OnFilesLoaded()	
+[00:00:12]: OnUpdatePurchaseStateComplete	
+[00:00:13]: Loading world: session/54572DDC3BE0E81B/0000000029	
+[00:00:13]: Save file is at version 5.08	
+[00:00:13]: Klump load on boot started.	
+[00:00:13]: Klump files loaded: 	0	
+[00:00:13]: 	Unload FE	
+[00:00:13]: 	Unload FE done	
+[00:00:13]: Could not unload undefined prefab (suisei_shadow)
+[00:00:13]: Could not unload undefined prefab (forgedarts)
+[00:00:13]: Could not unload undefined prefab (featheredtunic)
+[00:00:13]: Could not unload undefined prefab (spoiled_food)
+[00:00:13]: Could not unload undefined prefab (cherry_sapling)
+[00:00:13]: Could not unload undefined prefab (spoiled_food)
+[00:00:13]: Could not unload undefined prefab (cherry_sapling)
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	Registering prefabs	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_tree	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_tree	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_tree_short	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_tree_normal	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_tree_tall	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_tree_white	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_tree_white_short	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_tree_white_normal	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_tree_white_tall	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_tree_petal	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_tree_petal	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_planted_tree	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_sapling	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherrygem_sapling	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_pond	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pond	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    pond_cherryplant	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_petals	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_petals	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_randomplant	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_randomplant	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_randompoi	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_bloomsrooms	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_red_bloomsroom	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_red_bloomsroom_seed	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_red_bloomsroom_seed_placer	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_green_bloomsroom	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_green_bloomsroom_seed	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_green_bloomsroom_seed_placer	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_blue_bloomsroom	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_blue_bloomsroom_seed	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_blue_bloomsroom_seed_placer	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/flower_cherry	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    flower_cherry	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_goosebush	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_goosebush	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_rosebush	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_rosebush	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_daylily	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_daylily	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_magicflower	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_magicflower	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_magicflower_seedy	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_magicflower_short	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_magicflower_med	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_magicflower_tall	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_magicflower_flower	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_magicflower_flower	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_magicflower_seed	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_magicflower_seed	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_magicflower_seed_placer	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_foreststatue	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_foreststatue	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_foreststatue_back	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_foreststatue_light	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_foreststatue_geode	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_foreststatue_sapling	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_foreststatue_perfect_fx	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_props	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_foreststatue_prop_tree	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_foreststatue_prop_bush	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_foreststatue_prop_grass	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_foreststatue_prop_rock	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_watchernest	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_watchernest	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_watchernest_decor	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_watcherfirefly_spawner	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_watcherfirefly_spawner	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_bloomlight	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_bloomlight	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/bloomprint	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    bloomprint	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryamulet_bloomprint	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryaxe_bloomprint	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherrygem_bloomprint	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryhat_bloomprint	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherrystaff_bloomprint	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_beesmoker_bloomprint	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_birdhouse_bloomprint	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_blowdart_distortion_bloomprint	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_blowdart_duplicate_bloomprint	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pacifier_bloomprint	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pot_bloomprint	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_stonelamp_long_bloomprint	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    turf_cherrycraft_bloomprint	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    glommerflower_seed_bloomprint	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    turf_cherry_bloomprint	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherryturf	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    turf_cherry3	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    turf_cherry	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    turf_cherry2	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    turf_cherry4	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherryturf_craft	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    turf_cherrycraft	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_cooked	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_double	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_placer	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherrygem	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherrygem	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cheerfulgem	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherrygem_placer	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cheerfulgem_placer	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_preparedfoods	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pie	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_taffy	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_cola	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_cake	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_taffy_spice_garlic	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_cake_spice_garlic	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_taffy_spice_salt	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_cola_spice_chili	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pie_spice_chili	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_cake_spice_chili	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_taffy_spice_chili	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pie_spice_sugar	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_cola_spice_sugar	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_taffy_spice_sugar	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_cola_spice_garlic	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_cola_spice_salt	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pie_spice_garlic	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_cake_spice_sugar	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pie_spice_salt	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_cake_spice_salt	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_blossom	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_blossom_pink	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_blossom_white	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_blossomlog	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_blossomlog_pink	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/feathers_cherry	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    feather_catbird	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    feather_chaffinch	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/chester_eyebone_cherry	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    chester_eyebone_cherry	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/glommerflower_cherry	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    glommerflower_seed	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    glommerflower_thorn	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    glommerflower_shadow	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    glommerflower_halloween	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherryling	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryling	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryling_ancient	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryling_light	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_bee	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_bee	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_honeyvines	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_honey	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_beepoisonbuff	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_beequeen	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_beequeen	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_beequeenpoisonbuff	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_beeguard	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_beeguard	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_butterfly	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_butterfly	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_butterfly_placer	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_dragonfly	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_dragonfly	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_dragonfly_placer	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_fireflies	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_fireflies	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_birds	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    chaffinch	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    catbird	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/armor_cherry	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    armorcherry	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherryaxe	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryaxe	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherryhat	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryhat	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherryamulet	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryamulet	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryamulet_fx	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherrystaff	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherrystaff	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_boomerang	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_boomerang	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_blowdart	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_blowdart_distortion	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_blowdart_duplicate	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_blowdart_distortionbuff	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherrymooneye	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherrymooneye	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_watcherlantern	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_watcherlantern	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_watcherfirefly	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_nesthat	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_nesthat	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_nesthat_egg	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_beesmoker	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_beesmoker	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_beesmokerfuel	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_beesmoker_smoke	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_beesmoker_placer	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_birdhouse	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_birdhouse	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_birdhouse_placer	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_bonsai	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_bonsai	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_pacifier	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pacifier	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pacifier_fx	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pacifier_placer	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_pot	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pot	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_pot_placer	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_stonelamp	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_stonelamp	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_stonelamp_tiny	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_stonelamp_short	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_stonelamp_normal	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_stonelamp_tall	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_stonelamp_dug	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_stonelamp_placer	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherry_stonelamp_dug_placer	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/cherry_upgrades	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryupgrade_friendpit_item	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryupgrade_friendpit	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    cherryupgrade_friendpitfire	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/trophyscale_cherry_bugs	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    trophyscale_cherry_bugs	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    trophyscale_cherry_bugs_placer	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/wirlywings	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    wirlywings	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering prefab file: prefabs/wirlywings_none	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    wirlywings_none	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	    wirlywings_slurper	
+[00:00:14]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	  Registering default mod prefab	
+[00:00:15]: Could not preload undefined prefab (forgedarts)
+[00:00:15]: Could not preload undefined prefab (featheredtunic)
+[00:00:15]: Mod: workshop-2304170675 (Takanashi Kiara)	Registering prefabs	
+[00:00:15]: Mod: workshop-2304170675 (Takanashi Kiara)	  Registering prefab file: prefabs/kiara	
+[00:00:15]: Mod: workshop-2304170675 (Takanashi Kiara)	    kiara	
+[00:00:15]: Mod: workshop-2304170675 (Takanashi Kiara)	  Registering prefab file: prefabs/kiara_none	
+[00:00:15]: Mod: workshop-2304170675 (Takanashi Kiara)	    kiara_none	
+[00:00:15]: Mod: workshop-2304170675 (Takanashi Kiara)	    kiara_shadow	
+[00:00:15]: Mod: workshop-2304170675 (Takanashi Kiara)	  Registering prefab file: prefabs/kiara_sword	
+[00:00:15]: Mod: workshop-2304170675 (Takanashi Kiara)	    kiara_sword	
+[00:00:15]: Mod: workshop-2304170675 (Takanashi Kiara)	  Registering prefab file: prefabs/kiara_shield	
+[00:00:15]: Mod: workshop-2304170675 (Takanashi Kiara)	    kiara_shield	
+[00:00:15]: Mod: workshop-2304170675 (Takanashi Kiara)	  Registering prefab file: prefabs/kiara_shield_entity	
+[00:00:15]: Mod: workshop-2304170675 (Takanashi Kiara)	    kiara_shield_entity	
+[00:00:15]: Mod: workshop-2304170675 (Takanashi Kiara)	  Registering default mod prefab	
+[00:00:15]: Mod: workshop-2289662010 (Rail Cart)	Registering prefabs	
+[00:00:15]: Mod: workshop-2289662010 (Rail Cart)	  Registering prefab file: prefabs/railtrack	
+[00:00:15]: Mod: workshop-2289662010 (Rail Cart)	    railtrack_default	
+[00:00:15]: Mod: workshop-2289662010 (Rail Cart)	    railtrack_default_item	
+[00:00:15]: Mod: workshop-2289662010 (Rail Cart)	    railtrack_ocean	
+[00:00:15]: Mod: workshop-2289662010 (Rail Cart)	    railtrack_ocean_item	
+[00:00:15]: Mod: workshop-2289662010 (Rail Cart)	    railtrack_boost	
+[00:00:15]: Mod: workshop-2289662010 (Rail Cart)	    railtrack_boost_item	
+[00:00:15]: Mod: workshop-2289662010 (Rail Cart)	    railtrack_damp	
+[00:00:15]: Mod: workshop-2289662010 (Rail Cart)	    railtrack_damp_item	
+[00:00:15]: Mod: workshop-2289662010 (Rail Cart)	    railtrack_reverse	
+[00:00:15]: Mod: workshop-2289662010 (Rail Cart)	    railtrack_reverse_item	
+[00:00:15]: Mod: workshop-2289662010 (Rail Cart)	  Registering prefab file: prefabs/railtrack_tool	
+[00:00:15]: Mod: workshop-2289662010 (Rail Cart)	    railtrack_tool	
+[00:00:15]: Mod: workshop-2289662010 (Rail Cart)	  Registering prefab file: prefabs/railcart_smoke	
+[00:00:15]: Mod: workshop-2289662010 (Rail Cart)	    railcart_smoke	
+[00:00:15]: Mod: workshop-2289662010 (Rail Cart)	  Registering default mod prefab	
+[00:00:15]: Mod: workshop-2410382718 (Ninomae Ina'nis)	Registering prefabs	
+[00:00:15]: Mod: workshop-2410382718 (Ninomae Ina'nis)	  Registering prefab file: prefabs/ninomae	
+[00:00:15]: Mod: workshop-2410382718 (Ninomae Ina'nis)	    ninomae	
+[00:00:15]: Mod: workshop-2410382718 (Ninomae Ina'nis)	  Registering prefab file: prefabs/ninomae_none	
+[00:00:15]: Mod: workshop-2410382718 (Ninomae Ina'nis)	    ninomae_none	
+[00:00:15]: Mod: workshop-2410382718 (Ninomae Ina'nis)	    ninomae_shadow	
+[00:00:15]: Mod: workshop-2410382718 (Ninomae Ina'nis)	  Registering prefab file: prefabs/ninomae_tentacles	
+[00:00:15]: Mod: workshop-2410382718 (Ninomae Ina'nis)	    ninomae_tentacles	
+[00:00:15]: Mod: workshop-2410382718 (Ninomae Ina'nis)	  Registering prefab file: prefabs/ninomae_aochan	
+[00:00:15]: Mod: workshop-2410382718 (Ninomae Ina'nis)	    ninomae_aochan	
+[00:00:15]: Mod: workshop-2410382718 (Ninomae Ina'nis)	  Registering prefab file: prefabs/ninomae_ripple	
+[00:00:15]: Mod: workshop-2410382718 (Ninomae Ina'nis)	    ninomae_float_fx_front	
+[00:00:15]: Mod: workshop-2410382718 (Ninomae Ina'nis)	    ninomae_float_fx_back	
+[00:00:15]: Mod: workshop-2410382718 (Ninomae Ina'nis)	  Registering prefab file: prefabs/ninomae_takodachi	
+[00:00:15]: Mod: workshop-2410382718 (Ninomae Ina'nis)	    ninomae_takodachi	
+[00:00:15]: Mod: workshop-2410382718 (Ninomae Ina'nis)	    ninomae_takodachi1_builder	
+[00:00:15]: Mod: workshop-2410382718 (Ninomae Ina'nis)	    ninomae_takodachi2_builder	
+[00:00:15]: Mod: workshop-2410382718 (Ninomae Ina'nis)	  Registering prefab file: prefabs/ninomaersh_mallow	
+[00:00:15]: Mod: workshop-2410382718 (Ninomae Ina'nis)	    takomallow	
+[00:00:15]: Mod: workshop-2410382718 (Ninomae Ina'nis)	  Registering prefab file: prefabs/ninomae_crowbar	
+[00:00:15]: Mod: workshop-2410382718 (Ninomae Ina'nis)	    ninomae_crowbar	
+[00:00:15]: Mod: workshop-2410382718 (Ninomae Ina'nis)	  Registering default mod prefab	
+[00:00:15]: Mod: workshop-2431606769 (Hoshimachi Suisei)	Registering prefabs	
+[00:00:15]: Mod: workshop-2431606769 (Hoshimachi Suisei)	  Registering prefab file: prefabs/suisei	
+[00:00:15]: Mod: workshop-2431606769 (Hoshimachi Suisei)	    suisei	
+[00:00:15]: Mod: workshop-2431606769 (Hoshimachi Suisei)	  Registering prefab file: prefabs/suisei_none	
+[00:00:15]: Mod: workshop-2431606769 (Hoshimachi Suisei)	    suisei_none	
+[00:00:15]: Mod: workshop-2431606769 (Hoshimachi Suisei)	  Registering prefab file: prefabs/suisei_tblock	
+[00:00:15]: Mod: workshop-2431606769 (Hoshimachi Suisei)	    suisei_tblock	
+[00:00:15]: Mod: workshop-2431606769 (Hoshimachi Suisei)	  Registering prefab file: prefabs/suisei_victim_hearts	
+[00:00:15]: Mod: workshop-2431606769 (Hoshimachi Suisei)	    rawheartmeat	
+[00:00:15]: Mod: workshop-2431606769 (Hoshimachi Suisei)	    rawheartmeat_large	
+[00:00:15]: Mod: workshop-2431606769 (Hoshimachi Suisei)	    cookedheartmeat	
+[00:00:15]: Mod: workshop-2431606769 (Hoshimachi Suisei)	    cookedheartmeat_large	
+[00:00:15]: Mod: workshop-2431606769 (Hoshimachi Suisei)	  Registering prefab file: prefabs/anemachi_bl	
+[00:00:15]: Mod: workshop-2431606769 (Hoshimachi Suisei)	    anemachi_bl	
+[00:00:15]: Mod: workshop-2431606769 (Hoshimachi Suisei)	  Registering default mod prefab	
+[00:00:15]: Could not preload undefined prefab (suisei_shadow)
+[00:00:15]: Mod: workshop-2358978811 (Gawr Gura)	Registering prefabs	
+[00:00:15]: Mod: workshop-2358978811 (Gawr Gura)	  Registering prefab file: prefabs/gura	
+[00:00:15]: Mod: workshop-2358978811 (Gawr Gura)	    gura	
+[00:00:15]: Mod: workshop-2358978811 (Gawr Gura)	    mermhouse_placer	
+[00:00:15]: Mod: workshop-2358978811 (Gawr Gura)	  Registering prefab file: prefabs/gura_none	
+[00:00:15]: Mod: workshop-2358978811 (Gawr Gura)	    gura_none	
+[00:00:15]: Mod: workshop-2358978811 (Gawr Gura)	    gura_shadow	
+[00:00:15]: Mod: workshop-2358978811 (Gawr Gura)	  Registering prefab file: prefabs/gura_trident	
+[00:00:15]: Mod: workshop-2358978811 (Gawr Gura)	    gura_trident	
+[00:00:15]: Mod: workshop-2358978811 (Gawr Gura)	  Registering prefab file: prefabs/gura_floaties	
+[00:00:15]: Mod: workshop-2358978811 (Gawr Gura)	    gura_floaties	
+[00:00:15]: Mod: workshop-2358978811 (Gawr Gura)	  Registering prefab file: prefabs/gura_ripple	
+[00:00:15]: Mod: workshop-2358978811 (Gawr Gura)	    float_fx_front2	
+[00:00:15]: Mod: workshop-2358978811 (Gawr Gura)	    float_fx_back2	
+[00:00:15]: Mod: workshop-2358978811 (Gawr Gura)	  Registering default mod prefab	
+[00:00:15]: Mod: workshop-2336991112 (Calliope Mori)	Registering prefabs	
+[00:00:15]: Mod: workshop-2336991112 (Calliope Mori)	  Registering prefab file: prefabs/calliope_mori	
+[00:00:15]: Mod: workshop-2336991112 (Calliope Mori)	    calliope_mori	
+[00:00:15]: Mod: workshop-2336991112 (Calliope Mori)	  Registering prefab file: prefabs/calliope_mori_none	
+[00:00:15]: Mod: workshop-2336991112 (Calliope Mori)	    calliope_mori_none	
+[00:00:15]: Mod: workshop-2336991112 (Calliope Mori)	    calliope_mori_shadow	
+[00:00:15]: Mod: workshop-2336991112 (Calliope Mori)	  Registering prefab file: prefabs/calliope_scythe	
+[00:00:15]: Mod: workshop-2336991112 (Calliope Mori)	    calliope_scythe	
+[00:00:15]: Mod: workshop-2336991112 (Calliope Mori)	  Registering prefab file: prefabs/calliope_wine	
+[00:00:15]: Mod: workshop-2336991112 (Calliope Mori)	    calliope_wine	
+[00:00:15]: Mod: workshop-2336991112 (Calliope Mori)	  Registering prefab file: prefabs/calliope_hat	
+[00:00:15]: Mod: workshop-2336991112 (Calliope Mori)	    calliope_hat	
+[00:00:15]: Mod: workshop-2336991112 (Calliope Mori)	  Registering prefab file: prefabs/calliope_kazoo	
+[00:00:15]: Mod: workshop-2336991112 (Calliope Mori)	    calliope_kazoo	
+[00:00:15]: Mod: workshop-2336991112 (Calliope Mori)	  Registering default mod prefab	
+[00:00:15]: Mod: workshop-2411450759 (Amelia Watson)	Registering prefabs	
+[00:00:15]: Mod: workshop-2411450759 (Amelia Watson)	  Registering prefab file: prefabs/amelia	
+[00:00:15]: Mod: workshop-2411450759 (Amelia Watson)	    amelia	
+[00:00:15]: Mod: workshop-2411450759 (Amelia Watson)	  Registering prefab file: prefabs/amelia_none	
+[00:00:15]: Mod: workshop-2411450759 (Amelia Watson)	    amelia_none	
+[00:00:15]: Mod: workshop-2411450759 (Amelia Watson)	    amelia_shadow	
+[00:00:15]: Mod: workshop-2411450759 (Amelia Watson)	  Registering prefab file: prefabs/bubba	
+[00:00:15]: Mod: workshop-2411450759 (Amelia Watson)	    bubba	
+[00:00:15]: Mod: workshop-2411450759 (Amelia Watson)	  Registering prefab file: prefabs/amelia_watch	
+[00:00:15]: Mod: workshop-2411450759 (Amelia Watson)	    amelia_watch	
+[00:00:15]: Mod: workshop-2411450759 (Amelia Watson)	  Registering prefab file: prefabs/watson_concoction	
+[00:00:15]: Mod: workshop-2411450759 (Amelia Watson)	    watson_concoction	
+[00:00:15]: Mod: workshop-2411450759 (Amelia Watson)	  Registering prefab file: prefabs/ameliabuffs	
+[00:00:15]: Mod: workshop-2411450759 (Amelia Watson)	    buff_watsonconcoctioneffect	
+[00:00:15]: Mod: workshop-2411450759 (Amelia Watson)	  Registering prefab file: prefabs/concoction_fx	
+[00:00:15]: Mod: workshop-2411450759 (Amelia Watson)	    conc_poison_drip_fx	
+[00:00:15]: Mod: workshop-2411450759 (Amelia Watson)	    conc_poison_particle_fx	
+[00:00:15]: Mod: workshop-2411450759 (Amelia Watson)	    conc_sweat_fx	
+[00:00:15]: Mod: workshop-2411450759 (Amelia Watson)	  Registering default mod prefab	
+[00:00:15]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[00:00:15]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[00:00:16]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[00:00:16]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[00:00:16]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[00:00:16]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[00:00:16]: 	LOAD BE	
+[00:00:20]: 	LOAD BE: done	
+[00:00:20]: Begin Session: 54572DDC3BE0E81B
+[00:00:20]: saving to server_temp/server_save	
+[00:00:20]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-1289779251/images/map_icons/wirlywings.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-1289779251/images/map_icons/cherrymooneye.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-1289779251/images/map_icons/cherry_tree.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-1289779251/images/map_icons/cherry_tree_white.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-1289779251/images/map_icons/cherry_tree_burnt.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-1289779251/images/map_icons/cherry_tree_stump.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-1289779251/images/map_icons/cherry_goosebush.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-1289779251/images/map_icons/cherry_rosebush.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-1289779251/images/map_icons/cherry_stonetree.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-1289779251/images/map_icons/cherry_magicflower.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-1289779251/images/map_icons/cherry_birdhouse.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-1289779251/images/map_icons/cherry_pacifier.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-1289779251/images/map_icons/cherry_stonelamp.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-1289779251/images/map_icons/chester_cherry.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-1289779251/images/map_icons/cherry_watchernest.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-2304170675/images/map_icons/kiara.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-2289662010/images/inventoryimages/railtrack.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-2410382718/images/map_icons/ninomae.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-2431606769/images/map_icons/suisei.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-2358978811/images/map_icons/gura.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-2336991112/images/map_icons/calliope_mori.xml )
+[00:00:20]: MiniMapComponent::AddAtlas( ../mods/workshop-2411450759/images/map_icons/amelia.xml )
+[00:00:20]: Loading 24 new character(s)	
+[00:00:20]: Total 24 character(s) loaded	
+[00:00:21]: Loading Nav Grid	
+[00:00:21]: World generated on build 478446 with save version: 5.08, using seed: 1631765203	
+[00:00:21]: setting 	summerlength	15	
+[00:00:21]: setting 	cavemoonphase	half	
+[00:00:21]: setting 	iscavefullmoon	false	
+[00:00:21]: setting 	isnightmaredawn	false	
+[00:00:21]: setting 	elapseddaysinseason	6	
+[00:00:21]: setting 	isfullmoon	false	
+[00:00:21]: setting 	moisture	1333.6763916016	
+[00:00:21]: setting 	cavephase	day	
+[00:00:21]: setting 	iscavewaxingmoon	true	
+[00:00:21]: setting 	isnightmarewild	false	
+[00:00:21]: setting 	nightmaretimeinphase	0	
+[00:00:21]: setting 	precipitationrate	0	
+[00:00:21]: setting 	iswet	false	
+[00:00:21]: setting 	isnewmoon	false	
+[00:00:21]: setting 	precipitation	none	
+[00:00:21]: setting 	israining	false	
+[00:00:21]: setting 	isnightmarewarn	false	
+[00:00:21]: setting 	iswinter	true	
+[00:00:21]: setting 	season	winter	
+[00:00:21]: setting 	remainingdaysinseason	9	
+[00:00:21]: setting 	winterlength	15	
+[00:00:21]: setting 	iscaveday	true	
+[00:00:21]: setting 	moistureceil	1573.7020263672	
+[00:00:21]: setting 	isday	true	
+[00:00:21]: setting 	springlength	20	
+[00:00:21]: setting 	wetness	0	
+[00:00:21]: setting 	iscavedusk	false	
+[00:00:21]: setting 	isalterawake	false	
+[00:00:21]: setting 	isnightmarecalm	false	
+[00:00:21]: setting 	isnight	false	
+[00:00:21]: setting 	isdusk	false	
+[00:00:21]: setting 	isspring	false	
+[00:00:21]: setting 	isautumn	false	
+[00:00:21]: setting 	issnowing	false	
+[00:00:21]: setting 	iswaxingmoon	true	
+[00:00:21]: setting 	phase	day	
+[00:00:21]: setting 	snowlevel	1	
+[00:00:21]: setting 	issnowcovered	true	
+[00:00:21]: setting 	autumnlength	20	
+[00:00:21]: setting 	pop	0.467338815196	
+[00:00:21]: setting 	nightmaretime	0	
+[00:00:21]: setting 	seasonprogress	0.4	
+[00:00:21]: setting 	moonphase	half	
+[00:00:21]: setting 	nightmarephase	none	
+[00:00:21]: setting 	cycles	26	
+[00:00:21]: setting 	timeinphase	0.0066652425130208	
+[00:00:21]: setting 	iscavenight	false	
+[00:00:21]: setting 	iscavenewmoon	false	
+[00:00:21]: setting 	issummer	false	
+[00:00:21]: setting 	temperature	-21.278908774275	
+[00:00:21]: setting 	time	0.002082888285319	
+[00:00:22]: Can't find prefab hollow_knight_spawner	
+[00:00:22]: SpawnSaveRecord [104028, hollow_knight_spawner] FAILED	
+[00:00:22]: Can't find prefab pekora_bomb_ice	
+[00:00:22]: SpawnSaveRecord [176952, pekora_bomb_ice] FAILED	
+[00:00:22]: Can't find prefab pekora_bomb_ice	
+[00:00:22]: SpawnSaveRecord [172896, pekora_bomb_ice] FAILED	
+[00:00:22]: [string "../mods/workshop-1289779251/scripts/prefabs..."]:56: bad argument #2 to 'SetScale' (number expected, got nil)
+LUA ERROR stack traceback:
+=[C]:-1 in (method) SetScale (C) <-1--1>
+../mods/workshop-1289779251/scripts/prefabs/flower_cherry.lua:56 in (upvalue) SetSize (Lua) <55-57>
+   inst = 104480 - flower_cherry (valid:true)
+   size = nil
+../mods/workshop-1289779251/scripts/prefabs/flower_cherry.lua:73 in (method) OnLoad (Lua) <65-75>
+   inst = 104480 - flower_cherry (valid:true)
+   data = table: 000000001C250780
+scripts/entityscript.lua:1645 in (method) SetPersistData (Lua) <1630-1647>
+   self (valid:true) =
+      set_color = table: 000000001C2503C0
+      Transform = Transform (00000000336EF430)
+      inlimbo = false
+      actionreplica = table: 00000000336D8370
+      actioncomponents = table: 00000000336D9040
+      lower_components_shadow = table: 00000000336D8A50
+      entity = Entity (0000000033580670)
+      AnimState = AnimState (00000000336EF400)
+      anim = 2
+      type = table: 000000001C2504B0
+      Network = Network (00000000336EF820)
+      persists = true
+      beetask = PERIODIC 104480: 13.839421
+      pendingtasks = table: 00000000336D8C30
+      name = Flower
+      prefab = flower_cherry
+      spawntime = 0
+      OnLoad = function - ../mods/workshop-1289779251/scripts/prefabs/flower_cherry.lua:65
+      replica = table: 00000000336D9090
+      OnSave = function - ../mods/workshop-1289779251/scripts/prefabs/flower_cherry.lua:59
+      components = table: 00000000336D8690
+      GUID = 104480
+   data = table: 000000001C250780
+   newents = table: 000000001470C590
+scripts/mainfunctions.lua:398 in (global) SpawnSaveRecord (Lua) <363-405>
+   saved = table: 000000001C250BE0
+   newents = table: 000000001470C590
+   inst = 104480 - flower_cherry (valid:true)
+scripts/gamelogic.lua:592 in (upvalue) PopulateWorld (Lua) <349-628>
+   savedata = table: 000000001954A510
+   profile = table: 0000000013090830
+   world = 100026 - world (valid:true)
+   map = Map (0000000029C55BE0)
+   newents = table: 000000001470C590
+   prefab = flower_cherry
+   ents = table: 000000001C250410
+   i = 1
+   v = table: 000000001C250BE0
+scripts/gamelogic.lua:852 in (upvalue) DoInitGame (Lua) <727-931>
+   savedata = table: 000000001954A510
+   profile = table: 0000000013090830
+   was_file_load = false
+   options = table: 00000000195490C0
+scripts/gamelogic.lua:965 in (local) cb (Lua) <959-966>
+   savedata = table: 000000001954A510
+scripts/shardindex.lua:209 in (upvalue) OnLoadSaveDataFile (Lua) <191-210>
+   file = session/54572DDC3BE0E81B/0000000029
+   cb = function - scripts/gamelogic.lua:959
+   load_success = true
+   str = local savedata = {}
+local tablefunctions = {}
+tablefunctions["map_fn"] = function()
+return {tiles="VlJTTgABAAAAAQ8BBAEIAQABAQEJAQsBCQEOAQEBAQEOAQsBBAEJAQEBAAEGAQoBDQECAQQBCgENAQkBBQEPAQgBDwEMAQYBCgEHAQkBBQECAQoBDgEJAQEBBgEOAQIBAAEKAQMBAwEGAQEBBAELAQQBDgEJAQQBCQEKAQYBDQEPAQ8BCwEEAQEBBgEFAQwBCgENAQIBCgEPAQcBCgEAAQkBAgECAQQBAgEJAQYBDgEFAQcBDAEKAQsBDQEDAQYBBQELAQcBAwECAQUBBwEKAQABDAECAQUBCgEHAQwBDAEIAQkBDQEHAQoBBgEHAQ4BAQEJAQMBBwEGAQIBBAEIAQIBCQEIAQABDgEJAQUBDQEGAQMBDgEJAQYBDAEOAQoBDwEMAQcBBgELAQ0BAQEEAQcBBwEEAQcBCAEMAQIBBQEAAQ8BCAEIAQABBAECAQkBBQEBAQIBDQEEAQkBBAEMAQ4BDgEFAQ0BBQEMAQkBCgEAAQgBDQEPAQwBAwEKAQgBAgELAQQBDQEKAQIBDwEMAQoBCAEOAQgBDAEDAQ4BBAEGAQQBBQENAQcBAQECAQ0BBAEIAQ4BDgEHAQ0BAwEGAQsBCQEBAQABAAELAQkBDgEFAQkBDwEIAQ8BDAEIAQsBDgENAQYBDgEHAQkBDgEHAQMBDwEKAQQBCwEEAQABBwELAQIBDgEHAQkBAAEDAQwBAAEHAQABBQEFAQQBBQEEAQYBDQEIAQoBDgENAQMBDAEKAQ8BDQEHAQkBDAELAQUBDAEGAQ4BBwECAQ8BAgEIAQQBBAEKAQwBCQEOAQ4BDAEBAQcBDgEKAQgBCAECAQ4BAAEIAQABCgEAAQABAQENAQoBAgEKAQUBBAEAAQoBAAEBAQABDAEMAQUBBQEIAQUBAQEKAQIBDgEIAQwBBAEFAQcBAQEKA [**truncated**]
+   success = true
+   savedata = table: 000000001954A510
+scripts/shardindex.lua:214 in () ? (Lua) <213-215>
+   load_success = true
+   str = local savedata = {}
+local tablefunctions = {}
+tablefunctions["map_fn"] = function()
+return {tiles="VlJTTgABAAAAAQ8BBAEIAQABAQEJAQsBCQEOAQEBAQEOAQsBBAEJAQEBAAEGAQoBDQECAQQBCgENAQkBBQEPAQgBDwEMAQYBCgEHAQkBBQECAQoBDgEJAQEBBgEOAQIBAAEKAQMBAwEGAQEBBAELAQQBDgEJAQQBCQ
+[00:00:22]: [string "../mods/workshop-1289779251/scripts/prefabs..."]:56: bad argument #2 to 'SetScale' (number expected, got nil)
+LUA ERROR stack traceback:
+    =[C]:-1 in (method) SetScale (C) <-1--1>
+    ../mods/workshop-1289779251/scripts/prefabs/flower_cherry.lua:56 in (upvalue) SetSize (Lua) <55-57>
+    ../mods/workshop-1289779251/scripts/prefabs/flower_cherry.lua:73 in (method) OnLoad (Lua) <65-75>
+    scripts/entityscript.lua:1645 in (method) SetPersistData (Lua) <1630-1647>
+    scripts/mainfunctions.lua:398 in (global) SpawnSaveRecord (Lua) <363-405>
+    scripts/gamelogic.lua:592 in (upvalue) PopulateWorld (Lua) <349-628>
+    scripts/gamelogic.lua:852 in (upvalue) DoInitGame (Lua) <727-931>
+    scripts/gamelogic.lua:965 in (local) cb (Lua) <959-966>
+    scripts/shardindex.lua:209 in (upvalue) OnLoadSaveDataFile (Lua) <191-210>
+    scripts/shardindex.lua:214 in () ? (Lua) <213-215>
+    =[C]:-1 in (method) GetPersistentString (C) <-1--1>
+    scripts/shardindex.lua:213 in (method) GetSaveDataFile (Lua) <212-216>
+	
+[00:00:22]: Check for write access: TRUE
+[00:00:22]: Check for read access: TRUE
+[00:00:22]: Available disk space for save files: 166258 MB
+[00:00:22]: ModIndex: Load sequence finished successfully.	
+[00:00:22]: Reset() returning

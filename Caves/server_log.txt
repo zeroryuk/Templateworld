@@ -4692,3 +4692,19 @@ Process Memory:
 [00:58:13]: Truncating to snapshot #19...
 [00:58:13]:  - session/4D645FDD39EB0475/0000000013
 [00:58:13]:    1 file(s) removed
+[00:58:55]: Sim paused
+[00:59:08]: Available disk space for save files: 159750 MB
+[00:59:09]: Serializing world: session/4D645FDD39EB0475/0000000020
+[00:59:09]: Truncating to snapshot #20...
+[00:59:09]:  - session/4D645FDD39EB0475/0000000014
+[00:59:09]:    1 file(s) removed
+[00:59:09]: [Shard] Stopping shard mode
+[00:59:09]: [Steam] SendUserDisconnect for ''
+[00:59:09]: Collecting garbage...
+[00:59:10]: lua_gc took 0.68 seconds
+[00:59:10]: ~ShardLuaProxy()
+[00:59:10]: ~cEventLeaderboardProxy()
+[00:59:10]: ~ItemServerLuaProxy()
+[00:59:10]: ~InventoryLuaProxy()
+[00:59:10]: ~NetworkLuaProxy()
+[00:59:10]: ~SimLuaProxy()

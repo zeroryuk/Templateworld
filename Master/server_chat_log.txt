@@ -33,3 +33,4 @@
 [00:58:13]: [Leave Announcement] ZeroRyuk
 [00:58:37]: [Leave Announcement] Mr.Lago
 [00:58:38]: [Death Announcement] Musubi was killed by Tentacle. She became a spooky ghost!
+[00:58:53]: [Leave Announcement] Musubi

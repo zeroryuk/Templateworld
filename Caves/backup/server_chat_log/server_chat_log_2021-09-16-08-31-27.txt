@@ -1,0 +1,157 @@
+[00:07:37]: [Join Announcement] Mr.Lago
+[00:09:33]: [Join Announcement] Lobak
+[00:09:55]: [Say] (KU_dEYHQFc9) Lobak: oo
+[00:10:00]: [Say] (KU_xj-WM3f-) Mr.Lago: welcome back
+[00:11:19]: [Say] (KU_dEYHQFc9) Lobak: wut to do now
+[00:11:30]: [Say] (KU_xj-WM3f-) Mr.Lago: survive for now
+[00:11:35]: [Join Announcement] CoolChilli
+[00:11:39]: [Say] (KU_xj-WM3f-) Mr.Lago: we gotta prepare for winter boss
+[00:11:43]: [Say] (KU_xj-WM3f-) Mr.Lago: welcome back chili
+[00:11:54]: [Say] (KU_dEYHQFc9) Lobak: need to prepare wut
+[00:11:54]: [Say] (KU_eZtCobTD) CoolChilli: yea
+[00:12:00]: [Say] (KU_xj-WM3f-) Mr.Lago: winter boss
+[00:12:14]: [Say] (KU_dEYHQFc9) Lobak: i noe winter boss
+[00:12:18]: [Say] (KU_xj-WM3f-) Mr.Lago: like we need weapons and heals
+[00:12:25]: [Say] (KU_xj-WM3f-) Mr.Lago: and armors
+[00:13:09]: [Say] (KU_eZtCobTD) CoolChilli: anyone need healing?
+[00:13:10]: [Say] (KU_dEYHQFc9) Lobak: how to avoid freezing~
+[00:13:22]: [Say] (KU_eZtCobTD) CoolChilli: use thermal stone
+[00:13:24]: [Say] (KU_dEYHQFc9) Lobak: 38/100
+[00:13:33]: [Say] (KU_eZtCobTD) CoolChilli: type /dance in chat
+[00:13:50]: [Say] (KU_dEYHQFc9) Lobak: cool
+[00:14:01]: [Say] (KU_dEYHQFc9) Lobak: summore got song lol
+[00:14:10]: [Say] (KU_eZtCobTD) CoolChilli: lol
+[00:19:00]: [Death Announcement] Lobak was killed by Spider. She became a spooky ghost!
+[00:19:07]: [Say] (KU_eZtCobTD) CoolChilli: rip
+[00:19:26]: [Say] (KU_dEYHQFc9) Lobak: lagged
+[00:20:32]: [Join Announcement] ZeroRyuk
+[00:22:32]: [Skin Announcement] Mr.Lago webber_beard_gladiator
+[00:23:45]: [Resurrect Announcement] Lobak was resurrected by Florid Postern.
+[00:25:58]: [Say] (KU_dEYHQFc9) Lobak: how does the thermal stone works
+[00:26:07]: [Say] (KU_xj-WM3f-) Mr.Lago: stay in fire
+[00:26:12]: [Say] (KU_xj-WM3f-) Mr.Lago: it will absorb the heat
+[00:26:18]: [Say] (KU_xj-WM3f-) Mr.Lago: once it glows bright red
+[00:26:24]: [Say] (KU_xj-WM3f-) Mr.Lago: it keeps u warm for a long time
+[00:26:31]: [Say] (KU_dEYHQFc9) Lobak: orange now
+[00:26:41]: [Say] (KU_xj-WM3f-) Mr.Lago: its max temp now
+[00:26:50]: [Say] (KU_dEYHQFc9) Lobak: okok
+[00:26:55]: [Say] (KU_dEYHQFc9) Lobak: RIP san
+[00:28:29]: [Say] (KU_dEYHQFc9) Lobak: winter no flower right?
+[00:28:41]: [Say] (KU_eZtCobTD) CoolChilli: has flower but no butterfly to make new one
+[00:28:53]: [Death Announcement] Lobak was killed by Spider. She became a spooky ghost!
+[00:29:01]: [Say] (KU_B-XFv0pO) ZeroRyuk: bruh
+[00:29:05]: [Say] (KU_dEYHQFc9) Lobak: crap line
+[00:29:37]: [Say] (KU_dEYHQFc9) Lobak: dunno wuts da prob tho~
+[00:29:49]: [Say] (KU_dEYHQFc9) Lobak: line sometimes good sometimes bad
+[00:30:00]: [Say] (KU_B-XFv0pO) ZeroRyuk: ISP
+[00:30:02]: [Say] (KU_dEYHQFc9) Lobak: sob~
+[00:30:19]: [Say] (KU_dEYHQFc9) Lobak: ya mainly~
+[00:30:27]: [Say] (KU_dEYHQFc9) Lobak: internet sucks~
+[00:31:25]: [Say] (KU_dEYHQFc9) Lobak: mayb need to get a better wifi connector
+[00:31:30]: [Say] (KU_dEYHQFc9) Lobak: xD
+[00:31:38]: [Say] (KU_dEYHQFc9) Lobak: my pc is at 2nd floor
+[00:32:02]: [Say] (KU_dEYHQFc9) Lobak: im still using the normal wifi receptor~ not 5G ones
+[00:32:50]: [Say] (KU_dEYHQFc9) Lobak: sad~
+[00:32:59]: [Say] (KU_dEYHQFc9) Lobak: thats y i say sometimes good sometimes bad
+[00:33:24]: [Resurrect Announcement] Lobak was resurrected by Florid Postern.
+[00:33:52]: [Say] (KU_dEYHQFc9) Lobak: i think if im at the same place with my router shud be fine? xD
+[00:34:44]: [Death Announcement] Lobak was killed by Freezing. She became a spooky ghost!
+[00:34:52]: [Say] (KU_dEYHQFc9) Lobak: xD my item gone~!!!!!!
+[00:35:43]: [Leave Announcement] CoolChilli
+[00:35:47]: [Say] (KU_dEYHQFc9) Lobak: nuuuu~~~~ zen lost~!!!!!!
+[00:36:13]: [Say] (KU_dEYHQFc9) Lobak: then i'll have to find it~!!!
+[00:36:24]: [Say] (KU_dEYHQFc9) Lobak: i dunno whr is it dy xD
+[00:36:42]: [Join Announcement] WillerWill
+[00:36:50]: [Say] (KU_xj-WM3f-) Mr.Lago: welcome bback willer
+[00:36:58]: [Say] (KU_dEYHQFc9) Lobak: ah okays~
+[00:36:59]: [Say] (KU__nAVJOHM) WillerWill: thx :v
+[00:36:59]: [Say] (KU_B-XFv0pO) ZeroRyuk: wb
+[00:37:00]: [Say] (KU_xj-WM3f-) Mr.Lago: read my manga
+[00:37:06]: [Say] (KU_dEYHQFc9) Lobak: its far from whr i am looking pfft
+[00:37:08]: [Say] (KU_B-XFv0pO) ZeroRyuk: YA BE
+[00:37:11]: [Say] (KU_xj-WM3f-) Mr.Lago: RUN
+[00:37:21]: [Say] (KU_dEYHQFc9) Lobak: negero~
+[00:37:32]: [Say] (KU_B-XFv0pO) ZeroRyuk: run away from the base
+[00:37:50]: [Say] (KU_B-XFv0pO) ZeroRyuk: follow me
+[00:39:45]: [Leave Announcement] Lobak
+[00:40:12]: [Say] (KU_B-XFv0pO) ZeroRyuk: willer why did you run lol
+[00:40:31]: [Say] (KU_B-XFv0pO) ZeroRyuk: youre the tanky one
+[00:40:34]: [Say] (KU__nAVJOHM) WillerWill: i follow lago :U
+[00:40:40]: [Say] (KU_B-XFv0pO) ZeroRyuk: lol I was fightin g it
+[00:40:45]: [Join Announcement] Lobak
+[00:40:51]: [Say] (KU_xj-WM3f-) Mr.Lago: I elped
+[00:41:51]: [Say] (KU__nAVJOHM) WillerWill: my sanity fked btw
+[00:42:08]: [Say] (KU_dEYHQFc9) Lobak: need to stay near u then~
+[00:42:41]: [Resurrect Announcement] Lobak was resurrected by Florid Postern.
+[00:43:39]: [Say] (KU_B-XFv0pO) ZeroRyuk: eh it aint safe
+[00:43:55]: [Say] (KU__nAVJOHM) WillerWill: how to cook with pot
+[00:44:06]: [Say] (KU_dEYHQFc9) Lobak: aint safe???
+[00:44:10]: [Say] (KU_B-XFv0pO) ZeroRyuk: Hounds
+[00:44:26]: [Say] (KU_dEYHQFc9) Lobak: fire fire
+[00:44:40]: [Say] (KU__nAVJOHM) WillerWill: lol
+[00:44:43]: [Say] (KU_B-XFv0pO) ZeroRyuk: make armor
+[00:44:46]: [Say] (KU_dEYHQFc9) Lobak: 5 hp left
+[00:44:47]: [Say] (KU_B-XFv0pO) ZeroRyuk: carrot
+[00:44:48]: [Say] (KU_xj-WM3f-) Mr.Lago: good luck
+[00:44:52]: [Say] (KU_B-XFv0pO) ZeroRyuk: lol youre dead
+[00:45:11]: [Say] (KU_dEYHQFc9) Lobak: RIP
+[00:45:24]: [Say] (KU_B-XFv0pO) ZeroRyuk: give karat the armor
+[00:45:50]: [Say] (KU_xj-WM3f-) Mr.Lago: wao
+[00:45:52]: [Death Announcement] Lobak was killed by Hound. She became a spooky ghost!
+[00:45:56]: [Say] (KU_xj-WM3f-) Mr.Lago: yabe
+[00:46:00]: [Say] (KU_dEYHQFc9) Lobak: yabe~
+[00:46:08]: [Say] (KU_B-XFv0pO) ZeroRyuk: gura is not for beginners
+[00:46:10]: [Say] (KU_B-XFv0pO) ZeroRyuk: lol
+[00:46:38]: [Say] (KU__nAVJOHM) WillerWill: dem lago
+[00:46:45]: [Say] (KU_xj-WM3f-) Mr.Lago: i helpped
+[00:46:47]: [Say] (KU_B-XFv0pO) ZeroRyuk: lol
+[00:47:13]: [Say] (KU__nAVJOHM) WillerWill: ouh she no need armor
+[00:47:15]: [Say] (KU__nAVJOHM) WillerWill: pfft
+[00:47:29]: [Say] (KU_B-XFv0pO) ZeroRyuk: she has 80% defense forever
+[00:47:36]: [Say] (KU_B-XFv0pO) ZeroRyuk: that's why you shouldn't run
+[00:47:46]: [Say] (KU_dEYHQFc9) Lobak: if i were to copy steam folder to lappy.... i need re-dl everything?
+[00:47:56]: [Say] (KU_B-XFv0pO) ZeroRyuk: probably not
+[00:48:03]: [Say] (KU_B-XFv0pO) ZeroRyuk: it will just check if it exist already
+[00:48:43]: [Say] (KU_B-XFv0pO) ZeroRyuk: oh btw about the crockpot
+[00:48:45]: [Say] (KU_B-XFv0pO) ZeroRyuk: check the wiki
+[00:48:47]: [Say] (KU_B-XFv0pO) ZeroRyuk: pfft
+[00:48:50]: [Say] (KU__nAVJOHM) WillerWill: pffft
+[00:48:55]: [Say] (KU_B-XFv0pO) ZeroRyuk: we usually just make meatballs
+[00:49:01]: [Say] (KU_B-XFv0pO) ZeroRyuk: cuz it's easy and a lot of hunger
+[00:49:07]: [Say] (KU_dEYHQFc9) Lobak: 70GBs~
+[00:49:09]: [Say] (KU_B-XFv0pO) ZeroRyuk: tent will cover for the sanity and health
+[00:49:27]: [Say] (KU_B-XFv0pO) ZeroRyuk: DST is smaller than that
+[00:49:37]: [Say] (KU_B-XFv0pO) ZeroRyuk: you can just download DST alone
+[00:50:15]: [Say] (KU_B-XFv0pO) ZeroRyuk: if you got nothing todo willer cut the trees
+[00:50:33]: [Say] (KU__nAVJOHM) WillerWill: i was checking receipe
+[00:50:35]: [Leave Announcement] Lobak
+[01:00:08]: [Say] (KU__nAVJOHM) WillerWill: my earmuff gone btw
+[01:00:39]: [Say] (KU_B-XFv0pO) ZeroRyuk: were in th
+[01:00:44]: [Say] (KU_B-XFv0pO) ZeroRyuk: voice chat btw
+[01:00:55]: [Say] (KU_xj-WM3f-) Mr.Lago: willer is shy
+[01:00:56]: [Say] (KU__nAVJOHM) WillerWill: pfft ok
+[01:10:15]: [Say] (KU__nAVJOHM) WillerWill: noone talking in vc :v
+[01:10:19]: [Say] (KU_xj-WM3f-) Mr.Lago: wat
+[01:10:21]: [Say] (KU_xj-WM3f-) Mr.Lago: we are
+[01:10:24]: [Say] (KU__nAVJOHM) WillerWill: nani
+[01:10:31]: [Say] (KU_B-XFv0pO) ZeroRyuk: omg
+[01:10:33]: [Say] (KU_xj-WM3f-) Mr.Lago: willer u hai
+[01:10:38]: [Say] (KU__nAVJOHM) WillerWill: wut
+[01:10:39]: [Say] (KU_B-XFv0pO) ZeroRyuk: I've been talking to you
+[01:10:48]: [Say] (KU_xj-WM3f-) Mr.Lago: ya we been talking to uu
+[01:11:07]: [Say] (KU_B-XFv0pO) ZeroRyuk: I even said don't use the tent cuz it's not infinite durability
+[01:11:21]: [Say] (KU__nAVJOHM) WillerWill: nani
+[01:11:40]: [Say] (KU_B-XFv0pO) ZeroRyuk: fix your discord
+[01:14:10]: [Skin Announcement] Mr.Lago legs_wilson_magma
+[01:22:10]: [Skin Announcement] WillerWill hand_longgloves_green_hunters
+[01:27:45]: [Join Announcement] Lobak
+[01:28:13]: [Say] (KU_dEYHQFc9) Lobak: owh im in
+[01:28:21]: [Say] (KU_xj-WM3f-) Mr.Lago: welcome back
+[01:28:34]: [Say] (KU_dEYHQFc9) Lobak: just not familiar with the button
+[01:28:41]: [Say] (KU_dEYHQFc9) Lobak: gonna change it 1st
+[01:29:01]: [Say] (KU_dEYHQFc9) Lobak: so do i~ dunno how to make it 1 by 1
+[01:29:30]: [Say] (KU_dEYHQFc9) Lobak: run~!!!!
+[01:33:04]: [Say] (KU_dEYHQFc9) Lobak: still setting the keys
+[01:34:38]: [Leave Announcement] ZeroRyuk
+[01:34:42]: [Leave Announcement] Mr.Lago
+[01:34:56]: [Leave Announcement] WillerWill

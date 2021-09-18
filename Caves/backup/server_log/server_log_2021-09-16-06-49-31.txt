@@ -1,0 +1,527 @@
+[00:00:01]: 
+System Memory:
+	Memory Load: 71%
+	Available Physical Memory: 4555m/16221m
+	Available Page File: 11400m/27997m
+	Available Virtual Memory: 134213508m/134217727m
+	Available Extended Virtual Memory: 0m
+[00:00:01]: 
+Process Memory:
+	Peak Working Set Size: 11m
+	Working Set Size: 11m
+	Quota Peak Page Pool Usage: 175k
+	Quota Page Pool Usage: 175k
+	Quota Peak Non Paged Pool Usage:12k
+	Quota Non Paged Pool Usage: 12k
+	Page File Usage: 3m
+	Peak Page File Usage: 3m
+[00:00:01]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/DoNotStarveTogetherDedicated/Caves/ 
+[00:00:01]: Starting Up
+[00:00:01]: Version: 478446
+[00:00:01]: Current time: Thu Sep 16 06:49:00 2021
+
+[00:00:01]: Don't Starve Together: 478446 WIN32
+[00:00:01]: Build Date: 242
+[00:00:01]: Mode: 64-bit
+[00:00:01]: Parsing command line
+[00:00:01]: Command Line Arguments: -console -cluster DoNotStarveTogetherDedicated -shard Caves 
+[00:00:01]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:01]: Initializing distribution platform
+[00:00:01]: Initializing Minidump handler
+[00:00:01]: ....Done
+[00:00:01]: ....Done
+[00:00:01]: Fixing DPI
+[00:00:01]: ...Done
+[00:00:01]: THREAD - started 'GAClient' (25188)
+[00:00:01]: CurlRequestManager::ClientThread::Main()
+[00:00:01]: Mounting file system databundles/klump.zip successful.
+[00:00:01]: Mounting file system databundles/shaders.zip successful.
+[00:00:01]: Mounting file system databundles/fonts.zip successful.
+[00:00:01]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:01]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:01]: Mounting file system databundles/images.zip successful.
+[00:00:01]: Mounting file system databundles/scripts.zip successful.
+[00:00:01]: [Steam] SteamGameServer_Init(10998, 27017)
+[00:00:01]: [Steam] SteamGameServer_Init success
+[00:00:01]: ProfileIndex:3.00
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: THREAD - started 'Ping Job Thread' (16624)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Authorized application D:\Steam\steamapps\common\Don't Starve Together Dedicated Server\bin64\dontstarve_dedicated_server_nullrenderer_x64.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/DoNotStarveTogetherDedicated/blocklist.txt (Failure)
+[00:00:01]: THREAD - started 'StreamInput' (28412)
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/DoNotStarveTogetherDedicated/adminlist.txt (Failure)
+[00:00:01]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/DoNotStarveTogetherDedicated/whitelist.txt (Failure)
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogether/DoNotStarveTogetherDedicated/cluster_token.txt
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogether/DoNotStarveTogetherDedicated/cluster_token.txt
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Home
+    version                   10.0.19042
+    platformSpecific          SP 0.0
+    architecture              64-bit
+  CPU                       
+    clockSpeed                2592
+    name                      Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+    manufacturer              GenuineIntel
+    numCores                  6
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    megsOfRam                 1024
+    videoModeDescription      1920 x 1080 x 4294967296 colors
+    name                      Intel(R) UHD Graphics 630
+    driverVersion             25.20.100.6617
+    driverDate                20190308000000.000000-000
+    refreshRate               144
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: AppVersion::GetArchitecture() x64
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: running main.lua
+	
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:01]: SUCCESS: Loaded modoverrides.lua	
+[00:00:02]: modoverrides.lua enabling workshop-1207269058	
+[00:00:02]: modoverrides.lua enabling workshop-2358978811	
+[00:00:02]: modoverrides.lua enabling workshop-1289779251	
+[00:00:02]: modoverrides.lua enabling workshop-2411450759	
+[00:00:02]: modoverrides.lua enabling workshop-2289662010	
+[00:00:02]: modoverrides.lua enabling workshop-2304170675	
+[00:00:02]: modoverrides.lua enabling workshop-2410382718	
+[00:00:02]: modoverrides.lua enabling workshop-2336991112	
+[00:00:02]: modoverrides.lua enabling workshop-2431606769	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2304170675	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2410382718	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2289662010	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2336991112	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2358978811	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2431606769	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1289779251	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2411450759	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2304170675_CLIENT	
+[00:00:02]: Loading mod: workshop-2304170675 (Takanashi Kiara) Version:1.8.0	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2410382718_CLIENT	
+[00:00:02]: Loading mod: workshop-2410382718 (Ninomae Ina'nis) Version:1.2.3	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2289662010_CLIENT	
+[00:00:02]: Loading mod: workshop-2289662010 (Rail Cart) Version:1.06	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1207269058_CLIENT	
+[00:00:02]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.15	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2336991112_CLIENT	
+[00:00:02]: Loading mod: workshop-2336991112 (Calliope Mori) Version:1.6.0	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2358978811_CLIENT	
+[00:00:02]: Loading mod: workshop-2358978811 (Gawr Gura) Version:1.5.6	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2431606769_CLIENT	
+[00:00:02]: Loading mod: workshop-2431606769 (Hoshimachi Suisei) Version:1.1.2	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1289779251_CLIENT	
+[00:00:02]: Loading mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  ) Version:1.6-pre25r	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2411450759_CLIENT	
+[00:00:02]: Loading mod: workshop-2411450759 (Amelia Watson) Version:1.1.4	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2358978811	
+[00:00:02]: Overriding mod workshop-2358978811's option  with value 0	
+[00:00:02]: Overriding mod workshop-2358978811's option  with value 0	
+[00:00:02]: Overriding mod workshop-2358978811's option  with value 0	
+[00:00:02]: Overriding mod workshop-2358978811's option  with value 0	
+[00:00:02]: Overriding mod workshop-2358978811's option Others with value 0	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_hunger with value 250	
+[00:00:02]: Overriding mod workshop-2358978811's option Wetness with value 0	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_trident_dmg with value 34	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_dmg with value 1	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_trident_spell_amount with value 5	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_trident_durability with value 300	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_voice with value gura	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_wet_sanity with value 0	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_trident_spell_mining with value false	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_trident_recipe with value 1	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_health with value 100	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_trident_spell_durability with value 150	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_speed with value 1.25	
+[00:00:02]: Overriding mod workshop-2358978811's option Basic Stats with value 0	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_starting_items with value 0	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_swim_rate with value 5	
+[00:00:02]: Overriding mod workshop-2358978811's option Friends with value 0	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_dry_sanity with value 0	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_friends with value 1	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_dry_rate with value 1	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_clothes with value false	
+[00:00:02]: Overriding mod workshop-2358978811's option Trident with value 0	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_sanity with value 100	
+[00:00:02]: Overriding mod workshop-2358978811's option gura_hunger_rate with value 1.25	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-1289779251	
+[00:00:02]: Overriding mod workshop-1289779251's option biome_caves with value false	
+[00:00:02]: Overriding mod workshop-1289779251's option misc with value false	
+[00:00:02]: Overriding mod workshop-1289779251's option character_wirlywings with value false	
+[00:00:02]: Overriding mod workshop-1289779251's option character with value false	
+[00:00:02]: Overriding mod workshop-1289779251's option language with value false	
+[00:00:02]: Overriding mod workshop-1289779251's option misc_minigame with value 75	
+[00:00:02]: Overriding mod workshop-1289779251's option biome with value false	
+[00:00:02]: Overriding mod workshop-1289779251's option biome_forestsize with value 2	
+[00:00:02]: Overriding mod workshop-1289779251's option biome_wormhole with value false	
+[00:00:02]: Overriding mod workshop-1289779251's option misc_cherrycraft with value false	
+[00:00:02]: Overriding mod workshop-1289779251's option misc_bloomprint with value 0.01	
+[00:00:02]: Overriding mod workshop-1289779251's option biome_generation with value archipelago	
+[00:00:02]: Overriding mod workshop-1289779251's option language_set with value english	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2411450759	
+[00:00:02]: Overriding mod workshop-2411450759's option  with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option  with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option  with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option  with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option  with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option  with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option  with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option  with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_groundpound_key with value KEY_G	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_filter with value true	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_drowsiness_enable with value true	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_speed with value 1.1	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_sanity with value 200	
+[00:00:02]: Overriding mod workshop-2411450759's option Concoction - Buffs with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_sanity_penalty_on_salt with value 10	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_toxic_gamer_lines_enabled with value true	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_dmg with value 1	
+[00:00:02]: Overriding mod workshop-2411450759's option Basic Stats with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_watch_recipe with value 1	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_hunger with value 150	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_groundpound_radius with value 5	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_sweat_moisture_per_sec with value 1	
+[00:00:02]: Overriding mod workshop-2411450759's option Salty Gamer with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option Bubba with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_sanity_regen_amount with value 50	
+[00:00:02]: Overriding mod workshop-2411450759's option Groundpound with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_hunger_rate with value 1	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_groundpound_destroy_structure_enabled with value false	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_total_poison_dps with value 1	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_clothes with value false	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_health with value 150	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_voice with value willow	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_absorption_modifier with value 0.3	
+[00:00:02]: Overriding mod workshop-2411450759's option bubba_dig_chance with value 0.3	
+[00:00:02]: Overriding mod workshop-2411450759's option Watson Concoction with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_stomachache_hunger_damage with value 50	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_health_regen_amount with value 70	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_movespeed_buff with value 1.6	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_groundpound_dmg_multi with value 2	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_duration with value 25	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_salt_droprate_attacked with value 0.3	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_watch_max_uses with value 3	
+[00:00:02]: Overriding mod workshop-2411450759's option bubba_dig_enabled with value true	
+[00:00:02]: Overriding mod workshop-2411450759's option Timeleap with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_attack_multiplier with value 1.3	
+[00:00:02]: Overriding mod workshop-2411450759's option bubba_dig_cooldown with value 15	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_recipe with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_groundpound_hunger_cost with value 30	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_headache_sanity_damage with value 50	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_starting with value 2	
+[00:00:02]: Overriding mod workshop-2411450759's option amelia_watch_timeleap_secs with value 5	
+[00:00:02]: Overriding mod workshop-2411450759's option watson_concoction_stomachache_on_eat_damage with value 5	
+[00:00:02]: Overriding mod workshop-2411450759's option Others with value 0	
+[00:00:02]: Overriding mod workshop-2411450759's option Concoction - Side Effects with value 0	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2289662010	
+[00:00:02]: Overriding mod workshop-2289662010's option RAILCART_SPAWNSMOKE with value true	
+[00:00:02]: Overriding mod workshop-2289662010's option RAILCART_PLAYSOUND with value true	
+[00:00:02]: Overriding mod workshop-2289662010's option RAILCART_SPEEDUP with value 1	
+[00:00:02]: Overriding mod workshop-2289662010's option RAILCART_CRAFTAMOUNT with value 6	
+[00:00:02]: Overriding mod workshop-2289662010's option RAILCART_DAMPING with value 1	
+[00:00:02]: Overriding mod workshop-2289662010's option RAILCART_BRAKING with value 1	
+[00:00:02]: Overriding mod workshop-2289662010's option RAILCART_FIREPROOF with value false	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2304170675	
+[00:00:02]: Overriding mod workshop-2304170675's option  with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option  with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option  with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option  with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option  with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option  with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option Other Perks with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_sword_starting with value true	
+[00:00:02]: Overriding mod workshop-2304170675's option Sword and Shield Fuel with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_hunger_rate with value 1	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_resurrection_cd with value 480	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_sanity with value 100	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_freeze_resist with value 2	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_shield_cd with value 4	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_cold_resist with value -50	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_ms with value 0.9	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_sword_flame with value true	
+[00:00:02]: Overriding mod workshop-2304170675's option Basic Stats with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_fuel with value 4	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_dmg with value 1	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_resu_key with value KEY_Z	
+[00:00:02]: Overriding mod workshop-2304170675's option Resurrection with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_sword_dmg with value 51	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_health with value 175	
+[00:00:02]: Overriding mod workshop-2304170675's option Flaming Sword with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option Svalinn with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_food with value true	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_sword_durability with value 2.4	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_heat_resist with value true	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_shield_recipe with value 1	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_sword_wet with value 50	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_sword_recipe with value 1	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_clothes with value false	
+[00:00:02]: Overriding mod workshop-2304170675's option Resistances with value 0	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_resu_penalty with value true	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_sword_hunger with value 5	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_shield_durability with value 25	
+[00:00:02]: Overriding mod workshop-2304170675's option kiara_hunger with value 150	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2410382718	
+[00:00:02]: Overriding mod workshop-2410382718's option  with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option  with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option  with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option  with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option  with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option Other Perks with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_tako_health with value 125	
+[00:00:02]: Overriding mod workshop-2410382718's option Wetness with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_block with value 70	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_clothes with value false	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_tako_monster with value false	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_sanity with value 250	
+[00:00:02]: Overriding mod workshop-2410382718's option Basic Stats with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_dry_rate with value 1	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_crowbar_dmg with value 51	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_hunger with value 150	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_summon_cost_health with value 20	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_dmg with value 1	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_summon_cost_sanity with value 20	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_wet_sanity with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_tentacles_size with value 100	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_crowbar_rp with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option Takodachis with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_sanity_cost with value 10	
+[00:00:02]: Overriding mod workshop-2410382718's option Crowbar with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_swim_rate with value 5	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_crowbar_durability with value 200	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_voice with value wickerbottom	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_tako_regen with value 10	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_tako_damage with value 6	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_starting with value true	
+[00:00:02]: Overriding mod workshop-2410382718's option The Ancient Ones with value 0	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_return_damage with value 50	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_health with value 125	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_ms with value 1	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_monster with value true	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_hunger_rate with value 1	
+[00:00:02]: Overriding mod workshop-2410382718's option ninomae_dry_sanity with value 0	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2336991112	
+[00:00:02]: Overriding mod workshop-2336991112's option  with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option  with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option  with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option  with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option  with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option  with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option  with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option Other Perks with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_cursed with value true	
+[00:00:02]: Overriding mod workshop-2336991112's option Visual Config with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option Guzzler Hat with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_tsun with value true	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_speed with value 1	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_hat_interval with value 6	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_kazoo_durability with value 4	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_reap_heal with value 5	
+[00:00:02]: Overriding mod workshop-2336991112's option Basic Stats with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option Scythe with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_clothes with value false	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_hud with value true	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_reap_counter with value 60	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_hunger with value 125	
+[00:00:02]: Overriding mod workshop-2336991112's option Sleeping (Death) with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_health with value 125	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_dmg with value 1	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_hunger_rate with value 1	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_hat_durability with value 9	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_mori_grave with value 0.04	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_sleep_penalty with value true	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_sleep_soulrate with value 1	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_starters with value true	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_reap_onhurt with value 1	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_scythe_durability with value 666	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_sleep_recovery with value 1	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_sleep_duration with value 30	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_scythe_dmg with value 68	
+[00:00:02]: Overriding mod workshop-2336991112's option Kazoo with value 0	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_immortal with value true	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_scythe_maxrate with value 70	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_scythe_crit_dmg with value 3	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_sanity with value 200	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_soul_strike with value 5	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_scythe_recipe with value 1	
+[00:00:02]: Overriding mod workshop-2336991112's option calliope_hat_conversion with value 2	
+[00:00:02]: Overriding mod workshop-2336991112's option Souls with value 0	
+[00:00:02]: applying configuration_options from modoverrides.lua to mod workshop-2431606769	
+[00:00:02]: Overriding mod workshop-2431606769's option  with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option  with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option  with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option  with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option  with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option  with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option  with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option  with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_kill_base_sanity_gain with value 10	
+[00:00:02]: Overriding mod workshop-2431606769's option anemachi_bl_durability with value 1000	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_activation_kill_time with value 7	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_fear_ghost_dark with value true	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_hunger_rate with value 1	
+[00:00:02]: Overriding mod workshop-2431606769's option Hitwoman Idol with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_health with value 150	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_activation_heart_consumption with value true	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_dmg with value 1	
+[00:00:02]: Overriding mod workshop-2431606769's option Basic Stats with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option anemachi_bl_recipe with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_axe_efficiency with value 1	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_tblock_damage with value 68	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_starting_items with value 1	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_tblock_recipe with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_attack_boss_sanity_gain with value 10	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_tblock_proj_speed with value 10	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_tblock_auto_catch with value true	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_tblock_uses with value 20	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_axe_dmg_multi with value 1.5	
+[00:00:02]: Overriding mod workshop-2431606769's option Others with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_sanity with value 220	
+[00:00:02]: Overriding mod workshop-2431606769's option Suicopath - Basic with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option Tetris Queen with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_regular_kill_sanity_gain with value 5	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_on_kill_victim_heart_droprate with value 1	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_language with value JP	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_dont_eat_vegetable with value true	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_clothes with value false	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_multiaxe_dmg_multi with value 2.5	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_goldenaxe_dmg_multi with value 2.5	
+[00:00:02]: Overriding mod workshop-2431606769's option Suicopath - On Kill with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_moonglassaxe_dmg_multi with value 2.5	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_movespeed with value 1	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_hunger with value 120	
+[00:00:02]: Overriding mod workshop-2431606769's option suisei_axe_durability with value 1.2	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_screen_effect with value true	
+[00:00:02]: Overriding mod workshop-2431606769's option Axe Proficiency with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_player_kill_gain_multi with value 1.5	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_largecreature_kill_gain_multi with value 2	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_kill_base_health_gain with value 20	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_insanity_aura_sanity_drain with value 3	
+[00:00:02]: Overriding mod workshop-2431606769's option BL Fanbook with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_deactivation_sanity_percent with value 0.1	
+[00:00:02]: Overriding mod workshop-2431606769's option Language/言語 with value 0	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_base_damage_multi with value 1.2	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_attack_living_sanity_gain with value 5	
+[00:00:02]: Overriding mod workshop-2431606769's option suicopath_activation_kill_counts with value 5	
+[00:00:02]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	Loading modworldgenmain.lua	
+[00:00:02]: modimport: ../mods/workshop-1289779251/tile_adder.lua	
+[00:00:02]: Mod: workshop-1289779251 (  󰀍 Cherry Forest 󰀍  )	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_assets	
+[00:00:02]: modimport: ../mods/workshop-1289779251/init/init_characters	
+[00:00:02]: modimport: ../mods/workshop-1289779251/skins_api	
+[00:00:03]: modimport: ../mods/workshop-1289779251/init/init_prefabs	
+[00:00:03]: modimport: ../mods/workshop-1289779251/init/init_recipes	
+[00:00:03]: modimport: ../mods/workshop-1289779251/init/init_tuning	
+[00:00:03]: modimport: ../mods/workshop-1289779251/init/init_widgets	
+[00:00:03]: modimport: ../mods/workshop-1289779251/init/fx	
+[00:00:03]: modimport: ../mods/workshop-1289779251/init/minimap_icons	
+[00:00:03]: modimport: ../mods/workshop-1289779251/postinit/prefabs/bee	
+[00:00:03]: modimport: ../mods/workshop-1289779251/postinit/prefabs/birds	
+[00:00:03]: modimport: ../mods/workshop-1289779251/postinit/prefabs/forest	
+[00:00:03]: modimport: ../mods/workshop-1289779251/postinit/prefabs/firepit	
+[00:00:03]: modimport: ../mods/workshop-1289779251/postinit/prefabs/hats	
+[00:00:03]: modimport: ../mods/workshop-1289779251/postinit/prefabs/moonbase	
+[00:00:03]: modimport: ../mods/workshop-1289779251/postinit/prefabs/shadowskittish	
+[00:00:03]: modimport: ../mods/workshop-1289779251/postinit/prefabs/wilson	
+[00:00:03]: modimport: ../mods/workshop-1289779251/postinit/prefabs/winona_battery_high	
+[00:00:03]: modimport: ../mods/workshop-1289779251/postinit/components/ambientsound	
+[00:00:03]: modimport: ../mods/workshop-1289779251/postinit/stategraph/chester	
+[00:00:03]: modimport: ../mods/workshop-1289779251/postinit/stategraph/wilson	
+[00:00:03]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wilson.lua	
+[00:00:03]: modimport: ../mods/workshop-1289779251/init/init_descriptions/willow.lua	
+[00:00:03]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wolfgang.lua	
+[00:00:03]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wendy.lua	
+[00:00:03]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wx78.lua	
+[00:00:03]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wickerbottom.lua	
+[00:00:03]: modimport: ../mods/workshop-1289779251/init/init_descriptions/woodie.lua	
+[00:00:03]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wes.lua	
+[00:00:03]: modimport: ../mods/workshop-1289779251/init/init_descriptions/waxwell.lua	
+[00:00:03]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wathgrithr.lua	
+[00:00:03]: modimport: ../mods/workshop-1289779251/init/init_descriptions/webber.lua	
+[00:00:03]: modimport: ../mods/workshop-1289779251/init/init_descriptions/winona.lua	
+[00:00:03]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wortox.lua	
+[00:00:03]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wormwood.lua	
+[00:00:03]: modimport: ../mods/workshop-1289779251/init/init_descriptions/warly.lua	
+[00:00:03]: modimport: ../mods/workshop-1289779251/init/init_descriptions/wurt.lua	
+[00:00:03]: modimport: ../mods/workshop-1289779251/init/init_descriptions/walter.lua	
+[00:00:03]: Mod: workshop-2304170675 (Takanashi Kiara)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-2304170675 (Takanashi Kiara)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-2304170675 (Takanashi Kiara)	Loading modmain.lua	
+[00:00:03]: modimport: ../mods/workshop-2304170675/scripts/util/kiara_fx.lua	
+[00:00:03]: modimport: ../mods/workshop-2304170675/scripts/util/kiara_settings.lua	
+[00:00:03]: modimport: ../mods/workshop-2304170675/scripts/util/kiara_recipes.lua	
+[00:00:03]: modimport: ../mods/workshop-2304170675/scripts/widgets/kiara_widgets.lua	
+[00:00:03]: modimport: ../mods/workshop-2304170675/scripts/util/kiara_fuel.lua	
+[00:00:03]: modimport: ../mods/workshop-2304170675/scripts/stategraphs/kiara_states.lua	
+[00:00:03]: modimport: ../mods/workshop-2304170675/scripts/stategraphs/kiara_shieldparry.lua	
+[00:00:03]: modimport: ../mods/workshop-2304170675/scripts/util/kiara_skins.lua	
+[00:00:03]: Mod: workshop-2289662010 (Rail Cart)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-2289662010 (Rail Cart)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-2289662010 (Rail Cart)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-2410382718 (Ninomae Ina'nis)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-2410382718 (Ninomae Ina'nis)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-2410382718 (Ninomae Ina'nis)	Loading modmain.lua	
+[00:00:03]: modimport: ../mods/workshop-2410382718/scripts/util/ninomae_skins.lua	
+[00:00:03]: modimport: ../mods/workshop-2410382718/scripts/util/ninomae_settings.lua	
+[00:00:03]: modimport: ../mods/workshop-2410382718/scripts/stategraphs/ninomae_states.lua	
+[00:00:03]: modimport: ../mods/workshop-2410382718/scripts/util/ninomae_recipes.lua	
+[00:00:03]: modimport: ../mods/workshop-2410382718/scripts/util/ninomae_fx.lua	
+[00:00:03]: Mod: workshop-2431606769 (Hoshimachi Suisei)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-2431606769 (Hoshimachi Suisei)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-2431606769 (Hoshimachi Suisei)	Loading modmain.lua	
+[00:00:03]: modimport: ../mods/workshop-2431606769/scripts/util/suisei_settings.lua	
+[00:00:03]: modimport: ../mods/workshop-2431606769/scripts/util/suisei_recipes.lua	
+[00:00:03]: modimport: ../mods/workshop-2431606769/scripts/stategraphs/suisei_states.lua	
+[00:00:03]: modimport: ../mods/workshop-2431606769/scripts/util/suisei_skins.lua	
+[00:00:03]: modimport: ../mods/workshop-2431606769/scripts/util/suisei_fx.lua	
+[00:00:03]: Mod: workshop-2358978811 (Gawr Gura)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-2358978811 (Gawr Gura)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-2358978811 (Gawr Gura)	Loading modmain.lua	
+[00:00:03]: modimport: ../mods/workshop-2358978811/scripts/util/gura_skins.lua	
+[00:00:03]: modimport: ../mods/workshop-2358978811/scripts/util/gura_settings.lua	
+[00:00:03]: modimport: ../mods/workshop-2358978811/scripts/util/gura_recipes.lua	
+[00:00:03]: modimport: ../mods/workshop-2358978811/scripts/util/gura_swim.lua	
+[00:00:03]: modimport: ../mods/workshop-2358978811/scripts/util/gura_modprefabs.lua	
+[00:00:03]: Mod: workshop-2336991112 (Calliope Mori)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-2336991112 (Calliope Mori)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-2336991112 (Calliope Mori)	Loading modmain.lua	
+[00:00:03]: modimport: ../mods/workshop-2336991112/scripts/util/calliope_skins.lua	
+[00:00:03]: modimport: ../mods/workshop-2336991112/scripts/util/calliope_settings.lua	
+[00:00:03]: modimport: ../mods/workshop-2336991112/scripts/util/calliope_recipes.lua	
+[00:00:03]: modimport: ../mods/workshop-2336991112/scripts/util/calliope_widget.lua	
+[00:00:03]: modimport: ../mods/workshop-2336991112/scripts/util/calliope_states.lua	
+[00:00:03]: Mod: workshop-2411450759 (Amelia Watson)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-2411450759 (Amelia Watson)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-2411450759 (Amelia Watson)	Loading modmain.lua	
+[00:00:03]: modimport: ../mods/workshop-2411450759/scripts/util/amelia_settings.lua	
+[00:00:03]: modimport: ../mods/workshop-2411450759/scripts/util/amelia_recipes.lua	
+[00:00:03]: modimport: ../mods/workshop-2411450759/scripts/amelia_states.lua	
+[00:00:03]: modimport: ../mods/workshop-2411450759/scripts/util/amelia_fx.lua	
+[00:00:03]: modimport: ../mods/workshop-2411450759/scripts/util/amelia_skins.lua	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[00:00:03]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs

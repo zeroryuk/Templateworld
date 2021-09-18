@@ -1,0 +1,485 @@
+[05:07:59]: [Join Announcement] Mr.Lago
+[05:16:32]: [Join Announcement] Lobak
+[05:18:05]: [Say] (KU_xj-WM3f-) Mr.Lago: im in btw
+[05:18:21]: [Say] (KU_dEYHQFc9) Lobak: yea saw u
+[05:18:24]: [Say] (KU_dEYHQFc9) Lobak: im choosing char
+[05:19:57]: [Say] (KU_dEYHQFc9) Lobak: dem im not sure i can handle the chars xD
+[05:20:08]: [Say] (KU_xj-WM3f-) Mr.Lago: dunt worry
+[05:20:12]: [Say] (KU_xj-WM3f-) Mr.Lago: this is just ppractice
+[05:20:32]: [Say] (KU_dEYHQFc9) Lobak: lago doko
+[05:20:40]: [Say] (KU_xj-WM3f-) Mr.Lago: im exploring rn
+[05:20:53]: [Say] (KU_xj-WM3f-) Mr.Lago: better to check surroundings on early
+[05:21:02]: [Say] (KU_dEYHQFc9) Lobak: u go east?
+[05:21:10]: [Say] (KU_xj-WM3f-) Mr.Lago: NW
+[05:21:26]: [Say] (KU_dEYHQFc9) Lobak: i'll east then
+[05:21:30]: [Say] (KU_xj-WM3f-) Mr.Lago: oke
+[05:22:26]: [Say] (KU_dEYHQFc9) Lobak: dem stupid peacook
+[05:25:54]: [Say] (KU_dEYHQFc9) Lobak: oo i can swim
+[05:26:03]: [Say] (KU_xj-WM3f-) Mr.Lago: oh dem ur gura
+[05:26:09]: [Say] (KU_xj-WM3f-) Mr.Lago: ya u can
+[05:26:32]: [Say] (KU_dEYHQFc9) Lobak: no minimap
+[05:26:45]: [Say] (KU_xj-WM3f-) Mr.Lago: u need a mod for thhat
+[05:27:07]: [Say] (KU_dEYHQFc9) Lobak: micow says it will b very lag if got 1 isnt it?
+[05:27:20]: [Say] (KU_xj-WM3f-) Mr.Lago: im using one rn
+[05:27:27]: [Say] (KU_dEYHQFc9) Lobak: ehhhhh
+[05:27:33]: [Say] (KU_dEYHQFc9) Lobak: whr to get
+[05:27:41]: [Say] (KU_xj-WM3f-) Mr.Lago: check on workshopp
+[05:27:52]: [Say] (KU_dEYHQFc9) Lobak: i tot the mods are all provided by the server micow made?
+[05:27:56]: [Say] (KU_xj-WM3f-) Mr.Lago: i see willer logging in
+[05:28:05]: [Say] (KU_xj-WM3f-) Mr.Lago: server stuff only
+[05:28:13]: [Say] (KU_xj-WM3f-) Mr.Lago: this is client sided
+[05:28:28]: [Say] (KU_dEYHQFc9) Lobak: means i need to go find the modand download?
+[05:28:34]: [Say] (KU_xj-WM3f-) Mr.Lago: aye
+[05:28:38]: [Say] (KU_xj-WM3f-) Mr.Lago: and enable it
+[05:28:53]: [Say] (KU_dEYHQFc9) Lobak: okok imma go find now
+[05:29:01]: [Say] (KU_dEYHQFc9) Lobak: need to out from server?
+[05:29:12]: [Say] (KU_xj-WM3f-) Mr.Lago: u can stay if u want
+[05:29:16]: [Say] (KU_xj-WM3f-) Mr.Lago: but u may die
+[05:29:26]: [Say] (KU_dEYHQFc9) Lobak: ok imma out nao
+[05:29:29]: [Say] (KU_xj-WM3f-) Mr.Lago: oke
+[05:29:43]: [Leave Announcement] Lobak
+[05:31:40]: [Join Announcement] WillerWill
+[05:31:54]: [Say] (KU_xj-WM3f-) Mr.Lago: dem willer
+[05:31:58]: [Say] (KU_xj-WM3f-) Mr.Lago: carrot dc for abit
+[05:32:02]: [Say] (KU__nAVJOHM) WillerWill: pffft
+[05:32:07]: [Say] (KU__nAVJOHM) WillerWill: which i pick
+[05:32:15]: [Say] (KU_xj-WM3f-) Mr.Lago: any
+[05:32:35]: [Say] (KU_xj-WM3f-) Mr.Lago: carrot is gura
+[05:32:37]: [Say] (KU_xj-WM3f-) Mr.Lago: im miko
+[05:33:30]: [Say] (KU__nAVJOHM) WillerWill: where u pffft
+[05:33:31]: [Say] (KU_xj-WM3f-) Mr.Lago: noice danchou
+[05:33:34]: [Say] (KU_xj-WM3f-) Mr.Lago: im exploring
+[05:33:37]: [Say] (KU_xj-WM3f-) Mr.Lago: early
+[05:33:45]: [Join Announcement] Lobak
+[05:33:53]: [Say] (KU_xj-WM3f-) Mr.Lago: we set base at spawning point
+[05:35:10]: [Say] (KU_xj-WM3f-) Mr.Lago: got minimap now carrot?
+[05:35:14]: [Say] (KU_dEYHQFc9) Lobak: yeap
+[05:35:19]: [Say] (KU_dEYHQFc9) Lobak: but u r not in the map
+[05:35:21]: [Say] (KU_dEYHQFc9) Lobak: xD
+[05:35:25]: [Say] (KU_xj-WM3f-) Mr.Lago: ya im very far rn
+[05:35:33]: [Say] (KU_xj-WM3f-) Mr.Lago: this world is huge
+[05:35:40]: [Say] (KU_dEYHQFc9) Lobak: not sure if i get the correct mini map
+[05:35:57]: [Say] (KU_xj-WM3f-) Mr.Lago: it should be the thats adjustable
+[05:36:38]: [Say] (KU_dEYHQFc9) Lobak: r we able to put marking in map?
+[05:36:50]: [Say] (KU_xj-WM3f-) Mr.Lago: signs
+[05:37:05]: [Say] (KU_dEYHQFc9) Lobak: we can see it from map if we put sign?
+[05:37:17]: [Say] (KU_xj-WM3f-) Mr.Lago: im exploring right now so later we just use cartographers desk
+[05:37:29]: [Say] (KU_xj-WM3f-) Mr.Lago: and give u guys copy of my map
+[05:37:36]: [Say] (KU_dEYHQFc9) Lobak: u can see the map even im the 1 who explore it?
+[05:37:41]: [Say] (KU_xj-WM3f-) Mr.Lago: nop
+[05:38:07]: [Say] (KU_dEYHQFc9) Lobak: noice gold
+[05:38:36]: [Say] (KU__nAVJOHM) WillerWill: where u guys pffft
+[05:38:42]: [Say] (KU_dEYHQFc9) Lobak: im heading east
+[05:38:43]: [Say] (KU_xj-WM3f-) Mr.Lago: im exploring
+[05:38:46]: [Say] (KU_xj-WM3f-) Mr.Lago: nw
+[05:38:53]: [Say] (KU_xj-WM3f-) Mr.Lago: ill be back soon
+[05:39:08]: [Join Announcement] Musubi
+[05:39:13]: [Say] (KU_xj-WM3f-) Mr.Lago: oh a momo
+[05:39:19]: [Say] (KU_dEYHQFc9) Lobak: a momo
+[05:40:05]: [Say] (KU_iNDUz_zO) Musubi: noni
+[05:40:15]: [Say] (KU_dEYHQFc9) Lobak: i found forest
+[05:41:04]: [Say] (KU_dEYHQFc9) Lobak: starting to burn them
+[05:41:25]: [Say] (KU_xj-WM3f-) Mr.Lago: the world is actually huge
+[05:43:27]: [Say] (KU_xj-WM3f-) Mr.Lago: dem how big micow generate
+[05:43:46]: [Say] (KU_dEYHQFc9) Lobak: crap i need flower
+[05:46:33]: [Say] (KU_xj-WM3f-) Mr.Lago: dem so momo is cali
+[05:47:17]: [Whisper] (KU_dEYHQFc9) Lobak: i see noel
+[05:48:32]: [Death Announcement] Mr.Lago was killed by Dragonfly. She became a spooky ghost!
+[05:48:33]: [Say] (KU_xj-WM3f-) Mr.Lago: f
+[05:48:39]: [Say] (KU__nAVJOHM) WillerWill: pffft
+[05:48:40]: [Say] (KU_iNDUz_zO) Musubi: f
+[05:48:46]: [Say] (KU_dEYHQFc9) Lobak: RIP
+[05:48:53]: [Say] (KU_xj-WM3f-) Mr.Lago: good thing touch stone is near
+[05:49:24]: [Resurrect Announcement] Mr.Lago was resurrected by Touch Stone.
+[05:49:45]: [Say] (KU__nAVJOHM) WillerWill: finally gold nugget
+[05:49:55]: [Say] (KU_dEYHQFc9) Lobak: lol i got 5 of em
+[05:50:20]: [Say] (KU__nAVJOHM) WillerWill: and moomoo also mining
+[05:50:31]: [Say] (KU_iNDUz_zO) Musubi: lol
+[05:51:08]: [Say] (KU__nAVJOHM) WillerWill: do we need more logs or rocks?
+[05:51:19]: [Say] (KU_dEYHQFc9) Lobak: base at whr
+[05:51:20]: [Say] (KU_xj-WM3f-) Mr.Lago: a whole lot of everything
+[05:51:23]: [Say] (KU_xj-WM3f-) Mr.Lago: esp food
+[05:51:25]: [Say] (KU_xj-WM3f-) Mr.Lago: spawn point
+[05:51:32]: [Say] (KU__nAVJOHM) WillerWill: and where base pfft
+[05:51:35]: [Say] (KU_dEYHQFc9) Lobak: the door?
+[05:51:38]: [Say] (KU__nAVJOHM) WillerWill: ohh spawn point
+[05:51:41]: [Say] (KU_xj-WM3f-) Mr.Lago: spawn point
+[05:51:45]: [Say] (KU_xj-WM3f-) Mr.Lago: so we can use it everytime
+[05:51:57]: [Say] (KU_dEYHQFc9) Lobak: the place when we 1st came in?
+[05:52:06]: [Say] (KU_xj-WM3f-) Mr.Lago: ya
+[05:52:14]: [Say] (KU_dEYHQFc9) Lobak: i dun see anything here
+[05:52:39]: [Say] (KU_xj-WM3f-) Mr.Lago: u should see a spiral thing on ma
+[05:52:40]: [Say] (KU_xj-WM3f-) Mr.Lago: map
+[05:52:48]: [Say] (KU_dEYHQFc9) Lobak: im standing next to it
+[05:52:57]: [Say] (KU_xj-WM3f-) Mr.Lago: oh thats the base
+[05:53:01]: [Say] (KU_xj-WM3f-) Mr.Lago: build thhere
+[05:53:12]: [Say] (KU_dEYHQFc9) Lobak: u start building ady?
+[05:53:16]: [Say] (KU_xj-WM3f-) Mr.Lago: not yet
+[05:53:20]: [Say] (KU_dEYHQFc9) Lobak: ah pfft
+[05:53:21]: [Say] (KU_xj-WM3f-) Mr.Lago: im clearing map
+[05:54:19]: [Say] (KU_iNDUz_zO) Musubi: got 20 golds
+[05:54:23]: [Say] (KU__nAVJOHM) WillerWill: a lot of berries at the west
+[05:54:24]: [Say] (KU_xj-WM3f-) Mr.Lago: op momo
+[05:54:33]: [Say] (KU__nAVJOHM) WillerWill: near pig living area
+[05:54:39]: [Say] (KU_xj-WM3f-) Mr.Lago: ppig king there?
+[05:54:41]: [Say] (KU_iNDUz_zO) Musubi: i accept bargain
+[05:55:08]: [Say] (KU_iNDUz_zO) Musubi: make chest
+[05:55:17]: [Say] (KU_iNDUz_zO) Musubi: dont have log
+[05:55:21]: [Say] (KU__nAVJOHM) WillerWill: 2 more logs
+[05:56:25]: [Say] (KU_xj-WM3f-) Mr.Lago: omw back
+[05:56:31]: [Say] (KU_iNDUz_zO) Musubi: oh 26 golds
+[05:56:38]: [Say] (KU_iNDUz_zO) Musubi: im just gonna leave it there
+[05:56:44]: [Whisper] (KU_iNDUz_zO) Musubi: gonna go out
+[05:56:45]: [Say] (KU_xj-WM3f-) Mr.Lago: dunt leave on ground
+[05:56:49]: [Say] (KU_iNDUz_zO) Musubi: gonna go out
+[05:56:50]: [Say] (KU_xj-WM3f-) Mr.Lago: moles will eat it
+[05:56:56]: [Say] (KU_iNDUz_zO) Musubi: its at chest
+[05:56:59]: [Say] (KU_xj-WM3f-) Mr.Lago: oke
+[05:57:24]: [Leave Announcement] Musubi
+[05:59:22]: [Say] (KU__nAVJOHM) WillerWill: heck yeah backpack
+[05:59:33]: [Say] (KU_xj-WM3f-) Mr.Lago: noice
+[05:59:43]: [Skin Announcement] Lobak feet_wx78_nature
+[06:00:28]: [Skin Announcement] Mr.Lago body_polo_yellow_goldenrod
+[06:00:43]: [Say] (KU_dEYHQFc9) Lobak: backpack at which section
+[06:00:50]: [Say] (KU_xj-WM3f-) Mr.Lago: survival
+[06:00:54]: [Say] (KU_xj-WM3f-) Mr.Lago: the noose
+[06:01:31]: [Say] (KU_xj-WM3f-) Mr.Lago: dem deforestation
+[06:02:01]: [Say] (KU__nAVJOHM) WillerWill: i got a shovel
+[06:02:09]: [Say] (KU__nAVJOHM) WillerWill: gonna dig all the roots :V
+[06:02:13]: [Say] (KU_xj-WM3f-) Mr.Lago: dig the root
+[06:02:14]: [Say] (KU_xj-WM3f-) Mr.Lago: yee
+[06:02:45]: [Say] (KU__nAVJOHM) WillerWill: i know how to play this
+[06:02:51]: [Say] (KU__nAVJOHM) WillerWill: just dont survive long enough
+[06:02:53]: [Say] (KU__nAVJOHM) WillerWill: :U
+[06:03:01]: [Say] (KU_xj-WM3f-) Mr.Lago: until winter?
+[06:03:12]: [Say] (KU__nAVJOHM) WillerWill: winter kinda fked
+[06:03:16]: [Say] (KU_dEYHQFc9) Lobak: wut is the flute for?
+[06:03:22]: [Say] (KU_xj-WM3f-) Mr.Lago: sleeps monster
+[06:03:25]: [Say] (KU_xj-WM3f-) Mr.Lago: its rare
+[06:03:31]: [Say] (KU_xj-WM3f-) Mr.Lago: oh wait
+[06:03:32]: [Say] (KU_dEYHQFc9) Lobak: pan flute
+[06:03:38]: [Say] (KU_xj-WM3f-) Mr.Lago: ya thats rare
+[06:03:41]: [Say] (KU_xj-WM3f-) Mr.Lago: 10 uses
+[06:03:44]: [Say] (KU__nAVJOHM) WillerWill: do we have source of poop here?
+[06:03:55]: [Say] (KU_xj-WM3f-) Mr.Lago: didnt see any beefalo yet
+[06:03:59]: [Say] (KU_xj-WM3f-) Mr.Lago: use the pigs first
+[06:04:02]: [Say] (KU_xj-WM3f-) Mr.Lago: feed em berries
+[06:04:03]: [Say] (KU__nAVJOHM) WillerWill: we can use pig :v
+[06:04:13]: [Say] (KU_xj-WM3f-) Mr.Lago: or flower
+[06:06:13]: [Say] (KU_dEYHQFc9) Lobak: daheck tree monster
+[06:06:17]: [Say] (KU_xj-WM3f-) Mr.Lago: care
+[06:06:23]: [Say] (KU_xj-WM3f-) Mr.Lago: it hurts alot
+[06:06:28]: [Say] (KU_xj-WM3f-) Mr.Lago: u need to plant seeds
+[06:06:44]: [Say] (KU_xj-WM3f-) Mr.Lago: keep planting
+[06:06:47]: [Say] (KU_xj-WM3f-) Mr.Lago: u cut too much
+[06:06:55]: [Say] (KU_dEYHQFc9) Lobak: no seed to plant
+[06:06:57]: [Say] (KU_xj-WM3f-) Mr.Lago: use the cones
+[06:07:20]: [Say] (KU_xj-WM3f-) Mr.Lago: willer can elp
+[06:07:27]: [Say] (KU_xj-WM3f-) Mr.Lago: uuur tanky willer
+[06:07:41]: [Say] (KU__nAVJOHM) WillerWill: wut
+[06:07:47]: [Say] (KU__nAVJOHM) WillerWill: u want me to kill it?>
+[06:07:47]: [Say] (KU_xj-WM3f-) Mr.Lago: elp carrot
+[06:07:58]: [Say] (KU_xj-WM3f-) Mr.Lago: if can
+[06:08:09]: [Say] (KU__nAVJOHM) WillerWill: where lobak :v
+[06:08:18]: [Say] (KU_xj-WM3f-) Mr.Lago: also uu can swim carrot
+[06:08:21]: [Say] (KU_dEYHQFc9) Lobak: its ok gone i think
+[06:08:27]: [Say] (KU_xj-WM3f-) Mr.Lago: cant chase u in the ocean
+[06:08:56]: [Say] (KU__nAVJOHM) WillerWill: dem 9 seeds
+[06:09:01]: [Say] (KU__nAVJOHM) WillerWill: plant them bois
+[06:09:11]: [Say] (KU_xj-WM3f-) Mr.Lago: ill be exploring again
+[06:09:22]: [Say] (KU_xj-WM3f-) Mr.Lago: almost done thhe whole
+[06:11:13]: [Say] (KU_dEYHQFc9) Lobak: wut to make now
+[06:11:22]: [Say] (KU_xj-WM3f-) Mr.Lago: food source
+[06:11:28]: [Say] (KU__nAVJOHM) WillerWill: grab seed?
+[06:11:44]: [Say] (KU_xj-WM3f-) Mr.Lago: i made a better science stuff
+[06:12:41]: [Say] (KU_xj-WM3f-) Mr.Lago: get black feathers too if possible
+[06:14:21]: [Say] (KU_dEYHQFc9) Lobak: seed cna plant?
+[06:14:29]: [Say] (KU_xj-WM3f-) Mr.Lago: u need to tend cropps first
+[06:14:58]: [Say] (KU_xj-WM3f-) Mr.Lago: food > crop digmajig
+[06:15:06]: [Say] (KU_xj-WM3f-) Mr.Lago: garden digmajig8
+[06:15:18]: [Say] (KU_dEYHQFc9) Lobak: great i lack food
+[06:15:26]: [Say] (KU__nAVJOHM) WillerWill: log and grass
+[06:15:27]: [Say] (KU_xj-WM3f-) Mr.Lago: go NW
+[06:15:33]: [Say] (KU_xj-WM3f-) Mr.Lago: many berries
+[06:15:51]: [Say] (KU__nAVJOHM) WillerWill: there flooding with berries
+[06:16:10]: [Say] (KU_xj-WM3f-) Mr.Lago: find black feathers for me along the wae btw
+[06:16:19]: [Say] (KU_xj-WM3f-) Mr.Lago: i can give u guuys my map
+[06:16:42]: [Say] (KU__nAVJOHM) WillerWill: nani is black feather :v
+[06:16:48]: [Say] (KU_xj-WM3f-) Mr.Lago: crows dropp em
+[06:16:55]: [Say] (KU_xj-WM3f-) Mr.Lago: the birds that chill everywhere
+[06:17:08]: [Say] (KU_dEYHQFc9) Lobak: crap pig
+[06:17:12]: [Say] (KU_dEYHQFc9) Lobak: left 8hp
+[06:17:13]: [Say] (KU_xj-WM3f-) Mr.Lago: oh ye
+[06:17:20]: [Say] (KU_xj-WM3f-) Mr.Lago: i forgot carrot is a monster
+[06:17:30]: [Say] (KU_dEYHQFc9) Lobak: noni
+[06:17:31]: [Say] (KU_xj-WM3f-) Mr.Lago: creatures hate guuura
+[06:18:28]: [Say] (KU_dEYHQFc9) Lobak: how regain hp
+[06:18:32]: [Say] (KU_xj-WM3f-) Mr.Lago: eat food
+[06:18:35]: [Say] (KU_xj-WM3f-) Mr.Lago: or get spooder glands
+[06:18:48]: [Say] (KU_dEYHQFc9) Lobak: thats wut i dun have
+[06:18:57]: [Say] (KU_xj-WM3f-) Mr.Lago: eat flowers too
+[06:18:59]: [Say] (KU_xj-WM3f-) Mr.Lago: gives 1 hp
+[06:19:49]: [Say] (KU__nAVJOHM) WillerWill: how to deal with living log
+[06:19:58]: [Say] (KU_xj-WM3f-) Mr.Lago: the big guy?
+[06:20:05]: [Say] (KU__nAVJOHM) WillerWill: no the loots
+[06:20:05]: [Say] (KU_xj-WM3f-) Mr.Lago: or that sleeping tree
+[06:20:13]: [Say] (KU_xj-WM3f-) Mr.Lago: of u can make mushroom farm
+[06:20:24]: [Say] (KU_xj-WM3f-) Mr.Lago: oh8
+[06:21:00]: [Say] (KU_xj-WM3f-) Mr.Lago: mushroom got different effects if u cook em
+[06:22:47]: [Say] (KU_dEYHQFc9) Lobak: need kill mob for meat but no hp gg
+[06:22:58]: [Say] (KU_xj-WM3f-) Mr.Lago: ur trident is ranged
+[06:24:40]: [Say] (KU__nAVJOHM) WillerWill: how to cook with that pot
+[06:24:58]: [Say] (KU_xj-WM3f-) Mr.Lago: u need specific recipies
+[06:25:07]: [Say] (KU__nAVJOHM) WillerWill: welp i forgot how it works
+[06:25:20]: [Say] (KU_xj-WM3f-) Mr.Lago: we mostly do 3 fruits/vegies & 1 meat
+[06:29:24]: [Say] (KU_xj-WM3f-) Mr.Lago: oh alo
+[06:29:27]: [Say] (KU_xj-WM3f-) Mr.Lago: u need food?
+[06:29:29]: [Say] (KU_dEYHQFc9) Lobak: need ice?
+[06:29:33]: [Say] (KU_xj-WM3f-) Mr.Lago: nop
+[06:29:43]: [Say] (KU__nAVJOHM) WillerWill: ohh shadow
+[06:29:44]: [Say] (KU_dEYHQFc9) Lobak: dem lago got chester
+[06:30:06]: [Say] (KU_xj-WM3f-) Mr.Lago: this is the last area i have not explored yet
+[06:30:20]: [Say] (KU_dEYHQFc9) Lobak: steal the egg
+[06:31:57]: [Say] (KU_xj-WM3f-) Mr.Lago: yabe another long biome
+[06:32:24]: [Say] (KU_dEYHQFc9) Lobak: how many black feather needed?
+[06:32:32]: [Say] (KU_xj-WM3f-) Mr.Lago: like 5
+[06:33:11]: [Say] (KU_dEYHQFc9) Lobak: got 7
+[06:33:15]: [Say] (KU_xj-WM3f-) Mr.Lago: noice
+[06:33:35]: [Say] (KU_dEYHQFc9) Lobak: whr thou pigs i wanna get revenge
+[06:33:54]: [Say] (KU_xj-WM3f-) Mr.Lago: leave the feathers in base
+[06:34:47]: [Say] (KU_xj-WM3f-) Mr.Lago: we need winter clothing soon
+[06:34:59]: [Say] (KU_xj-WM3f-) Mr.Lago: also stones
+[06:35:14]: [Say] (KU_xj-WM3f-) Mr.Lago: mid autmn rn
+[06:37:12]: [Say] (KU_xj-WM3f-) Mr.Lago: houunds
+[06:38:49]: [Say] (KU_dEYHQFc9) Lobak: dogs
+[06:39:29]: [Say] (KU__nAVJOHM) WillerWill: noice job pig
+[06:39:34]: [Say] (KU__nAVJOHM) WillerWill: to be my tank
+[06:39:40]: [Say] (KU_xj-WM3f-) Mr.Lago: noice
+[06:39:48]: [Say] (KU_xj-WM3f-) Mr.Lago: we survived tht one
+[06:39:49]: [Say] (KU__nAVJOHM) WillerWill: my sanity kinda fked
+[06:39:52]: [Say] (KU__nAVJOHM) WillerWill: need flower
+[06:40:03]: [Say] (KU_xj-WM3f-) Mr.Lago: theres a flower ppatch on pig area
+[06:40:05]: [Say] (KU_xj-WM3f-) Mr.Lago: iirc
+[06:41:08]: [Say] (KU__nAVJOHM) WillerWill: flower dont grow back right?
+[06:41:23]: [Say] (KU_xj-WM3f-) Mr.Lago: they get replenished by butterflies
+[06:41:34]: [Say] (KU_xj-WM3f-) Mr.Lago: butterflies spawn on flowers
+[06:41:52]: [Say] (KU_xj-WM3f-) Mr.Lago: full moon later
+[06:41:59]: [Say] (KU_xj-WM3f-) Mr.Lago: stay away from pigs
+[06:42:12]: [Say] (KU_dEYHQFc9) Lobak: do we need to slp?
+[06:42:29]: [Say] (KU_xj-WM3f-) Mr.Lago: sleeping here heals ur hp and sanity
+[06:42:34]: [Say] (KU_xj-WM3f-) Mr.Lago: at a cost of hunger
+[06:43:02]: [Say] (KU_dEYHQFc9) Lobak: anyway i have a straw roll in the chest
+[06:43:06]: [Say] (KU_xj-WM3f-) Mr.Lago: ok mapping complete
+[06:43:12]: [Say] (KU_xj-WM3f-) Mr.Lago: coming home
+[06:43:17]: [Say] (KU__nAVJOHM) WillerWill: nani mapping completed?
+[06:43:48]: [Say] (KU_xj-WM3f-) Mr.Lago: oh wait
+[06:43:50]: [Say] (KU_xj-WM3f-) Mr.Lago: not yet
+[06:44:01]: [Say] (KU_xj-WM3f-) Mr.Lago: probly 90% of mainland complete
+[06:44:32]: [Say] (KU__nAVJOHM) WillerWill: ohh full moon
+[06:44:38]: [Say] (KU_xj-WM3f-) Mr.Lago: ya full moon
+[06:46:56]: [Say] (KU_dEYHQFc9) Lobak: lago u say need rocks?
+[06:46:57]: [Say] (KU__nAVJOHM) WillerWill: dem chester
+[06:46:59]: [Say] (KU_xj-WM3f-) Mr.Lago: ya
+[06:47:11]: [Say] (KU_xj-WM3f-) Mr.Lago: we need alot off them
+[06:47:19]: [Say] (KU_xj-WM3f-) Mr.Lago: cuz we are going to use thermal stone later
+[06:47:21]: [Say] (KU_xj-WM3f-) Mr.Lago: in winter
+[06:47:41]: [Say] (KU_xj-WM3f-) Mr.Lago: iirc gura is good at cold
+[06:48:34]: [Say] (KU__nAVJOHM) WillerWill: ohh hi pig king
+[06:48:48]: [Say] (KU_xj-WM3f-) Mr.Lago: we mighht wanna gather tons of food also
+[06:48:56]: [Say] (KU_xj-WM3f-) Mr.Lago: since winter plants dunt grow
+[06:49:15]: [Say] (KU_xj-WM3f-) Mr.Lago: we probly 3 or more days till winter
+[06:49:22]: [Say] (KU_xj-WM3f-) Mr.Lago: probly have*
+[06:52:47]: [Say] (KU__nAVJOHM) WillerWill: this area im in has no rock :v
+[06:52:53]: [Say] (KU__nAVJOHM) WillerWill: only trees
+[06:52:59]: [Say] (KU_xj-WM3f-) Mr.Lago: forest biome
+[06:53:14]: [Say] (KU__nAVJOHM) WillerWill: imma continue NE
+[06:53:21]: [Say] (KU_xj-WM3f-) Mr.Lago: no need soon
+[06:54:54]: [Say] (KU__nAVJOHM) WillerWill: another pan flute
+[06:54:58]: [Say] (KU_xj-WM3f-) Mr.Lago: nocie
+[06:57:10]: [Say] (KU__nAVJOHM) WillerWill: we need ice box for food storage?>
+[06:57:13]: [Say] (KU_xj-WM3f-) Mr.Lago: ya
+[06:57:25]: [Say] (KU_xj-WM3f-) Mr.Lago: if we want to survive winter and summer
+[06:57:55]: [Say] (KU__nAVJOHM) WillerWill: ohh deer
+[06:58:09]: [Say] (KU_dEYHQFc9) Lobak: wut ingredient
+[06:58:18]: [Say] (KU_xj-WM3f-) Mr.Lago: in?
+[06:58:36]: [Say] (KU_xj-WM3f-) Mr.Lago: ice box is on food tab iirc
+[07:00:43]: [Say] (KU__nAVJOHM) WillerWill: tbh which direction hasnt finish mapping yet?
+[07:00:57]: [Say] (KU_xj-WM3f-) Mr.Lago: im done mapppping after this
+[07:01:16]: [Say] (KU_dEYHQFc9) Lobak: make thermal stones?
+[07:01:18]: [Say] (KU__nAVJOHM) WillerWill: im just running everywhere
+[07:01:32]: [Say] (KU_xj-WM3f-) Mr.Lago: ya make 3 of em
+[07:02:30]: [Say] (KU_xj-WM3f-) Mr.Lago: we need rabbits too
+[07:02:45]: [Say] (KU_xj-WM3f-) Mr.Lago: 6 exactly
+[07:02:57]: [Say] (KU__nAVJOHM) WillerWill: if i qleave the server now
+[07:03:03]: [Say] (KU_xj-WM3f-) Mr.Lago: then ear muff
+[07:03:11]: [Say] (KU__nAVJOHM) WillerWill: will i respawn at gate?
+[07:03:16]: [Say] (KU_xj-WM3f-) Mr.Lago: if u leave server u will spawn where u left off
+[07:03:23]: [Say] (KU__nAVJOHM) WillerWill: pfft
+[07:03:25]: [Say] (KU_xj-WM3f-) Mr.Lago: so if its night
+[07:03:27]: [Say] (KU_xj-WM3f-) Mr.Lago: yabe
+[07:03:31]: [Say] (KU__nAVJOHM) WillerWill: better run back now
+[07:03:39]: [Say] (KU_xj-WM3f-) Mr.Lago: aye
+[07:04:07]: [Skin Announcement] Lobak body_flannel_blue_snowbird
+[07:04:18]: [Say] (KU__nAVJOHM) WillerWill: a blow dart
+[07:04:24]: [Say] (KU_xj-WM3f-) Mr.Lago: noice
+[07:04:41]: [Say] (KU__nAVJOHM) WillerWill: and a super big bee hive
+[07:05:34]: [Say] (KU_xj-WM3f-) Mr.Lago: oh no eyed deers
+[07:05:42]: [Say] (KU_xj-WM3f-) Mr.Lago: care
+[07:05:52]: [Say] (KU_dEYHQFc9) Lobak: i need meat dem rabbits
+[07:06:02]: [Say] (KU_xj-WM3f-) Mr.Lago: we need em alive
+[07:06:08]: [Say] (KU_xj-WM3f-) Mr.Lago: for earmuffs
+[07:07:08]: [Say] (KU__nAVJOHM) WillerWill: we need our own berries bush farm
+[07:07:16]: [Say] (KU_dEYHQFc9) Lobak: how to do that
+[07:07:18]: [Say] (KU_xj-WM3f-) Mr.Lago: after winter
+[07:07:23]: [Say] (KU_xj-WM3f-) Mr.Lago: u gotta dig em
+[07:08:08]: [Say] (KU_xj-WM3f-) Mr.Lago: collect all kusa you can
+[07:08:12]: [Say] (KU_dEYHQFc9) Lobak: my hunger never pass 50 kusa
+[07:08:18]: [Say] (KU_xj-WM3f-) Mr.Lago: cuz they wont be growin back soon
+[07:08:44]: [Say] (KU_dEYHQFc9) Lobak: dem spider
+[07:08:52]: [Say] (KU_xj-WM3f-) Mr.Lago: ok now for real
+[07:08:53]: [Say] (KU_dEYHQFc9) Lobak: i swear will revenge on u
+[07:08:57]: [Say] (KU_xj-WM3f-) Mr.Lago: im done with mapp
+[07:09:11]: [Say] (KU__nAVJOHM) WillerWill: ok imma leave for now
+[07:09:14]: [Say] (KU__nAVJOHM) WillerWill: dinner time
+[07:09:16]: [Say] (KU_xj-WM3f-) Mr.Lago: ok
+[07:09:19]: [Say] (KU_dEYHQFc9) Lobak: so do i
+[07:09:22]: [Say] (KU_xj-WM3f-) Mr.Lago: oke
+[07:09:28]: [Leave Announcement] WillerWill
+[07:09:56]: [Say] (KU_xj-WM3f-) Mr.Lago: ill eat too
+[07:10:00]: [Say] (KU_xj-WM3f-) Mr.Lago: after i come home
+[07:10:18]: [Say] (KU_xj-WM3f-) Mr.Lago: if we all went off time stopps
+[07:10:48]: [Say] (KU_dEYHQFc9) Lobak: dem my hp
+[07:10:52]: [Say] (KU_dEYHQFc9) Lobak: stupid pig
+[07:12:01]: [Say] (KU_dEYHQFc9) Lobak: the food in box juts leave it ya
+[07:12:09]: [Say] (KU_xj-WM3f-) Mr.Lago: ill make freezer
+[07:12:17]: [Skin Announcement] Mr.Lago hand_shortgloves_white_smoke
+[07:12:38]: [Say] (KU_dEYHQFc9) Lobak: how u make that chester
+[07:12:50]: [Say] (KU_xj-WM3f-) Mr.Lago: its a world spawn
+[07:12:55]: [Say] (KU_xj-WM3f-) Mr.Lago: 1 in every world
+[07:13:23]: [Say] (KU_xj-WM3f-) Mr.Lago: food in freezer
+[07:13:28]: [Say] (KU_xj-WM3f-) Mr.Lago: eat that
+[07:13:31]: [Say] (KU_xj-WM3f-) Mr.Lago: gives 20hp
+[07:13:35]: [Say] (KU_xj-WM3f-) Mr.Lago: but kills ur sanity
+[07:13:35]: [Say] (KU_dEYHQFc9) Lobak: blue cap?
+[07:13:37]: [Say] (KU_xj-WM3f-) Mr.Lago: ya
+[07:13:54]: [Say] (KU_dEYHQFc9) Lobak: better to cook it?
+[07:13:58]: [Say] (KU_xj-WM3f-) Mr.Lago: bnop
+[07:14:00]: [Say] (KU_xj-WM3f-) Mr.Lago: eat raw
+[07:14:04]: [Say] (KU_xj-WM3f-) Mr.Lago: gives 20 hp
+[07:14:07]: [Say] (KU_xj-WM3f-) Mr.Lago: but ur sanity
+[07:14:14]: [Say] (KU_dEYHQFc9) Lobak: san drop high
+[07:14:17]: [Say] (KU_xj-WM3f-) Mr.Lago: ya
+[07:14:22]: [Say] (KU_xj-WM3f-) Mr.Lago: but not bbad trade
+[07:14:26]: [Say] (KU_xj-WM3f-) Mr.Lago: just pickup flowrs
+[07:14:39]: [Say] (KU_dEYHQFc9) Lobak: off nao?
+[07:15:43]: [Say] (KU_dEYHQFc9) Lobak: faq spider ate my meat
+[07:15:49]: [Say] (KU_xj-WM3f-) Mr.Lago: kekw
+[07:16:56]: [Say] (KU_dEYHQFc9) Lobak: san dropping
+[07:16:59]: [Say] (KU_dEYHQFc9) Lobak: rip
+[07:18:11]: [Say] (KU_dEYHQFc9) Lobak: the red flower thing will move at night
+[07:18:12]: [Say] (KU_xj-WM3f-) Mr.Lago: here
+[07:18:19]: [Say] (KU_xj-WM3f-) Mr.Lago: read it
+[07:18:22]: [Say] (KU_xj-WM3f-) Mr.Lago: then check mapp
+[07:18:45]: [Whisper] (KU_dEYHQFc9) Lobak: full map it is?
+[07:18:56]: [Say] (KU_xj-WM3f-) Mr.Lago: full map on starting area
+[07:19:02]: [Say] (KU_dEYHQFc9) Lobak: crap gonna take a slp
+[07:19:05]: [Say] (KU_xj-WM3f-) Mr.Lago: non on oceanic zones
+[07:19:09]: [Say] (KU_dEYHQFc9) Lobak: san dem low
+[07:19:15]: [Say] (KU_dEYHQFc9) Lobak: 39
+[07:19:16]: [Say] (KU_xj-WM3f-) Mr.Lago: eat first
+[07:19:38]: [Say] (KU_dEYHQFc9) Lobak: im hungry
+[07:19:44]: [Say] (KU_xj-WM3f-) Mr.Lago: check fridge
+[07:19:47]: [Say] (KU_xj-WM3f-) Mr.Lago: thers food
+[07:19:49]: [Say] (KU_dEYHQFc9) Lobak: irl
+[07:19:55]: [Say] (KU_dEYHQFc9) Lobak: lol
+[07:20:00]: [Say] (KU_xj-WM3f-) Mr.Lago: check fridge there too
+[07:20:08]: [Say] (KU_dEYHQFc9) Lobak: pfft
+[07:21:15]: [Say] (KU_dEYHQFc9) Lobak: imma eat irl
+[07:21:17]: [Say] (KU_dEYHQFc9) Lobak: lol
+[07:21:19]: [Say] (KU_xj-WM3f-) Mr.Lago: oke
+[07:21:21]: [Say] (KU_xj-WM3f-) Mr.Lago: ill eat too
+[07:21:24]: [Say] (KU_xj-WM3f-) Mr.Lago: so time stop
+[07:21:33]: [Say] (KU_dEYHQFc9) Lobak: lemme get back to base 1st
+[07:21:36]: [Say] (KU_xj-WM3f-) Mr.Lago: oke
+[07:22:49]: [Say] (KU_dEYHQFc9) Lobak: ok off
+[07:22:53]: [Say] (KU_xj-WM3f-) Mr.Lago: oke
+[07:22:57]: [Say] (KU_xj-WM3f-) Mr.Lago: ur meal
+[07:23:04]: [Leave Announcement] Lobak
+[07:23:17]: [Leave Announcement] Mr.Lago
+[07:40:10]: [Join Announcement] ZeroRyuk
+[07:54:11]: [Join Announcement] CoolChilli
+[07:54:18]: [Say] (KU_B-XFv0pO) ZeroRyuk: ey
+[07:54:37]: [Say] (KU_B-XFv0pO) ZeroRyuk: I think dancho, calli, miko and gura are picked
+[07:54:43]: [Say] (KU_B-XFv0pO) ZeroRyuk: I'm using pekora
+[07:55:09]: [Say] (KU_eZtCobTD) CoolChilli: hey
+[07:55:19]: [Say] (KU_eZtCobTD) CoolChilli: Maybe I will play Watame
+[07:55:26]: [Say] (KU_eZtCobTD) CoolChilli: Gonna get that wheel gesture mod
+[07:55:33]: [Say] (KU_B-XFv0pO) ZeroRyuk: ah ok
+[07:55:37]: [Leave Announcement] CoolChilli
+[07:56:56]: [Join Announcement] CoolChilli
+[07:59:44]: [Say] (KU_B-XFv0pO) ZeroRyuk: your hunger lol
+[07:59:52]: [Say] (KU_eZtCobTD) CoolChilli: I can eat grass lol
+[08:00:08]: [Say] (KU_B-XFv0pO) ZeroRyuk: I forgot about that
+[08:07:17]: [Join Announcement] Mr.Lago
+[08:10:39]: [Say] (KU_B-XFv0pO) ZeroRyuk: dog doko?
+[08:10:44]: [Say] (KU_eZtCobTD) CoolChilli: ded
+[08:10:57]: [Say] (KU_eZtCobTD) CoolChilli: katta na gahaha
+[08:11:26]: [Say] (KU_B-XFv0pO) ZeroRyuk: I was going to lure them to the treeguard
+[08:11:33]: [Say] (KU_eZtCobTD) CoolChilli: lel
+[08:27:38]: [Say] (KU_B-XFv0pO) ZeroRyuk: btw avoid the random bonfires
+[08:27:40]: [Say] (KU_B-XFv0pO) ZeroRyuk: LOL
+[08:38:12]: [Say] (KU_eZtCobTD) CoolChilli: need healing?
+[08:38:16]: [Say] (KU_xj-WM3f-) Mr.Lago: sanity
+[08:46:45]: [Join Announcement] WillerWill
+[08:46:53]: [Say] (KU_xj-WM3f-) Mr.Lago: alo
+[08:47:05]: [Say] (KU_xj-WM3f-) Mr.Lago: get ur earmuff
+[08:47:07]: [Skin Announcement] WillerWill webber_beard_gladiator
+[08:47:19]: [Say] (KU_xj-WM3f-) Mr.Lago: .>>
+[08:47:25]: [Say] (KU_xj-WM3f-) Mr.Lago: >>
+[08:48:40]: [Say] (KU__nAVJOHM) WillerWill: now wut we do
+[08:48:44]: [Say] (KU_xj-WM3f-) Mr.Lago: survive
+[08:48:52]: [Say] (KU__nAVJOHM) WillerWill: pffft
+[08:48:56]: [Say] (KU_xj-WM3f-) Mr.Lago: and build a house
+[08:48:56]: [Say] (KU_B-XFv0pO) ZeroRyuk: need a tent
+[08:51:06]: [Say] (KU_B-XFv0pO) ZeroRyuk: rip server
+[08:51:12]: [Say] (KU_eZtCobTD) CoolChilli: what
+[08:51:14]: [Say] (KU__nAVJOHM) WillerWill: wut
+[08:51:21]: [Say] (KU_B-XFv0pO) ZeroRyuk: it was dipping
+[08:51:30]: [Say] (KU_B-XFv0pO) ZeroRyuk: it's yellow right now
+[08:51:39]: [Say] (KU__nAVJOHM) WillerWill: its red for me
+[08:51:46]: [Say] (KU_B-XFv0pO) ZeroRyuk: ping is different
+[08:51:53]: [Say] (KU_B-XFv0pO) ZeroRyuk: from performance problem
+[08:52:12]: [Say] (KU_B-XFv0pO) ZeroRyuk: thats your net
+[08:55:14]: [Say] (KU__nAVJOHM) WillerWill: now we just survive till end of winter?
+[08:55:20]: [Say] (KU_B-XFv0pO) ZeroRyuk: mostly
+[08:55:36]: [Say] (KU_B-XFv0pO) ZeroRyuk: there's a boss soon tho
+[08:56:34]: [Say] (KU__nAVJOHM) WillerWill: oof that delay after each day ends
+[08:56:42]: [Say] (KU_B-XFv0pO) ZeroRyuk: cuz it's saving
+[08:56:50]: [Say] (KU_xj-WM3f-) Mr.Lago: ya thats the only lag
+[08:58:00]: [Say] (KU_eZtCobTD) CoolChilli: 2 flints plz
+[08:58:14]: [Say] (KU_eZtCobTD) CoolChilli: thx
+[08:58:28]: [Say] (KU__nAVJOHM) WillerWill: thats all my flints :v
+[08:58:35]: [Say] (KU_eZtCobTD) CoolChilli: I crafted 1 set of shogun and katana in chester
+[08:58:44]: [Say] (KU_B-XFv0pO) ZeroRyuk: ooh nice
+[08:58:58]: [Say] (KU_eZtCobTD) CoolChilli: gonna need to find rocks and flints then
+[08:59:10]: [Say] (KU__nAVJOHM) WillerWill: how to take item one by one?
+[08:59:24]: [Say] (KU_eZtCobTD) CoolChilli: ctrl + click
+[08:59:49]: [Say] (KU__nAVJOHM) WillerWill: im using controller
+[08:59:55]: [Say] (KU_eZtCobTD) CoolChilli: lol dunno
+[09:00:25]: [Say] (KU_eZtCobTD) CoolChilli: here flint
+[09:00:57]: [Say] (KU_eZtCobTD) CoolChilli: omg so lag
+[09:01:02]: [Say] (KU_B-XFv0pO) ZeroRyuk: yeah
+[09:01:05]: [Say] (KU_xj-WM3f-) Mr.Lago: host is bleeding
+[09:01:14]: [Say] (KU__nAVJOHM) WillerWill: yeah the spike
+[09:01:20]: [Say] (KU_B-XFv0pO) ZeroRyuk: I wonder if renting is worth it
+[09:01:22]: [Say] (KU_xj-WM3f-) Mr.Lago: host acting sus
+[09:02:18]: [Say] (KU_B-XFv0pO) ZeroRyuk: I can try the $30 that one has free trial
+[09:02:33]: [Say] (KU_B-XFv0pO) ZeroRyuk: tho I can't upload this one on free trial
+[09:02:39]: [Say] (KU_eZtCobTD) CoolChilli: sawd
+[09:03:48]: [Say] (KU_B-XFv0pO) ZeroRyuk: I think it's base on the mobs active on screen
+[09:04:37]: [Say] (KU_B-XFv0pO) ZeroRyuk: I'll try something
+[09:04:50]: [Say] (KU_B-XFv0pO) ZeroRyuk: if using my main laptop will improve it just for testing
+[09:05:04]: [Leave Announcement] ZeroRyuk
+[09:05:46]: [Leave Announcement] CoolChilli
+[09:06:42]: [Leave Announcement] Mr.Lago
+[09:06:42]: [Leave Announcement] WillerWill

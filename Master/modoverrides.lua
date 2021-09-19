@@ -671,12 +671,12 @@ return {
     configuration_options={
       deluxeEndoFirepitBurnRate=0.75,
       deluxeFirepitBurnRate=0.75,
-      dropLoot="yes",
-      endoDropLoot="yes",
-      heatStarBurnRate=0.9,
-      heatStarDropLoot="yes",
-      iceStarBurnRate=0.9,
-      iceStarDropLoot="yes",
+      dropLoot="no",
+      endoDropLoot="no",
+      heatStarBurnRate=0.75,
+      heatStarDropLoot="no",
+      iceStarBurnRate=0.75,
+      iceStarDropLoot="no",
       recipeCost="standard",
       starsSpawnHounds="no" 
     },

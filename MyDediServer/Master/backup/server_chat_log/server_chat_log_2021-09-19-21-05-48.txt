@@ -1,0 +1,643 @@
+[00:02:01]: [Join Announcement] ZeroRyuk
+[00:12:59]: [Join Announcement] CoolChilli
+[00:17:40]: [Join Announcement] Mr.Lago
+[00:28:37]: [Leave Announcement] Mr.Lago
+[00:29:27]: [Join Announcement] Mr.Lago
+[00:33:09]: [Death Announcement] CoolChilli was killed by Bunnyman. She became a spooky ghost!
+[00:34:50]: [Resurrect Announcement] CoolChilli was resurrected by Celestial Portal.
+[01:34:31]: [Join Announcement] Lobak
+[01:35:15]: [Skin Announcement] Lobak legs_skirt_basic_tan_cream
+[01:35:48]: [Leave Announcement] CoolChilli
+[01:36:39]: [Say] (KU_dEYHQFc9) Lobak: ehhh y the keys not same???/
+[01:37:12]: [Say] (KU_dEYHQFc9) Lobak: like my left click shud me select items and can move the items
+[01:37:25]: [Say] (KU_dEYHQFc9) Lobak: but now become inspect
+[01:37:41]: [Say] (KU_dEYHQFc9) Lobak: keyboard
+[01:37:53]: [Say] (KU_dEYHQFc9) Lobak: ah okays
+[01:38:01]: [Say] (KU_dEYHQFc9) Lobak: back to norma;
+[01:38:35]: [Say] (KU_dEYHQFc9) Lobak: owh no ... no food at base
+[01:38:53]: [Say] (KU_dEYHQFc9) Lobak: whr is the cave
+[01:39:13]: [Death Announcement] Lobak was killed by Overheating. She became a spooky ghost!
+[01:39:31]: [Say] (KU_dEYHQFc9) Lobak: dem... i was finding the cave
+[01:39:39]: [Say] (KU_dEYHQFc9) Lobak: and standing next to the sun
+[01:40:24]: [Resurrect Announcement] Lobak was resurrected by Celestial Portal.
+[01:42:33]: [Say] (KU_dEYHQFc9) Lobak: need torch in cave?
+[01:43:02]: [Say] (KU_dEYHQFc9) Lobak: i went in from east from our base
+[01:43:19]: [Say] (KU_dEYHQFc9) Lobak: okok
+[01:44:54]: [Say] (KU_dEYHQFc9) Lobak: no prob xD
+[01:45:58]: [Say] (KU_dEYHQFc9) Lobak: i need marble
+[01:46:20]: [Say] (KU_dEYHQFc9) Lobak: to make my weapon
+[01:51:41]: [Say] (KU_dEYHQFc9) Lobak: can pick the floweers?
+[01:51:55]: [Say] (KU_dEYHQFc9) Lobak: ok
+[01:58:09]: [Say] (KU_dEYHQFc9) Lobak: whr
+[01:58:30]: [Say] (KU_dEYHQFc9) Lobak: i always die without reasons
+[01:58:39]: [Say] (KU_dEYHQFc9) Lobak: xD
+[01:59:13]: [Say] (KU_dEYHQFc9) Lobak: yes pls
+[02:01:24]: [Say] (KU_dEYHQFc9) Lobak: oo night time pigs dun atk
+[02:04:40]: [Say] (KU_dEYHQFc9) Lobak: btw wut do we need now
+[02:04:56]: [Say] (KU_dEYHQFc9) Lobak: wood stone?
+[02:05:22]: [Say] (KU_dEYHQFc9) Lobak: i'll help gather mats
+[02:05:48]: [Say] (KU_dEYHQFc9) Lobak: wut i do to help then?
+[02:06:09]: [Say] (KU_dEYHQFc9) Lobak: lol i was just cutting trees and stone
+[02:06:21]: [Say] (KU_dEYHQFc9) Lobak: thats the only thing i am doing til now
+[02:07:00]: [Say] (KU_dEYHQFc9) Lobak: food farm???
+[02:07:42]: [Say] (KU_dEYHQFc9) Lobak: pork?
+[02:07:45]: [Say] (KU_dEYHQFc9) Lobak: lol
+[02:08:44]: [Say] (KU_dEYHQFc9) Lobak: i cant hit them?
+[02:09:20]: [Say] (KU_dEYHQFc9) Lobak: ooo
+[02:09:58]: [Say] (KU_dEYHQFc9) Lobak: any food spare?
+[02:10:30]: [Say] (KU_dEYHQFc9) Lobak: clean this area
+[02:10:37]: [Say] (KU_dEYHQFc9) Lobak: okok i need food 1st xD
+[02:11:20]: [Say] (KU_dEYHQFc9) Lobak: 30 hunger left
+[02:12:41]: [Say] (KU_dEYHQFc9) Lobak: dem i cant hit rabbit
+[02:16:01]: [Say] (KU_dEYHQFc9) Lobak: xD
+[02:17:03]: [Say] (KU_dEYHQFc9) Lobak: dem eye balls atk
+[02:17:30]: [Say] (KU_dEYHQFc9) Lobak: when did i die in the mid of eyeballs
+[02:17:38]: [Say] (KU_dEYHQFc9) Lobak: lol
+[02:18:28]: [Say] (KU_dEYHQFc9) Lobak: morsel
+[02:18:43]: [Say] (KU_dEYHQFc9) Lobak: oo
+[02:18:46]: [Say] (KU_dEYHQFc9) Lobak: okok
+[02:21:31]: [Say] (KU_dEYHQFc9) Lobak: btw we need charcoal?
+[02:22:06]: [Say] (KU_dEYHQFc9) Lobak: ???
+[02:24:51]: [Say] (KU_dEYHQFc9) Lobak: make fencing?
+[02:27:35]: [Say] (KU_dEYHQFc9) Lobak: i heard hounds?
+[02:28:47]: [Say] (KU_dEYHQFc9) Lobak: half of it mayb?
+[02:29:16]: [Say] (KU_dEYHQFc9) Lobak: yeah i think its fine
+[02:29:57]: [Say] (KU_dEYHQFc9) Lobak: this carrot farm?
+[02:30:06]: [Say] (KU_dEYHQFc9) Lobak: so u need carrots?
+[02:31:04]: [Say] (KU_dEYHQFc9) Lobak: dem ground pouncingw
+[02:31:56]: [Say] (KU_dEYHQFc9) Lobak: i dunno
+[02:32:20]: [Say] (KU_dEYHQFc9) Lobak: nuggets
+[02:32:39]: [Say] (KU_dEYHQFc9) Lobak: ate
+[02:32:50]: [Say] (KU_dEYHQFc9) Lobak: i dun have mace
+[02:35:01]: [Say] (KU_dEYHQFc9) Lobak: wut i help now?
+[02:35:21]: [Say] (KU_dEYHQFc9) Lobak: imma find meat then~
+[02:35:31]: [Say] (KU_dEYHQFc9) Lobak: south pigs?
+[02:35:44]: [Say] (KU_dEYHQFc9) Lobak: i have some pigs skin in chest
+[02:36:01]: [Say] (KU_dEYHQFc9) Lobak: dem pounding again
+[02:36:39]: [Say] (KU_dEYHQFc9) Lobak: pein
+[02:37:03]: [Say] (KU_dEYHQFc9) Lobak: rot?
+[02:37:19]: [Say] (KU_dEYHQFc9) Lobak: i got 30 of them
+[02:37:50]: [Say] (KU_dEYHQFc9) Lobak: i hv no mask
+[02:42:40]: [Say] (KU_dEYHQFc9) Lobak: we are nearly dead too
+[02:42:53]: [Say] (KU_dEYHQFc9) Lobak: 46
+[02:43:16]: [Say] (KU_dEYHQFc9) Lobak: dem i need ma mace
+[02:43:26]: [Say] (KU_dEYHQFc9) Lobak: 4 more marble duh
+[02:43:49]: [Say] (KU_dEYHQFc9) Lobak: whr to get marble
+[02:44:00]: [Say] (KU_dEYHQFc9) Lobak: break the statues?
+[02:44:08]: [Say] (KU_dEYHQFc9) Lobak: ah okays
+[02:44:19]: [Say] (KU_dEYHQFc9) Lobak: i have 1 here
+[02:44:29]: [Say] (KU_dEYHQFc9) Lobak: marble shrub
+[02:44:42]: [Say] (KU_dEYHQFc9) Lobak: the marble bean
+[02:44:58]: [Say] (KU_dEYHQFc9) Lobak: it have some time here....
+[02:45:04]: [Say] (KU_dEYHQFc9) Lobak: but still like a smol ball
+[02:45:32]: [Say] (KU_dEYHQFc9) Lobak: hounds sound
+[02:46:23]: [Death Announcement] ZeroRyuk was killed by Bearger. She became a spooky ghost!
+[02:46:40]: [Say] (KU_dEYHQFc9) Lobak: sry
+[02:46:44]: [Resurrect Announcement] ZeroRyuk was resurrected by Touch Stone.
+[02:46:56]: [Say] (KU_dEYHQFc9) Lobak: whr
+[02:48:22]: [Death Announcement] ZeroRyuk was killed by Bearger. She became a spooky ghost!
+[02:48:37]: [Resurrect Announcement] ZeroRyuk was resurrected by Celestial Portal.
+[02:49:36]: [Death Announcement] Lobak was killed by Bearger. She became a spooky ghost!
+[02:49:45]: [Say] (KU_dEYHQFc9) Lobak: dem
+[02:50:16]: [Join Announcement] Musubi
+[02:50:23]: [Say] (KU_dEYHQFc9) Lobak: momo can
+[02:50:24]: [Say] (KU_iNDUz_zO) Musubi: nani
+[02:50:29]: [Death Announcement] Mr.Lago was killed by Bearger. She became a spooky ghost!
+[02:50:33]: [Resurrect Announcement] Lobak was resurrected by Celestial Portal.
+[02:50:36]: [Say] (KU_iNDUz_zO) Musubi: i died login
+[02:50:45]: [Resurrect Announcement] Mr.Lago was resurrected by Celestial Portal.
+[02:51:45]: [Say] (KU_iNDUz_zO) Musubi: nani gone frigde
+[02:52:13]: [Say] (KU_dEYHQFc9) Lobak: wwwwwww
+[02:52:56]: [Say] (KU_dEYHQFc9) Lobak: btw who need booster?
+[02:53:07]: [Say] (KU_dEYHQFc9) Lobak: okok
+[02:53:25]: [Say] (KU_dEYHQFc9) Lobak: ay1 hv rot? need 2 more
+[02:53:55]: [Say] (KU_dEYHQFc9) Lobak: gave u
+[02:54:18]: [Say] (KU_dEYHQFc9) Lobak: booster here
+[02:54:32]: [Say] (KU_dEYHQFc9) Lobak: lago u have it?
+[02:54:42]: [Say] (KU_dEYHQFc9) Lobak: thr u go
+[02:55:46]: [Say] (KU_dEYHQFc9) Lobak: need 2 rot
+[02:55:58]: [Say] (KU_dEYHQFc9) Lobak: ok
+[02:57:05]: [Say] (KU_dEYHQFc9) Lobak: no rot in chest tho
+[02:57:11]: [Say] (KU_dEYHQFc9) Lobak: mayb previously i take them xD
+[03:02:59]: [Say] (KU_dEYHQFc9) Lobak: nuuuuuuuu
+[03:03:32]: [Skin Announcement] Lobak legs_walter_ventriloquist
+[03:03:45]: [Say] (KU_dEYHQFc9) Lobak: place other place
+[03:05:51]: [Say] (KU_iNDUz_zO) Musubi: im gonna make house
+[03:06:36]: [Say] (KU_dEYHQFc9) Lobak: i need hp T.T
+[03:07:46]: [Say] (KU_dEYHQFc9) Lobak: imma take the meat in ice box ya
+[03:08:08]: [Say] (KU_iNDUz_zO) Musubi: wheres the mushroom planter?
+[03:08:24]: [Say] (KU_iNDUz_zO) Musubi: i wanna make more
+[03:08:37]: [Say] (KU_iNDUz_zO) Musubi: oh okeh
+[03:08:40]: [Say] (KU_dEYHQFc9) Lobak: is the honey ready?
+[03:08:47]: [Say] (KU_iNDUz_zO) Musubi: where do i put my house
+[03:11:52]: [Say] (KU_dEYHQFc9) Lobak: lago is the honey rdy?
+[03:12:03]: [Say] (KU_dEYHQFc9) Lobak: ah its harvest
+[03:14:34]: [Say] (KU_iNDUz_zO) Musubi: here 20 twigs
+[03:14:44]: [Say] (KU_dEYHQFc9) Lobak: dem low san
+[03:16:07]: [Skin Announcement] Musubi body_polo_red_higgsbury
+[03:17:49]: [Say] (KU_dEYHQFc9) Lobak: ????
+[03:17:55]: [Say] (KU_dEYHQFc9) Lobak: lol
+[03:18:09]: [Leave Announcement] Mr.Lago
+[03:23:01]: [Say] (KU_iNDUz_zO) Musubi: idk
+[03:23:05]: [Say] (KU_iNDUz_zO) Musubi: i still have 1
+[03:23:15]: [Join Announcement] Mr.Lago
+[03:24:39]: [Say] (KU_dEYHQFc9) Lobak: wew spider queen
+[03:24:53]: [Say] (KU_iNDUz_zO) Musubi: wot daheck
+[03:25:14]: [Say] (KU_dEYHQFc9) Lobak: u done farm?
+[03:25:28]: [Say] (KU_dEYHQFc9) Lobak: any1 come to help kill spider?
+[03:25:45]: [Say] (KU_dEYHQFc9) Lobak: dem the yellow spider is pein
+[03:27:13]: [Say] (KU_dEYHQFc9) Lobak: honey comb, any use of it?
+[03:27:50]: [Say] (KU_dEYHQFc9) Lobak: shud i plant it at the same bee farm?
+[03:28:56]: [Say] (KU_dEYHQFc9) Lobak: i'll put it in the same chest as spider nest
+[03:31:06]: [Say] (KU_dEYHQFc9) Lobak: i miss press
+[03:31:14]: [Say] (KU_dEYHQFc9) Lobak: with the torch on hand
+[03:31:23]: [Say] (KU_dEYHQFc9) Lobak: i wanted to slp T.T
+[03:32:42]: [Leave Announcement] ZeroRyuk
+[03:34:03]: [Join Announcement] ZeroRyuk
+[03:40:38]: [Say] (KU_iNDUz_zO) Musubi: oh
+[03:40:40]: [Say] (KU_iNDUz_zO) Musubi: it broke
+[03:41:32]: [Say] (KU_iNDUz_zO) Musubi: oh no
+[03:41:38]: [Say] (KU_iNDUz_zO) Musubi: the beerry farm
+[03:41:59]: [Say] (KU_iNDUz_zO) Musubi: i thought not fire
+[03:42:24]: [Say] (KU_dEYHQFc9) Lobak: helpw
+[03:45:27]: [Say] (KU_iNDUz_zO) Musubi: where to put berry farm now?
+[03:47:03]: [Say] (KU_dEYHQFc9) Lobak: how u make better spear?
+[03:47:19]: [Say] (KU_dEYHQFc9) Lobak: my spear is stone spear
+[03:47:34]: [Say] (KU_dEYHQFc9) Lobak: ah icic
+[03:47:48]: [Say] (KU_dEYHQFc9) Lobak: pashion
+[03:48:36]: [Say] (KU_dEYHQFc9) Lobak: how to break marble statue?
+[03:48:51]: [Say] (KU_dEYHQFc9) Lobak: suspicious marble
+[03:49:01]: [Say] (KU_dEYHQFc9) Lobak: cannot hit?
+[03:49:28]: [Say] (KU_dEYHQFc9) Lobak: ok
+[03:52:03]: [Say] (KU_iNDUz_zO) Musubi: lol
+[03:52:35]: [Say] (KU_dEYHQFc9) Lobak: this map doesnt have marble statues?
+[03:52:52]: [Say] (KU_dEYHQFc9) Lobak: i dun saw any tho~ >.<
+[03:53:33]: [Join Announcement] WillerWill
+[03:54:02]: [Say] (KU_iNDUz_zO) Musubi: cant grab my bag on house
+[03:54:04]: [Say] (KU_iNDUz_zO) Musubi: reconnect
+[03:54:18]: [Say] (KU_iNDUz_zO) Musubi: nani
+[03:54:35]: [Say] (KU_iNDUz_zO) Musubi: cant put fire on camp too
+[03:54:51]: [Say] (KU__nAVJOHM) WillerWill: y i cant pick stuff in my bag :v
+[03:55:16]: [Say] (KU_iNDUz_zO) Musubi: oh there
+[03:56:02]: [Say] (KU__nAVJOHM) WillerWill: ???????
+[03:56:07]: [Skin Announcement] Lobak body_suspenders_black_davys
+[03:56:18]: [Say] (KU_iNDUz_zO) Musubi: berry farm here?
+[03:56:18]: [Say] (KU__nAVJOHM) WillerWill: brb
+[03:56:30]: [Leave Announcement] WillerWill
+[03:57:26]: [Say] (KU_dEYHQFc9) Lobak: winter soon
+[03:57:34]: [Join Announcement] WillerWill
+[04:00:48]: [Say] (KU_dEYHQFc9) Lobak: come kill spider xD
+[04:01:02]: [Say] (KU_dEYHQFc9) Lobak: east
+[04:01:54]: [Say] (KU_dEYHQFc9) Lobak: gone
+[04:02:37]: [Say] (KU_iNDUz_zO) Musubi: i didnt make it
+[04:04:38]: [Say] (KU_iNDUz_zO) Musubi: need rabbits?
+[04:04:55]: [Say] (KU_iNDUz_zO) Musubi: oh
+[04:13:19]: [Say] (KU_dEYHQFc9) Lobak: whr
+[04:13:24]: [Say] (KU_dEYHQFc9) Lobak: i heard spiders
+[04:13:44]: [Say] (KU_dEYHQFc9) Lobak: ah icic
+[04:15:34]: [Say] (KU_dEYHQFc9) Lobak: chester died
+[04:16:07]: [Say] (KU_iNDUz_zO) Musubi: thats not me its tang
+[04:16:12]: [Death Announcement] ZeroRyuk was killed by Bunnyman. She became a spooky ghost!
+[04:17:03]: [Say] (KU_dEYHQFc9) Lobak: noni happen?
+[04:17:10]: [Say] (KU_dEYHQFc9) Lobak: ah icic
+[04:17:51]: [Say] (KU_dEYHQFc9) Lobak: the marble tree got 2 stack mean can mine?
+[04:18:20]: [Say] (KU_iNDUz_zO) Musubi: need food
+[04:25:36]: [Say] (KU_dEYHQFc9) Lobak: T.T
+[04:27:08]: [Say] (KU_dEYHQFc9) Lobak: nuuuuu its winter
+[04:27:50]: [Say] (KU_dEYHQFc9) Lobak: any rots?
+[04:27:56]: [Say] (KU_iNDUz_zO) Musubi: here
+[04:28:03]: [Say] (KU_iNDUz_zO) Musubi: nvm its on my house lol
+[04:28:27]: [Say] (KU_iNDUz_zO) Musubi: just 5
+[04:29:46]: [Say] (KU_dEYHQFc9) Lobak: lol
+[04:30:28]: [Say] (KU_iNDUz_zO) Musubi: not me
+[04:31:20]: [Say] (KU_dEYHQFc9) Lobak: wut do we need now?
+[04:31:45]: [Say] (KU_dEYHQFc9) Lobak: lol
+[04:32:06]: [Say] (KU_dEYHQFc9) Lobak: carrot hard to find tho
+[04:32:35]: [Say] (KU_dEYHQFc9) Lobak: wait day time ima find carrots
+[04:33:06]: [Say] (KU_dEYHQFc9) Lobak: we farm carrots by planting carrots right?
+[04:36:23]: [Death Announcement] WillerWill was killed by Bunnyman. She became a spooky ghost!
+[04:36:45]: [Resurrect Announcement] WillerWill was resurrected by Celestial Portal.
+[04:36:51]: [Say] (KU_iNDUz_zO) Musubi: wat ne too
+[04:37:06]: [Death Announcement] WillerWill was killed by Bunnyman. She became a spooky ghost!
+[04:37:19]: [Resurrect Announcement] WillerWill was resurrected by Celestial Portal.
+[04:38:44]: [Say] (KU_iNDUz_zO) Musubi: oh no im stuck
+[04:38:53]: [Whisper] (KU_iNDUz_zO) Musubi: no food
+[04:38:56]: [Say] (KU_iNDUz_zO) Musubi: no food
+[04:39:22]: [Say] (KU_iNDUz_zO) Musubi: wat
+[04:40:15]: [Say] (KU_iNDUz_zO) Musubi: i have rabbits
+[04:40:18]: [Say] (KU_iNDUz_zO) Musubi: on my house
+[04:40:25]: [Say] (KU_iNDUz_zO) Musubi: yes
+[04:40:32]: [Say] (KU_dEYHQFc9) Lobak: no carrots found
+[04:40:37]: [Say] (KU_iNDUz_zO) Musubi: cant kill them
+[04:41:12]: [Say] (KU_dEYHQFc9) Lobak: no eye dear
+[04:41:21]: [Say] (KU_iNDUz_zO) Musubi: can
+[04:42:46]: [Say] (KU_iNDUz_zO) Musubi: ice
+[04:43:12]: [Say] (KU_dEYHQFc9) Lobak: im at pig thr
+[04:43:27]: [Say] (KU_dEYHQFc9) Lobak: south till the end
+[04:43:33]: [Death Announcement] WillerWill was killed by Freezing. She became a spooky ghost!
+[04:43:43]: [Resurrect Announcement] WillerWill was resurrected by Celestial Portal.
+[04:44:08]: [Say] (KU_dEYHQFc9) Lobak: pig king
+[04:48:25]: [Death Announcement] ZeroRyuk was killed by Deerclops. She became a spooky ghost!
+[04:48:43]: [Resurrect Announcement] ZeroRyuk was resurrected by Celestial Portal.
+[04:49:16]: [Say] (KU_dEYHQFc9) Lobak: fight????
+[04:49:54]: [Say] (KU_iNDUz_zO) Musubi: idk the attack pattern
+[04:50:45]: [Say] (KU_dEYHQFc9) Lobak: NUUUUUUUUUUU
+[04:52:41]: [Say] (KU_dEYHQFc9) Lobak: finally my weapon
+[04:53:07]: [Say] (KU_dEYHQFc9) Lobak: whos meatball
+[04:54:46]: [Say] (KU_dEYHQFc9) Lobak: wuts da claypot at?
+[04:54:52]: [Say] (KU_dEYHQFc9) Lobak: food section?
+[04:55:40]: [Say] (KU_dEYHQFc9) Lobak: cook pot at which section???
+[04:56:06]: [Say] (KU_iNDUz_zO) Musubi: meteor
+[04:56:14]: [Say] (KU_iNDUz_zO) Musubi: bellow
+[04:58:52]: [Leave Announcement] ZeroRyuk
+[05:00:03]: [Say] (KU_dEYHQFc9) Lobak: wut to do now
+[05:00:31]: [Say] (KU_dEYHQFc9) Lobak: i mean liek wut to gather
+[05:00:40]: [Say] (KU_iNDUz_zO) Musubi: ice maybe
+[05:03:35]: [Say] (KU_dEYHQFc9) Lobak: spider webs?
+[05:03:49]: [Say] (KU_dEYHQFc9) Lobak: i rmb i got put 11 in da chest
+[05:05:12]: [Death Announcement] WillerWill was killed by Blue Hound. She became a spooky ghost!
+[05:06:25]: [Resurrect Announcement] WillerWill was resurrected by Celestial Portal.
+[05:09:45]: [Say] (KU_dEYHQFc9) Lobak: imma kill spider
+[05:13:37]: [Say] (KU_dEYHQFc9) Lobak: merms
+[05:20:45]: [Say] (KU_dEYHQFc9) Lobak: y night so long
+[05:26:45]: [Say] (KU_dEYHQFc9) Lobak: dem night again
+[05:28:01]: [Death Announcement] Lobak was killed by Tentacle. She became a spooky ghost!
+[05:28:05]: [Say] (KU_dEYHQFc9) Lobak: wut
+[05:28:10]: [Say] (KU_dEYHQFc9) Lobak: its ady 0 hp
+[05:28:16]: [Say] (KU_dEYHQFc9) Lobak: y can still atk
+[05:28:31]: [Say] (KU_dEYHQFc9) Lobak: fuk
+[05:28:40]: [Say] (KU_dEYHQFc9) Lobak: dem freaking far
+[05:29:45]: [Say] (KU_dEYHQFc9) Lobak: come kill the tentacles~!!!!
+[05:29:52]: [Resurrect Announcement] Lobak was resurrected by Celestial Portal.
+[05:30:52]: [Say] (KU_dEYHQFc9) Lobak: any1 got grass n twigs? spare some
+[05:31:11]: [Say] (KU_iNDUz_zO) Musubi: for twigs chop my tree's
+[05:31:18]: [Say] (KU_iNDUz_zO) Musubi: iirc it drops twigs
+[05:31:22]: [Say] (KU_xj-WM3f-) Mr.Lago: our*
+[05:31:23]: [Say] (KU_dEYHQFc9) Lobak: i have a stack but i died~
+[05:31:33]: [Say] (KU_dEYHQFc9) Lobak: chop trees drop logs not twigs
+[05:31:40]: [Say] (KU_iNDUz_zO) Musubi: MY tree's
+[05:31:43]: [Say] (KU_xj-WM3f-) Mr.Lago: OUR
+[05:32:26]: [Skin Announcement] Lobak hand_longgloves_white_pure
+[05:33:00]: [Say] (KU_dEYHQFc9) Lobak: need grass T.T
+[05:33:12]: [Say] (KU_dEYHQFc9) Lobak: tq tang
+[05:35:52]: [Leave Announcement] Mr.Lago
+[05:40:04]: [Join Announcement] Mr.Lago
+[05:40:25]: [Leave Announcement] Musubi
+[05:41:09]: [Death Announcement] Lobak was killed by Hound. She became a spooky ghost!
+[05:41:12]: [Say] (KU_dEYHQFc9) Lobak: dem
+[05:41:21]: [Say] (KU_dEYHQFc9) Lobak: lol
+[05:41:31]: [Join Announcement] Musubi
+[05:41:50]: [Say] (KU_dEYHQFc9) Lobak: safe to say 10 hounds
+[05:42:24]: [Resurrect Announcement] Lobak was resurrected by Celestial Portal.
+[05:44:55]: [Say] (KU_dEYHQFc9) Lobak: nuuuuu dem hounds ate my meat~!!!!!
+[05:45:04]: [Say] (KU_dEYHQFc9) Lobak: 1 stack.... 20 of it~!!!!
+[05:47:05]: [Say] (KU_iNDUz_zO) Musubi: how to get lots of rot?
+[05:47:15]: [Say] (KU_dEYHQFc9) Lobak: tang come
+[05:48:00]: [Say] (KU_dEYHQFc9) Lobak: here
+[05:48:09]: [Say] (KU_dEYHQFc9) Lobak: tang
+[05:50:17]: [Leave Announcement] Musubi
+[05:52:53]: [Join Announcement] Musubi
+[05:53:05]: [Say] (KU_iNDUz_zO) Musubi: i panik
+[05:53:09]: [Say] (KU_dEYHQFc9) Lobak: lol
+[05:53:18]: [Say] (KU_iNDUz_zO) Musubi: cant find my miner helmet pfft
+[05:53:34]: [Say] (KU_iNDUz_zO) Musubi: i refuse!
+[05:54:56]: [Say] (KU_dEYHQFc9) Lobak: lago still need silk?
+[05:59:26]: [Leave Announcement] Mr.Lago
+[06:00:04]: [Join Announcement] Mr.Lago
+[06:01:40]: [Say] (KU_dEYHQFc9) Lobak: call me spider killer
+[06:05:07]: [Say] (KU_dEYHQFc9) Lobak: wut?
+[06:05:14]: [Say] (KU_xj-WM3f-) Mr.Lago: we lack grass
+[06:05:19]: [Say] (KU_xj-WM3f-) Mr.Lago: bbig kusa
+[06:07:25]: [Say] (KU_dEYHQFc9) Lobak: run
+[06:07:36]: [Say] (KU_dEYHQFc9) Lobak: i heard hounds
+[06:07:43]: [Say] (KU_iNDUz_zO) Musubi: none
+[06:12:35]: [Say] (KU_dEYHQFc9) Lobak: meteor
+[06:14:56]: [Say] (KU_dEYHQFc9) Lobak: i so scare hounds xD
+[06:15:19]: [Say] (KU_dEYHQFc9) Lobak: since i dunno thewarning for hounds T.T
+[06:15:39]: [Say] (KU_dEYHQFc9) Lobak: i keep heard it tho
+[06:15:43]: [Say] (KU_dEYHQFc9) Lobak: thats y i scare
+[06:15:45]: [Say] (KU_iNDUz_zO) Musubi: theres none
+[06:16:51]: [Say] (KU_dEYHQFc9) Lobak: wow so many spider nest
+[06:16:54]: [Say] (KU_dEYHQFc9) Lobak: noice
+[06:18:49]: [Say] (KU_dEYHQFc9) Lobak: finished??
+[06:19:22]: [Say] (KU_dEYHQFc9) Lobak: so nonit silk dy?
+[06:23:22]: [Say] (KU_dEYHQFc9) Lobak: nuuuu y night
+[06:24:28]: [Death Announcement] Lobak was killed by Freezing. She became a spooky ghost!
+[06:24:34]: [Say] (KU_dEYHQFc9) Lobak: dem
+[06:24:40]: [Say] (KU_dEYHQFc9) Lobak: was lookingmap
+[06:24:50]: [Say] (KU_iNDUz_zO) Musubi: =F\
+[06:25:06]: [Resurrect Announcement] Lobak was resurrected by Celestial Portal.
+[06:25:56]: [Say] (KU_dEYHQFc9) Lobak: finally
+[06:27:21]: [Say] (KU_dEYHQFc9) Lobak: oo wut is holy essence
+[06:29:54]: [Say] (KU_dEYHQFc9) Lobak: noice 17 spider nest
+[06:31:33]: [Say] (KU_dEYHQFc9) Lobak: imma burn forrest again
+[06:33:30]: [Say] (KU_iNDUz_zO) Musubi: giant duck
+[06:33:39]: [Say] (KU_iNDUz_zO) Musubi: its a duck
+[06:33:49]: [Say] (KU_iNDUz_zO) Musubi: nein
+[06:33:56]: [Say] (KU_iNDUz_zO) Musubi: its the same
+[06:36:59]: [Say] (KU_iNDUz_zO) Musubi: so many spider
+[06:37:15]: [Say] (KU_iNDUz_zO) Musubi: got 1 nest
+[06:39:03]: [Say] (KU_dEYHQFc9) Lobak: momo come north east
+[06:39:07]: [Say] (KU_dEYHQFc9) Lobak: got many spider nest
+[06:39:17]: [Say] (KU_iNDUz_zO) Musubi: ady done
+[06:39:25]: [Say] (KU_dEYHQFc9) Lobak: still got many at me here
+[06:39:39]: [Say] (KU_iNDUz_zO) Musubi: im farming for now
+[06:42:49]: [Say] (KU_dEYHQFc9) Lobak: dem all tier 3 nest
+[06:43:26]: [Say] (KU_iNDUz_zO) Musubi: oh dem i made wrong
+[06:43:31]: [Say] (KU_iNDUz_zO) Musubi: i thought this is wall
+[06:43:42]: [Say] (KU_iNDUz_zO) Musubi: yes
+[06:43:55]: [Say] (KU_iNDUz_zO) Musubi: wheres the wall?
+[06:47:59]: [Death Announcement] Lobak was killed by Freezing. She became a spooky ghost!
+[06:48:11]: [Say] (KU_dEYHQFc9) Lobak: no choice
+[06:48:21]: [Say] (KU_dEYHQFc9) Lobak: atleast its near
+[06:48:31]: [Resurrect Announcement] Lobak was resurrected by Celestial Portal.
+[06:52:19]: [Say] (KU_dEYHQFc9) Lobak: wut happen
+[06:52:53]: [Say] (KU_dEYHQFc9) Lobak: dem
+[06:52:59]: [Say] (KU_dEYHQFc9) Lobak: i din heard anything
+[06:53:15]: [Say] (KU_dEYHQFc9) Lobak: ffs low san
+[06:53:51]: [Say] (KU_iNDUz_zO) Musubi: same
+[06:53:54]: [Say] (KU_dEYHQFc9) Lobak: same
+[06:54:02]: [Leave Announcement] Mr.Lago
+[06:54:20]: [Leave Announcement] WillerWill
+[06:54:39]: [Say] (KU_dEYHQFc9) Lobak: out then
+[06:55:15]: [Leave Announcement] Lobak
+[06:55:21]: [Leave Announcement] Musubi
+[07:47:29]: [Join Announcement] Mr.Lago
+[07:48:35]: [Join Announcement] Musubi
+[07:48:59]: [Say] (KU_iNDUz_zO) Musubi: okeh
+[07:49:12]: [Say] (KU_iNDUz_zO) Musubi: kill them
+[07:50:07]: [Say] (KU_iNDUz_zO) Musubi: i dont have log armor lol
+[07:50:58]: [Say] (KU_iNDUz_zO) Musubi: im still making lol
+[07:51:21]: [Say] (KU_iNDUz_zO) Musubi: ah dem
+[07:51:23]: [Say] (KU_iNDUz_zO) Musubi: its here
+[07:51:26]: [Say] (KU_iNDUz_zO) Musubi: i died
+[07:51:39]: [Say] (KU_iNDUz_zO) Musubi: 5 here
+[07:52:34]: [Say] (KU_iNDUz_zO) Musubi: omg
+[07:52:44]: [Whisper] (KU_iNDUz_zO) Musubi: died from spider
+[07:52:49]: [Say] (KU_iNDUz_zO) Musubi: died from spider
+[07:53:28]: [Say] (KU_iNDUz_zO) Musubi: no wonder i died so fast i didnt equip my armor dem
+[07:53:52]: [Say] (KU_iNDUz_zO) Musubi: ye thats good idea
+[07:55:33]: [Say] (KU_iNDUz_zO) Musubi: i have grass farm near my house
+[07:55:43]: [Say] (KU_iNDUz_zO) Musubi: i need to make fence of rock for it
+[07:56:26]: [Say] (KU_iNDUz_zO) Musubi: okeh
+[07:59:16]: [Say] (KU_iNDUz_zO) Musubi: more height on fence harder to destroy?
+[07:59:31]: [Say] (KU_iNDUz_zO) Musubi: okeh
+[08:13:11]: [Say] (KU_iNDUz_zO) Musubi: noice
+[08:19:14]: [Say] (KU_iNDUz_zO) Musubi: notagain
+[08:20:21]: [Say] (KU_iNDUz_zO) Musubi: too many
+[08:23:38]: [Say] (KU_iNDUz_zO) Musubi: wot
+[08:25:07]: [Say] (KU_iNDUz_zO) Musubi: yep
+[08:25:13]: [Say] (KU_iNDUz_zO) Musubi: 47%
+[08:26:18]: [Say] (KU_iNDUz_zO) Musubi: need to make spare weapon
+[08:26:22]: [Say] (KU_iNDUz_zO) Musubi: 39%
+[08:26:34]: [Say] (KU_iNDUz_zO) Musubi: just blue
+[08:26:40]: [Say] (KU_iNDUz_zO) Musubi: 6
+[08:27:00]: [Say] (KU_iNDUz_zO) Musubi: save for now
+[08:29:36]: [Say] (KU_iNDUz_zO) Musubi: sofast
+[08:37:00]: [Join Announcement] WillerWill
+[08:46:42]: [Say] (KU_iNDUz_zO) Musubi: always red gem
+[08:46:50]: [Say] (KU_iNDUz_zO) Musubi: im underground
+[08:49:49]: [Say] (KU_iNDUz_zO) Musubi: going back getting too insane
+[08:57:21]: [Leave Announcement] Mr.Lago
+[08:59:09]: [Join Announcement] Lobak
+[09:00:10]: [Skin Announcement] Lobak shovel_invisible
+[09:00:18]: [Death Announcement] WillerWill was killed by Flint. She became a spooky ghost!
+[09:01:09]: [Join Announcement] Mr.Lago
+[09:01:25]: [Resurrect Announcement] WillerWill was resurrected by Celestial Portal.
+[09:05:02]: [Say] (KU_iNDUz_zO) Musubi: ur at base tang?
+[09:05:07]: [Say] (KU_iNDUz_zO) Musubi: i have some light bulb here
+[09:05:27]: [Say] (KU_iNDUz_zO) Musubi: im just gonna drop some
+[09:05:40]: [Say] (KU_iNDUz_zO) Musubi: at fridge
+[09:15:30]: [Say] (KU_iNDUz_zO) Musubi: here iady make lago
+[09:15:40]: [Say] (KU_iNDUz_zO) Musubi: can i palce it near fire?
+[09:15:44]: [Say] (KU_iNDUz_zO) Musubi: it wont burn?
+[09:17:01]: [Say] (KU_iNDUz_zO) Musubi: its fine
+[09:17:45]: [Say] (KU_iNDUz_zO) Musubi: i refuse
+[09:17:48]: [Say] (KU_iNDUz_zO) Musubi: no armor
+[09:18:29]: [Say] (KU_iNDUz_zO) Musubi: go kill it
+[09:18:38]: [Say] (KU_iNDUz_zO) Musubi: ops
+[09:21:09]: [Say] (KU_iNDUz_zO) Musubi: too many red
+[09:21:12]: [Say] (KU_iNDUz_zO) Musubi: i need blue gem
+[09:21:26]: [Say] (KU_iNDUz_zO) Musubi: wat to kill?
+[09:21:28]: [Say] (KU_iNDUz_zO) Musubi: hound?
+[09:22:37]: [Say] (KU_iNDUz_zO) Musubi: spider queen
+[09:23:19]: [Say] (KU_iNDUz_zO) Musubi: u have to pay for it
+[09:23:40]: [Say] (KU_iNDUz_zO) Musubi: MY farm
+[09:25:16]: [Say] (KU_iNDUz_zO) Musubi: omg smoll duck
+[09:32:05]: [Say] (KU_iNDUz_zO) Musubi: were u need rot?
+[09:32:19]: [Say] (KU_iNDUz_zO) Musubi: i have 56
+[09:37:12]: [Say] (KU_iNDUz_zO) Musubi: wat?
+[09:37:23]: [Say] (KU_iNDUz_zO) Musubi: wots that
+[09:37:31]: [Say] (KU_iNDUz_zO) Musubi: oh
+[09:37:38]: [Say] (KU_iNDUz_zO) Musubi: i didnt understand lol
+[09:50:06]: [Say] (KU_iNDUz_zO) Musubi: noice more blue gem
+[09:50:10]: [Say] (KU_iNDUz_zO) Musubi: no more hounds
+[09:52:12]: [Say] (KU_iNDUz_zO) Musubi: okeh
+[09:53:07]: [Say] (KU_iNDUz_zO) Musubi: its fine i have grass farm here lol
+[09:53:25]: [Say] (KU_xj-WM3f-) Mr.Lago: our grass farm
+[09:59:04]: [Say] (KU_iNDUz_zO) Musubi: summer
+[09:59:24]: [Say] (KU_iNDUz_zO) Musubi: we need to move to underground
+[09:59:47]: [Say] (KU_iNDUz_zO) Musubi: im bringing the foods underground
+[10:02:06]: [Say] (KU_iNDUz_zO) Musubi: i bring some grass
+[10:02:13]: [Say] (KU_iNDUz_zO) Musubi: none
+[10:02:23]: [Say] (KU_iNDUz_zO) Musubi: theres few
+[10:02:39]: [Say] (KU_iNDUz_zO) Musubi: make more chest
+[10:06:37]: [Say] (KU_iNDUz_zO) Musubi: no more rain carrot move to underground
+[10:08:07]: [Say] (KU_iNDUz_zO) Musubi: give me 4 logs carrot
+[10:09:44]: [Say] (KU_iNDUz_zO) Musubi: careful carrot might burn our base
+[10:14:11]: [Say] (KU_iNDUz_zO) Musubi: i planted 40 pine tree's
+[10:14:19]: [Death Announcement] WillerWill was killed by Dangling Depth Dweller. She became a spooky ghost!
+[10:18:01]: [Resurrect Announcement] WillerWill was resurrected by Celestial Portal.
+[10:18:04]: [Say] (KU_iNDUz_zO) Musubi: noice we have 13 blue gem now
+[10:20:58]: [Say] (KU_iNDUz_zO) Musubi: we need more food
+[10:21:42]: [Say] (KU_iNDUz_zO) Musubi: were u 2?
+[10:22:03]: [Say] (KU_iNDUz_zO) Musubi: west?
+[10:29:52]: [Say] (KU_iNDUz_zO) Musubi: starving
+[10:35:05]: [Say] (KU_iNDUz_zO) Musubi: lago got some bulbs?
+[10:35:10]: [Say] (KU_iNDUz_zO) Musubi: give me some
+[10:35:56]: [Death Announcement] Lobak was killed by Spitter. She became a spooky ghost!
+[10:37:41]: [Resurrect Announcement] Lobak was resurrected by Celestial Portal.
+[10:40:25]: [Say] (KU_iNDUz_zO) Musubi: noice
+[10:43:46]: [Say] (KU_iNDUz_zO) Musubi: gonna get some food on surface
+[10:46:51]: [Death Announcement] Mr.Lago was killed by Depths Worm. She became a spooky ghost!
+[10:47:53]: [Resurrect Announcement] Mr.Lago was resurrected by Celestial Portal.
+[10:50:54]: [Say] (KU_iNDUz_zO) Musubi: ye take it
+[10:52:43]: [Death Announcement] Lobak was killed by Depths Worm. She became a spooky ghost!
+[10:53:38]: [Resurrect Announcement] Lobak was resurrected by Celestial Portal.
+[10:55:55]: [Leave Announcement] Lobak
+[10:56:00]: [Say] (KU_iNDUz_zO) Musubi: tang ur spots
+[10:56:38]: [Say] (KU_iNDUz_zO) Musubi: this is my bag
+[10:56:57]: [Say] (KU_iNDUz_zO) Musubi: oh ye wrong bag lol
+[10:57:15]: [Say] (KU_iNDUz_zO) Musubi: lol
+[10:57:35]: [Say] (KU_iNDUz_zO) Musubi: oh ye
+[10:57:38]: [Say] (KU_iNDUz_zO) Musubi: thanks
+[10:59:50]: [Say] (KU_iNDUz_zO) Musubi: no armor
+[11:00:18]: [Say] (KU_iNDUz_zO) Musubi: 2 logs
+[11:00:19]: [Say] (KU_iNDUz_zO) Musubi: need
+[11:00:46]: [Say] (KU_iNDUz_zO) Musubi: thats kinda hard lol
+[11:07:48]: [Say] (KU_iNDUz_zO) Musubi: more?
+[11:13:11]: [Say] (KU_iNDUz_zO) Musubi: wheres the nightmare fuels
+[11:13:40]: [Say] (KU_iNDUz_zO) Musubi: noice new weapon
+[11:14:07]: [Say] (KU_iNDUz_zO) Musubi: still 10%
+[11:14:37]: [Say] (KU_iNDUz_zO) Musubi: noice
+[11:16:31]: [Say] (KU_iNDUz_zO) Musubi: lol
+[11:23:03]: [Say] (KU_iNDUz_zO) Musubi: gather more logs
+[11:23:06]: [Say] (KU_iNDUz_zO) Musubi: more chest
+[11:23:47]: [Say] (KU_iNDUz_zO) Musubi: oh still smoll
+[11:26:33]: [Leave Announcement] Mr.Lago
+[11:26:51]: [Say] (KU_iNDUz_zO) Musubi: lago off ady?
+[11:41:07]: [Say] (KU_iNDUz_zO) Musubi: yep
+[11:41:16]: [Say] (KU_iNDUz_zO) Musubi: i just checked
+[11:41:41]: [Join Announcement] Mr.Lago
+[11:41:57]: [Say] (KU_iNDUz_zO) Musubi: not yet end
+[11:42:41]: [Say] (KU_iNDUz_zO) Musubi: tree's ready to harvest
+[11:43:31]: [Say] (KU_iNDUz_zO) Musubi: lol
+[11:43:58]: [Say] (KU_iNDUz_zO) Musubi: need more chest lol
+[11:46:32]: [Say] (KU_iNDUz_zO) Musubi: make more bridge on eas
+[11:50:53]: [Say] (KU_iNDUz_zO) Musubi: oh no
+[11:54:44]: [Join Announcement] Lobak
+[11:59:39]: [Say] (KU_iNDUz_zO) Musubi: omg need alot of rot
+[12:00:04]: [Say] (KU_iNDUz_zO) Musubi: dem
+[12:00:59]: [Say] (KU_iNDUz_zO) Musubi: wot happen to my char
+[12:01:07]: [Say] (KU_iNDUz_zO) Musubi: sliding
+[12:01:29]: [Say] (KU_iNDUz_zO) Musubi: oh no more
+[12:03:50]: [Say] (KU_iNDUz_zO) Musubi: daheck
+[12:04:30]: [Say] (KU_iNDUz_zO) Musubi: same
+[12:06:28]: [Say] (KU_iNDUz_zO) Musubi: bug pfft
+[12:07:30]: [Say] (KU_iNDUz_zO) Musubi: daheck my berry at front is gone pfft
+[12:10:26]: [Join Announcement] ZeroRyuk
+[12:11:05]: [Say] (KU_iNDUz_zO) Musubi: no sleeping
+[12:11:09]: [Say] (KU_B-XFv0pO) ZeroRyuk: dem I missed summer
+[12:11:24]: [Say] (KU_B-XFv0pO) ZeroRyuk: is there a good cave base now?
+[12:11:36]: [Say] (KU_iNDUz_zO) Musubi: oh dem
+[12:11:39]: [Say] (KU_B-XFv0pO) ZeroRyuk: oh god the rabbits lost
+[12:11:43]: [Say] (KU_B-XFv0pO) ZeroRyuk: I knew it
+[12:11:51]: [Say] (KU_iNDUz_zO) Musubi: need more rabbits?
+[12:12:39]: [Say] (KU_B-XFv0pO) ZeroRyuk: bruh
+[12:12:46]: [Say] (KU_B-XFv0pO) ZeroRyuk: there's food in the fridge
+[12:13:02]: [Say] (KU_xj-WM3f-) Mr.Lago: nice food
+[12:13:05]: [Say] (KU_xj-WM3f-) Mr.Lago: 3 honey
+[12:14:33]: [Leave Announcement] Mr.Lago
+[12:15:02]: [Say] (KU_iNDUz_zO) Musubi: lets go
+[12:15:29]: [Say] (KU_iNDUz_zO) Musubi: dem
+[12:15:40]: [Whisper] (KU_iNDUz_zO) Musubi: 80% i think
+[12:15:46]: [Say] (KU_iNDUz_zO) Musubi: 80%
+[12:17:35]: [Leave Announcement] WillerWill
+[12:18:04]: [Say] (KU_iNDUz_zO) Musubi: here
+[12:18:17]: [Say] (KU_iNDUz_zO) Musubi: yep 16
+[12:26:07]: [Say] (KU_iNDUz_zO) Musubi: yep
+[12:29:00]: [Death Announcement] ZeroRyuk was killed by Nousagi. She became a spooky ghost!
+[12:29:08]: [Say] (KU_iNDUz_zO) Musubi: rip
+[12:32:28]: [Resurrect Announcement] ZeroRyuk was resurrected by Celestial Portal.
+[12:33:56]: [Say] (KU_iNDUz_zO) Musubi: idk how
+[12:38:13]: [Say] (KU_iNDUz_zO) Musubi: wait no mats
+[12:38:57]: [Say] (KU_iNDUz_zO) Musubi: idk how he got inside
+[12:39:47]: [Say] (KU_iNDUz_zO) Musubi: sur
+[12:40:34]: [Say] (KU_iNDUz_zO) Musubi: 49
+[12:42:01]: [Say] (KU_iNDUz_zO) Musubi: at cave have lots
+[12:42:12]: [Say] (KU_iNDUz_zO) Musubi: wait ehre
+[12:42:14]: [Say] (KU_iNDUz_zO) Musubi: alot here
+[12:42:22]: [Say] (KU_iNDUz_zO) Musubi: oh
+[12:42:34]: [Say] (KU_iNDUz_zO) Musubi: here
+[12:42:58]: [Say] (KU_iNDUz_zO) Musubi: there
+[12:43:08]: [Say] (KU_iNDUz_zO) Musubi: u ady got 40
+[12:57:58]: [Leave Announcement] ZeroRyuk
+[13:08:34]: [Say] (KU_dEYHQFc9) Lobak: i'll be back in 5 min... gonna clean my pets plate
+[13:08:39]: [Say] (KU_iNDUz_zO) Musubi: okeh
+[13:08:54]: [Leave Announcement] Lobak
+[13:15:40]: [Join Announcement] Lobak
+[13:15:59]: [Say] (KU_iNDUz_zO) Musubi: weba
+[13:16:43]: [Say] (KU_iNDUz_zO) Musubi: catching bees
+[13:16:56]: [Whisper] (KU_iNDUz_zO) Musubi: yep
+[13:23:52]: [Say] (KU_iNDUz_zO) Musubi: oh no
+[13:24:39]: [Say] (KU_iNDUz_zO) Musubi: theygot me dem
+[13:25:59]: [Say] (KU_iNDUz_zO) Musubi: oh no
+[13:26:11]: [Say] (KU_iNDUz_zO) Musubi: it burned
+[13:33:33]: [Say] (KU_iNDUz_zO) Musubi: bee farm gives alot
+[13:33:42]: [Say] (KU_iNDUz_zO) Musubi: wot daheck
+[13:34:09]: [Say] (KU_iNDUz_zO) Musubi: rip
+[13:38:59]: [Say] (KU_iNDUz_zO) Musubi: tree got wiped?
+[13:39:13]: [Say] (KU_iNDUz_zO) Musubi: ohh
+[13:39:15]: [Say] (KU_iNDUz_zO) Musubi: again dem
+[13:40:33]: [Join Announcement] ZeroRyuk
+[13:40:49]: [Say] (KU_iNDUz_zO) Musubi: current server is good ady
+[13:40:58]: [Say] (KU_iNDUz_zO) Musubi: ohh
+[13:41:11]: [Say] (KU_iNDUz_zO) Musubi: have more pinecone?
+[13:41:24]: [Say] (KU_iNDUz_zO) Musubi: wot daheck
+[13:48:03]: [Say] (KU_iNDUz_zO) Musubi: abit
+[13:48:16]: [Leave Announcement] Musubi
+[13:57:22]: [Join Announcement] Musubi
+[13:58:07]: [Say] (KU_iNDUz_zO) Musubi: got lots of log
+[14:04:14]: [Say] (KU_iNDUz_zO) Musubi: wot daheck
+[14:05:11]: [Say] (KU_iNDUz_zO) Musubi: oh dem
+[14:10:49]: [Say] (KU_iNDUz_zO) Musubi: okeh
+[14:11:29]: [Whisper] (KU_iNDUz_zO) Musubi: at cave alot
+[14:11:32]: [Say] (KU_iNDUz_zO) Musubi: at cave alot
+[14:15:23]: [Say] (KU_iNDUz_zO) Musubi: it droped because of meteor
+[14:15:53]: [Say] (KU_iNDUz_zO) Musubi: need 2nd fridge maybe
+[14:16:13]: [Say] (KU_iNDUz_zO) Musubi: okeh
+[14:16:59]: [Say] (KU_iNDUz_zO) Musubi: star?
+[14:17:12]: [Say] (KU_iNDUz_zO) Musubi: oh the fire
+[14:21:35]: [Say] (KU_iNDUz_zO) Musubi: wats that for?
+[14:21:44]: [Say] (KU_iNDUz_zO) Musubi: oh
+[14:26:52]: [Say] (KU_iNDUz_zO) Musubi: maybe i should make spike trap
+[14:27:11]: [Say] (KU_iNDUz_zO) Musubi: just need to put it alittle far
+[14:27:33]: [Say] (KU_iNDUz_zO) Musubi: it idk if its gonna get burned the spike
+[14:30:30]: [Say] (KU_iNDUz_zO) Musubi: OP
+[14:31:40]: [Say] (KU_iNDUz_zO) Musubi: or just put fence?
+[14:31:56]: [Whisper] (KU_iNDUz_zO) Musubi: right
+[14:31:58]: [Say] (KU_iNDUz_zO) Musubi: right
+[14:33:05]: [Say] (KU_iNDUz_zO) Musubi: wats the eyegoggles for on calli?
+[14:33:16]: [Whisper] (KU_iNDUz_zO) Musubi: ohh
+[14:33:27]: [Say] (KU_iNDUz_zO) Musubi: for summer can?
+[14:33:32]: [Whisper] (KU_iNDUz_zO) Musubi: noice
+[14:33:34]: [Say] (KU_iNDUz_zO) Musubi: noice
+[14:34:12]: [Leave Announcement] Lobak
+[14:34:53]: [Say] (KU_iNDUz_zO) Musubi: not good drop this squids pfft
+[14:35:05]: [Say] (KU_iNDUz_zO) Musubi: just 1
+[14:38:40]: [Leave Announcement] ZeroRyuk
+[14:40:57]: [Join Announcement] ZeroRyuk
+[14:42:51]: [Say] (KU_iNDUz_zO) Musubi: winter?
+[14:43:49]: [Say] (KU_iNDUz_zO) Musubi: noice
+[14:50:37]: [Say] (KU_iNDUz_zO) Musubi: okeh
+[14:51:25]: [Say] (KU_iNDUz_zO) Musubi: hounds attacks pets?
+[14:51:37]: [Say] (KU_iNDUz_zO) Musubi: glomglom
+[14:51:46]: [Say] (KU_iNDUz_zO) Musubi: noice
+[14:55:32]: [Say] (KU_iNDUz_zO) Musubi: we should make more drying rack later
+[14:55:49]: [Whisper] (KU_iNDUz_zO) Musubi: monster meat is expiring fast
+[14:55:52]: [Say] (KU_iNDUz_zO) Musubi: ohh okeh
+[14:58:10]: [Say] (KU_iNDUz_zO) Musubi: wheres the nautical tab
+[14:58:17]: [Say] (KU_iNDUz_zO) Musubi: for raft
+[14:58:21]: [Say] (KU_iNDUz_zO) Musubi: oh
+[15:05:53]: [Say] (KU_iNDUz_zO) Musubi: yep
+[15:06:17]: [Whisper] (KU_iNDUz_zO) Musubi: maybe north side
+[15:07:05]: [Say] (KU_iNDUz_zO) Musubi: oh lago off
+[15:07:10]: [Say] (KU_iNDUz_zO) Musubi: i men lobak
+[15:19:25]: [Say] (KU_iNDUz_zO) Musubi: lagging?
+[15:22:22]: [Say] (KU_iNDUz_zO) Musubi: im sailing
+[15:24:57]: [Say] (KU_iNDUz_zO) Musubi: uoh no
+[15:25:08]: [Whisper] (KU_iNDUz_zO) Musubi: NOOOO
+[15:25:14]: [Say] (KU_iNDUz_zO) Musubi: dem
+[15:25:29]: [Say] (KU_iNDUz_zO) Musubi: those monster destroyed my boat
+[15:26:26]: [Say] (KU_iNDUz_zO) Musubi: firee
+[15:26:38]: [Say] (KU_iNDUz_zO) Musubi: oh dem
+[15:26:54]: [Say] (KU_iNDUz_zO) Musubi: dem so hard to sail alone then fpft
+[15:27:19]: [Say] (KU_iNDUz_zO) Musubi: maintaining boat is hard
+[15:27:59]: [Say] (KU_iNDUz_zO) Musubi: my miners hat gone
+[15:28:14]: [Say] (KU_iNDUz_zO) Musubi: i have alittle lol
+[15:28:47]: [Say] (KU_iNDUz_zO) Musubi: theres just smoll mobs and then suddenly big one
+[15:29:10]: [Say] (KU_iNDUz_zO) Musubi: near lago
+[15:29:12]: [Say] (KU_iNDUz_zO) Musubi: at sea
+[15:30:16]: [Say] (KU_iNDUz_zO) Musubi: OH
+[15:30:26]: [Say] (KU_iNDUz_zO) Musubi: i lost my scythe too
+[15:30:46]: [Whisper] (KU_iNDUz_zO) Musubi: kinda near
+[15:30:52]: [Say] (KU_iNDUz_zO) Musubi: at discord
+[15:33:00]: [Say] (KU_iNDUz_zO) Musubi: need it?
+[15:33:08]: [Say] (KU_iNDUz_zO) Musubi: okeh take it
+[15:33:13]: [Say] (KU_iNDUz_zO) Musubi: dont use it
+[15:33:57]: [Say] (KU_iNDUz_zO) Musubi: thanks~
+[15:35:04]: [Say] (KU_iNDUz_zO) Musubi: u can mine salt without boat?
+[15:35:41]: [Say] (KU_iNDUz_zO) Musubi: i was gonna get salt for salt box
+[15:36:48]: [Say] (KU_iNDUz_zO) Musubi: amelia can swim?
+[15:39:11]: [Leave Announcement] ZeroRyuk
+[15:45:48]: [Leave Announcement] Musubi

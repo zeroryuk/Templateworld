@@ -1,0 +1,36 @@
+[00:02:05]: [Join Announcement] ZeroRyuk
+[00:02:49]: [Join Announcement] WillerWill
+[00:04:35]: [Join Announcement] Mr.Lago
+[00:06:12]: [Join Announcement] Musubi
+[00:07:34]: [Say] (KU_iNDUz_zO) Musubi: circle of mushroom
+[00:07:39]: [Say] (KU_iNDUz_zO) Musubi: anything important?
+[00:07:46]: [Say] (KU_xj-WM3f-) Mr.Lago: eat iit
+[00:07:57]: [Say] (KU_iNDUz_zO) Musubi: u eat it
+[00:08:08]: [Say] (KU_iNDUz_zO) Musubi: green
+[00:08:22]: [Say] (KU_iNDUz_zO) Musubi: later when we have fridge
+[00:21:59]: [Leave Announcement] WillerWill
+[00:21:59]: [Leave Announcement] Mr.Lago
+[00:21:59]: [Leave Announcement] Musubi
+[00:22:41]: [Join Announcement] Musubi
+[00:23:13]: [Join Announcement] WillerWill
+[00:24:04]: [Join Announcement] Mr.Lago
+[00:24:45]: [Skin Announcement] WillerWill feet_twotone_shoe_brown_sepia
+[00:26:44]: [Say] (KU_iNDUz_zO) Musubi: im exploring whole are
+[00:26:46]: [Say] (KU_iNDUz_zO) Musubi: area
+[00:28:23]: [Say] (KU_iNDUz_zO) Musubi: ady discover north
+[00:28:47]: [Say] (KU_iNDUz_zO) Musubi: nani?
+[00:29:08]: [Say] (KU_iNDUz_zO) Musubi: no fridge ?
+[00:34:23]: [Death Announcement] Mr.Lago was killed by Dragonfly. She became a spooky ghost!
+[00:34:32]: [Skin Announcement] ZeroRyuk legs_skirt_button_red_rook
+[00:36:24]: [Resurrect Announcement] Mr.Lago was resurrected by Touch Stone.
+[00:44:15]: [Skin Announcement] Mr.Lago legs_skirt_plaid_red_ruby
+[00:44:54]: [Say] (KU_iNDUz_zO) Musubi: need gloomer statue?
+[00:45:19]: [Say] (KU_iNDUz_zO) Musubi: noe eyed deer?
+[00:45:36]: [Say] (KU_iNDUz_zO) Musubi: kewl deers
+[00:50:50]: [Say] (KU_iNDUz_zO) Musubi: is this pet?
+[00:53:47]: [Say] (KU_iNDUz_zO) Musubi: why so hard to hit tentacle
+[00:56:21]: [Leave Announcement] WillerWill
+[00:58:13]: [Leave Announcement] ZeroRyuk
+[00:58:37]: [Leave Announcement] Mr.Lago
+[00:58:38]: [Death Announcement] Musubi was killed by Tentacle. She became a spooky ghost!
+[00:58:53]: [Leave Announcement] Musubi

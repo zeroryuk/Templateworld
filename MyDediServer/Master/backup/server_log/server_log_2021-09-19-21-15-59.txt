@@ -1,0 +1,139 @@
+[00:00:00]: PersistRootStorage is now /home/ubuntu/.klei//DoNotStarveTogether/MyDediServer/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 478900
+[00:00:00]: Current time: Sun Sep 19 21:05:48 2021
+
+[00:00:00]: System Name: Linux
+[00:00:00]: Host Name: ip-172-31-42-243
+[00:00:00]: Release(Kernel) Version: 5.11.0-1017-aws
+[00:00:00]: Kernel Build Timestamp: #18~20.04.1-Ubuntu SMP Fri Aug 27 11:21:54 UTC 2021
+[00:00:00]: Machine Arch: x86_64
+[00:00:00]: Don't Starve Together: 478900 LINUX
+[00:00:00]: Build Date: 218
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -console -cluster MyDediServer -monitor_parent_process 947 -shard Master 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: THREAD - started 'GAClient' (140529375336192)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10999, 27016)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: ProfileIndex:6.42
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: THREAD - started 'Ping Job Thread' (140528846894848)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: OnLoadPermissionList: /home/ubuntu/.klei//DoNotStarveTogether/MyDediServer/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: /home/ubuntu/.klei//DoNotStarveTogether/MyDediServer/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: /home/ubuntu/.klei//DoNotStarveTogether/MyDediServer/whitelist.txt (Failure)
+[00:00:00]: THREAD - started 'StreamInput' (140528844793600)
+[00:00:00]: Token retrieved from: /home/ubuntu/.klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:00]: Token retrieved from: /home/ubuntu/.klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: AppVersion::GetArchitecture() x64
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: running main.lua
+	
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:02]: SUCCESS: Loaded modoverrides.lua	
+[00:00:02]: modoverrides.lua enabling workshop-2528541304	
+[00:00:02]: modoverrides.lua enabling workshop-2584216489	
+[00:00:02]: modoverrides.lua enabling workshop-2321974509	
+[00:00:02]: modoverrides.lua enabling workshop-1951468597	
+[00:00:02]: modoverrides.lua enabling workshop-1207269058	
+[00:00:02]: modoverrides.lua enabling workshop-2420839895	
+[00:00:02]: modoverrides.lua enabling workshop-2410382718	
+[00:00:02]: modoverrides.lua enabling workshop-444235588	
+[00:00:02]: modoverrides.lua enabling workshop-1535658505	
+[00:00:02]: modoverrides.lua enabling workshop-362191380	
+[00:00:02]: modoverrides.lua enabling workshop-2598943907	
+[00:00:02]: modoverrides.lua enabling workshop-2208128427	
+[00:00:02]: modoverrides.lua enabling workshop-2554208156	
+[00:00:02]: modoverrides.lua enabling workshop-1628298090	
+[00:00:02]: modoverrides.lua enabling workshop-2304170675	
+[00:00:02]: modoverrides.lua enabling workshop-1289779251	
+[00:00:02]: modoverrides.lua enabling workshop-2581999496	
+[00:00:02]: modoverrides.lua enabling workshop-2533294453	
+[00:00:02]: modoverrides.lua enabling workshop-2289662010	
+[00:00:02]: modoverrides.lua enabling workshop-2358978811	
+[00:00:02]: modoverrides.lua enabling workshop-2594589121	
+[00:00:02]: modoverrides.lua enabling workshop-2533073359	
+[00:00:02]: modoverrides.lua enabling workshop-2411450759	
+[00:00:02]: modoverrides.lua enabling workshop-785295023	
+[00:00:02]: modoverrides.lua enabling workshop-2336991112	
+[00:00:02]: modoverrides.lua enabling workshop-2431606769	
+[00:00:02]: modoverrides.lua enabling workshop-2519917081	
+[00:00:02]: modoverrides.lua enabling workshop-1637709131	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1637709131	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1535658505	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2528541304	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2584216489	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2410382718	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1951468597	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2420839895	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2358978811	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1289779251	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-444235588	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2208128427	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2554208156	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1628298090	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-362191380	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2304170675	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2598943907	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2533294453	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2411450759	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2581999496	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2594589121	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2533073359	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2289662010	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-785295023	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2336991112	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2431606769	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2519917081	
+[00:00:02]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2321974509	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1637709131_CLIENT	
+[00:00:02]: Loading mod: workshop-1637709131 (Default Dance Server) Version:1.2	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1535658505_CLIENT	
+[00:00:02]: Loading mod: workshop-1535658505 (Gorge Lights) Version:1.5	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2528541304_CLIENT	
+[00:00:02]: Loading mod: workshop-2528541304 (Not Enough Turfs) Version:1.3-a	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2584216489_CLIENT	
+[00:00:02]: Loading mod: workshop-2584216489 (Rain Shelter) Version:1.4	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2410382718_CLIENT	
+[00:00:02]: Loading mod: workshop-2410382718 (Ninomae Ina'nis) Version:1.3.5	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1951468597_CLIENT	
+[00:00:02]: Loading mod: workshop-1951468597 (Sweet House) Version:4.3	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1207269058_CLIENT	
+[00:00:02]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.15	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2420839895_CLIENT	
+[00:00:02]: Loading mod: workshop-2420839895 (Rope Bridge) Version:1.12	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-2358978811_CLIENT	
+[00:00:02]: Loading mod: workshop-2358978811 (Gawr Gura) Version:1.7.3	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-1289779251_CLIENT	
+[00:00:02]: Loading mod: workshop-1289779251 (  

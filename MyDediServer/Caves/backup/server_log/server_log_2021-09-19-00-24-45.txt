@@ -1,0 +1,182 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 61%
+	Available Physical Memory: 6292m/16221m
+	Available Page File: 11436m/26973m
+	Available Virtual Memory: 134213486m/134217727m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 30m
+	Working Set Size: 30m
+	Quota Peak Page Pool Usage: 206k
+	Quota Page Pool Usage: 202k
+	Quota Peak Non Paged Pool Usage:15k
+	Quota Non Paged Pool Usage: 13k
+	Page File Usage: 5m
+	Peak Page File Usage: 5m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/132578023/Cluster_2/Caves/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 478900
+[00:00:00]: Current time: Sat Sep 18 17:18:35 2021
+
+[00:00:00]: Don't Starve Together: 478900 WIN32
+[00:00:00]: Build Date: 250
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -monitor_parent_process 8604 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_2 -ownernetid 76561198092843751 -ownerdir 132578023 -backup_log_count 25 -backup_log_period 0 -ugc_directory D:\\Steam\\steamapps\\workshop -shard Caves -sigprefix DST_Secondary -region US 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (3872)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10998, 27017)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: ProfileIndex:3.23
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: THREAD - started 'Ping Job Thread' (3924)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application D:\Steam\steamapps\common\Don't Starve Together\bin64\dontstarve_dedicated_server_nullrenderer_x64.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: Overriding region to US
+[00:00:00]: THREAD - started 'StreamInput' (16804)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/132578023/client_save/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/132578023/client_save/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/132578023/client_save/whitelist.txt (Failure)
+[00:00:00]: Offline user ID: OU_76561198092843751
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/132578023/Cluster_2/cluster_token.txt
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/132578023/Cluster_2/cluster_token.txt
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Home
+    version                   10.0.19042
+    platformSpecific          SP 0.0
+    architecture              64-bit
+  CPU                       
+    clockSpeed                2592
+    name                      Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+    manufacturer              GenuineIntel
+    numCores                  6
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    megsOfRam                 1024
+    videoModeDescription      1920 x 1080 x 4294967296 colors
+    name                      Intel(R) UHD Graphics 630
+    driverVersion             25.20.100.6617
+    driverDate                20190308000000.000000-000
+    refreshRate               144
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: AppVersion::GetArchitecture() x64
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: running main.lua
+	
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:01]: SUCCESS: Loaded modoverrides.lua	
+[00:00:01]: modoverrides.lua enabling workshop-2528541304	
+[00:00:01]: modoverrides.lua enabling workshop-2584216489	
+[00:00:01]: modoverrides.lua enabling workshop-2321974509	
+[00:00:01]: modoverrides.lua enabling workshop-1951468597	
+[00:00:01]: modoverrides.lua enabling workshop-1207269058	
+[00:00:01]: modoverrides.lua enabling workshop-2420839895	
+[00:00:01]: modoverrides.lua enabling workshop-2410382718	
+[00:00:01]: modoverrides.lua enabling workshop-444235588	
+[00:00:01]: modoverrides.lua enabling workshop-1535658505	
+[00:00:01]: modoverrides.lua enabling workshop-362191380	
+[00:00:01]: modoverrides.lua enabling workshop-2598943907	
+[00:00:01]: modoverrides.lua enabling workshop-2208128427	
+[00:00:01]: modoverrides.lua enabling workshop-2554208156	
+[00:00:01]: modoverrides.lua enabling workshop-1628298090	
+[00:00:01]: modoverrides.lua enabling workshop-2304170675	
+[00:00:01]: modoverrides.lua enabling workshop-1289779251	
+[00:00:01]: modoverrides.lua enabling workshop-2581999496	
+[00:00:01]: modoverrides.lua enabling workshop-2533294453	
+[00:00:01]: modoverrides.lua enabling workshop-2289662010	
+[00:00:01]: modoverrides.lua enabling workshop-2358978811	
+[00:00:01]: modoverrides.lua enabling workshop-2594589121	
+[00:00:01]: modoverrides.lua enabling workshop-2533073359	
+[00:00:01]: modoverrides.lua enabling workshop-2411450759	
+[00:00:01]: modoverrides.lua enabling workshop-785295023	
+[00:00:01]: modoverrides.lua enabling workshop-2336991112	
+[00:00:01]: modoverrides.lua enabling workshop-2431606769	
+[00:00:01]: modoverrides.lua enabling workshop-2519917081	
+[00:00:01]: modoverrides.lua enabling workshop-1637709131	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1535658505	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1637709131	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2528541304	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2584216489	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2321974509	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1951468597	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-444235588	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2533294453	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2420839895	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1289779251	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2208128427	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2554208156	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-362191380	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2336991112	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2304170675	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2410382718	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2411450759	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2289662010	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2358978811	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2594589121	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2533073359	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2581999496	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-785295023	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2598943907	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2431606769	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2519917081	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1628298090	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1535658505_CLIENT	
+[00:00:01]: Loading mod: workshop-1535658505 (Gorge Lights) Version:1.5	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1637709131_CLIENT	
+[00:00:01]: Loading mod: workshop-1637709131 (Default Dance Server) Version:1.2	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-2528541304_CLIENT	
+[00:00:01]: Loading mod: workshop-2528541304 (Not Enough Turfs) Version:1.3-a	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-2584216489_CLIENT	
+[00:00:01]: Loading mod: workshop-2584216489 (Rain Shelter) Version:1.4	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-2321974509_CLIENT	
+[00:00:01]: Loading mod: workshop-2321974509 (Automatic chest sorting) Version:1.0.2	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1951468597_CLIENT	
+[00:00:01]: Loading mod: workshop-1951468597 (Sweet House) Version:4.3	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1207269058_CLIENT	
+[00:00:01]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.15	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-444235588_CLIENT	
+[00:00:01]: Loading mod: workshop-444235588 (Deluxe Campfires DST Fix - Beta) Version:2.14	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-2533294453_CLIENT	
+[00:00:01]: Loading mod: workshop-2533294453 (Kiryu Coco) Version:1.0.7	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-2420839895_CLIENT	
+[00:00:01]: Loading mod: workshop-2420839895 (Rope Bridge) Version:1.12	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1289779251_CLIENT	
+[00:00:01]: Loading mod: workshop-1289779251 (  

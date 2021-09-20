@@ -1,0 +1,201 @@
+[00:00:00]: PersistRootStorage is now /home/ubuntu/.klei//DoNotStarveTogether/MyDediServer/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 478900
+[00:00:00]: Current time: Sun Sep 19 00:24:45 2021
+
+[00:00:00]: System Name: Linux
+[00:00:00]: Host Name: ip-172-31-42-243
+[00:00:00]: Release(Kernel) Version: 5.4.0-1045-aws
+[00:00:00]: Kernel Build Timestamp: #47-Ubuntu SMP Tue Apr 13 07:02:25 UTC 2021
+[00:00:00]: Machine Arch: x86_64
+[00:00:00]: Don't Starve Together: 478900 LINUX
+[00:00:00]: Build Date: 218
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -console -cluster MyDediServer -monitor_parent_process 27185 -shard Master 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: THREAD - started 'GAClient' (140143773423360)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(10999, 27016)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: ProfileIndex:4.19
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: THREAD - started 'Ping Job Thread' (140143713785600)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: OnLoadPermissionList: /home/ubuntu/.klei//DoNotStarveTogether/MyDediServer/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: /home/ubuntu/.klei//DoNotStarveTogether/MyDediServer/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: /home/ubuntu/.klei//DoNotStarveTogether/MyDediServer/whitelist.txt (Failure)
+[00:00:00]: THREAD - started 'StreamInput' (140143711684352)
+[00:00:00]: Token retrieved from: /home/ubuntu/.klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:00]: Token retrieved from: /home/ubuntu/.klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: AppVersion::GetArchitecture() x64
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]:   taskgrouplist:	default	Together	
+[00:00:00]:   taskgrouplist:	classic	Classic	
+[00:00:00]:   taskgrouplist:	cave_default	Underground	
+[00:00:00]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:00]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:00]: running main.lua
+	
+[00:00:00]: loaded modindex	
+[00:00:00]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:01]: DownloadPublishedFile [0] 1207269058
+[00:00:01]: DownloadPublishedFile [0] 1289779251
+[00:00:01]: DownloadPublishedFile [0] 1535658505
+[00:00:01]: DownloadPublishedFile [0] 1628298090
+[00:00:01]: DownloadPublishedFile [0] 1637709131
+[00:00:01]: DownloadPublishedFile [0] 1951468597
+[00:00:01]: DownloadPublishedFile [0] 2208128427
+[00:00:01]: DownloadPublishedFile [0] 2289662010
+[00:00:01]: DownloadPublishedFile [0] 2304170675
+[00:00:01]: DownloadPublishedFile [0] 2321974509
+[00:00:01]: DownloadPublishedFile [0] 2336991112
+[00:00:01]: DownloadPublishedFile [0] 2358978811
+[00:00:01]: DownloadPublishedFile [0] 2410382718
+[00:00:01]: DownloadPublishedFile [0] 2411450759
+[00:00:01]: DownloadPublishedFile [0] 2420839895
+[00:00:01]: DownloadPublishedFile [0] 2431606769
+[00:00:01]: DownloadPublishedFile [0] 2519917081
+[00:00:01]: DownloadPublishedFile [0] 2528541304
+[00:00:01]: DownloadPublishedFile [0] 2533073359
+[00:00:01]: DownloadPublishedFile [0] 2533294453
+[00:00:01]: DownloadPublishedFile [0] 2554208156
+[00:00:01]: DownloadPublishedFile [0] 2581999496
+[00:00:01]: DownloadPublishedFile [0] 2584216489
+[00:00:01]: DownloadPublishedFile [0] 2594589121
+[00:00:01]: DownloadPublishedFile [0] 2598943907
+[00:00:01]: DownloadPublishedFile [0] 362191380
+[00:00:01]: DownloadPublishedFile [0] 444235588
+[00:00:01]: DownloadPublishedFile [0] 785295023
+[00:00:03]: OnDownloadPublishedFile [1] 1207269058
+[00:00:12]: OnDownloadPublishedFile [1] 1289779251
+[00:00:14]: OnDownloadPublishedFile [1] 1535658505
+[00:00:14]: Could not open directory [../mods/workshop-1535658505] 2 (/home/ubuntu/dstserver/data)
+[00:00:14]: cWorkshopMod::UnzipMod ../mods/workshop-1535658505
+[00:00:15]: OnDownloadPublishedFile [1] 1628298090
+[00:00:16]: OnDownloadPublishedFile [1] 1637709131
+[00:00:16]: Could not open directory [../mods/workshop-1637709131] 2 (/home/ubuntu/dstserver/data)
+[00:00:16]: cWorkshopMod::UnzipMod ../mods/workshop-1637709131
+[00:00:18]: OnDownloadPublishedFile [1] 1951468597
+[00:00:19]: OnDownloadPublishedFile [1] 2208128427
+[00:00:20]: OnDownloadPublishedFile [1] 2289662010
+[00:00:24]: OnDownloadPublishedFile [1] 2304170675
+[00:00:24]: OnDownloadPublishedFile [1] 2321974509
+[00:00:25]: OnDownloadPublishedFile [1] 2336991112
+[00:00:26]: OnDownloadPublishedFile [1] 2358978811
+[00:00:28]: OnDownloadPublishedFile [1] 2410382718
+[00:00:32]: OnDownloadPublishedFile [1] 2411450759
+[00:00:32]: OnDownloadPublishedFile [1] 2420839895
+[00:00:34]: OnDownloadPublishedFile [1] 2431606769
+[00:00:36]: OnDownloadPublishedFile [1] 2519917081
+[00:00:38]: OnDownloadPublishedFile [1] 2528541304
+[00:00:40]: OnDownloadPublishedFile [1] 2533073359
+[00:00:42]: OnDownloadPublishedFile [1] 2533294453
+[00:00:43]: OnDownloadPublishedFile [1] 2554208156
+[00:00:49]: OnDownloadPublishedFile [1] 2581999496
+[00:00:51]: OnDownloadPublishedFile [1] 2584216489
+[00:00:53]: OnDownloadPublishedFile [1] 2594589121
+[00:00:55]: OnDownloadPublishedFile [1] 2598943907
+[00:00:56]: OnDownloadPublishedFile [1] 362191380
+[00:00:57]: OnDownloadPublishedFile [1] 444235588
+[00:00:59]: OnDownloadPublishedFile [1] 785295023
+[00:00:59]: SUCCESS: Loaded modoverrides.lua	
+[00:00:59]: modoverrides.lua enabling workshop-2528541304	
+[00:00:59]: modoverrides.lua enabling workshop-2584216489	
+[00:00:59]: modoverrides.lua enabling workshop-2321974509	
+[00:00:59]: modoverrides.lua enabling workshop-1951468597	
+[00:00:59]: modoverrides.lua enabling workshop-1207269058	
+[00:00:59]: modoverrides.lua enabling workshop-2420839895	
+[00:00:59]: modoverrides.lua enabling workshop-2410382718	
+[00:00:59]: modoverrides.lua enabling workshop-444235588	
+[00:00:59]: modoverrides.lua enabling workshop-1535658505	
+[00:00:59]: modoverrides.lua enabling workshop-362191380	
+[00:00:59]: modoverrides.lua enabling workshop-2598943907	
+[00:00:59]: modoverrides.lua enabling workshop-2208128427	
+[00:00:59]: modoverrides.lua enabling workshop-2554208156	
+[00:00:59]: modoverrides.lua enabling workshop-1628298090	
+[00:00:59]: modoverrides.lua enabling workshop-2304170675	
+[00:00:59]: modoverrides.lua enabling workshop-1289779251	
+[00:00:59]: modoverrides.lua enabling workshop-2581999496	
+[00:00:59]: modoverrides.lua enabling workshop-2533294453	
+[00:00:59]: modoverrides.lua enabling workshop-2289662010	
+[00:00:59]: modoverrides.lua enabling workshop-2358978811	
+[00:00:59]: modoverrides.lua enabling workshop-2594589121	
+[00:00:59]: modoverrides.lua enabling workshop-2533073359	
+[00:00:59]: modoverrides.lua enabling workshop-2411450759	
+[00:00:59]: modoverrides.lua enabling workshop-785295023	
+[00:00:59]: modoverrides.lua enabling workshop-2336991112	
+[00:00:59]: modoverrides.lua enabling workshop-2431606769	
+[00:00:59]: modoverrides.lua enabling workshop-2519917081	
+[00:00:59]: modoverrides.lua enabling workshop-1637709131	
+[00:00:59]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1637709131	
+[00:00:59]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1535658505	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2528541304	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2584216489	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2321974509	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1951468597	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-444235588	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2533294453	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2420839895	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1289779251	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2208128427	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2554208156	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-362191380	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2336991112	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2304170675	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2410382718	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2411450759	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2289662010	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2358978811	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2594589121	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2533073359	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2581999496	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-785295023	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2598943907	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2431606769	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2519917081	
+[00:00:59]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1628298090	
+[00:00:59]: Could not load mod_config_data/modconfiguration_workshop-1637709131_CLIENT	
+[00:00:59]: Loading mod: workshop-1637709131 (Default Dance Server) Version:1.2	
+[00:00:59]: Could not load mod_config_data/modconfiguration_workshop-1535658505_CLIENT	
+[00:00:59]: Loading mod: workshop-1535658505 (Gorge Lights) Version:1.5	
+[00:00:59]: Could not load mod_config_data/modconfiguration_workshop-2528541304_CLIENT	
+[00:00:59]: Loading mod: workshop-2528541304 (Not Enough Turfs) Version:1.3-a	
+[00:00:59]: Could not load mod_config_data/modconfiguration_workshop-2584216489_CLIENT	
+[00:00:59]: Loading mod: workshop-2584216489 (Rain Shelter) Version:1.4	
+[00:00:59]: Could not load mod_config_data/modconfiguration_workshop-2321974509_CLIENT	
+[00:00:59]: Loading mod: workshop-2321974509 (Automatic chest sorting) Version:1.0.2	
+[00:00:59]: Could not load mod_config_data/modconfiguration_workshop-1951468597_CLIENT	
+[00:00:59]: Loading mod: workshop-1951468597 (Sweet House) Version:4.3	
+[00:00:59]: Could not load mod_config_data/modconfiguration_workshop-1207269058_CLIENT	
+[00:00:59]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.15	
+[00:00:59]: Could not load mod_config_data/modconfiguration_workshop-444235588_CLIENT	
+[00:00:59]: Loading mod: workshop-444235588 (Deluxe Campfires DST Fix - Beta) Version:2.14	
+[00:00:59]: Could not load mod_config_data/modconfiguration_workshop-2533294453_CLIENT	
+[00:00:59]: Loading mod: workshop-2533294453 (Kiryu Coco) Version:1.0.7	
+[00:00:59]: Could not load mod_config_data/modconfiguration_workshop-2420839895_CLIENT	
+[00:00:59]: Loading mod: workshop-2420839895 (Rope Bridge) Version:1.12	
+[00:00:59]: Could not load mod_config_data/modconfiguration_workshop-1289779251_CLIENT	
+[00:00:59]: Loading mod: workshop-1289779251 (  

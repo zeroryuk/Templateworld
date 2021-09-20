@@ -1,0 +1,22 @@
+[00:03:25]: [Join Announcement] ZeroRyuk
+[00:04:08]: [Join Announcement] WillerWill
+[00:05:05]: [Join Announcement] Mr.Lago
+[00:22:13]: [Skin Announcement] ZeroRyuk body_tshirt_red_higgsbury
+[00:26:10]: [Skin Announcement] WillerWill hand_longgloves_red_ruby
+[00:46:51]: [Join Announcement] Musubi
+[00:47:19]: [Say] (KU_iNDUz_zO) Musubi: ina tentacles is just for back dmg on enemy?
+[00:47:29]: [Say] (KU_B-XFv0pO) ZeroRyuk: yeah and drains sanity
+[00:47:40]: [Say] (KU_iNDUz_zO) Musubi: not health?
+[00:47:52]: [Say] (KU_iNDUz_zO) Musubi: i feel like my healt is losing before
+[00:47:53]: [Say] (KU_B-XFv0pO) ZeroRyuk: if you get hurt ofcos health
+[00:48:04]: [Say] (KU_B-XFv0pO) ZeroRyuk: it's an armor
+[00:48:06]: [Say] (KU_iNDUz_zO) Musubi: ohh health too
+[00:48:14]: [Say] (KU_B-XFv0pO) ZeroRyuk: it just reduces the damage
+[00:48:24]: [Say] (KU_iNDUz_zO) Musubi: ohhh
+[00:48:32]: [Say] (KU_B-XFv0pO) ZeroRyuk: 2 ina
+[00:48:36]: [Say] (KU_iNDUz_zO) Musubi: oh wait
+[00:48:37]: [Say] (KU_iNDUz_zO) Musubi: omg
+[00:48:52]: [Say] (KU_iNDUz_zO) Musubi: go dia
+[00:59:09]: [Death Announcement] Mr.Lago was killed by Killer Bee. She became a spooky ghost!
+[01:00:10]: [Say] (KU_iNDUz_zO) Musubi: theres too many bees on north
+[01:00:56]: [Resurrect Announcement] Mr.Lago was resurrected by Florid Postern.

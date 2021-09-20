@@ -1,4 +1,24 @@
-[00:05:51]: [Join Announcement] ZeroRyuk
-[00:08:42]: [Leave Announcement] ZeroRyuk
-[00:10:52]: [Join Announcement] ZeroRyuk
-[00:17:50]: [Leave Announcement] ZeroRyuk
+[00:01:54]: [Join Announcement] ZeroRyuk
+[00:39:48]: [Join Announcement] CoolChilli
+[00:39:55]: [Say] (KU_B-XFv0pO) ZeroRyuk: oh hey
+[00:56:38]: [Say] (KU_eZtCobTD) CoolChilli: rocky turf
+[01:10:16]: [Say] (KU_eZtCobTD) CoolChilli: that stone turf, I need bone shard
+[02:06:24]: [Death Announcement] CoolChilli was killed by Spider. She became a spooky ghost!
+[02:09:32]: [Resurrect Announcement] CoolChilli was resurrected by Celestial Portal.
+[02:40:52]: [Join Announcement] Mr.Lago
+[02:54:23]: [Leave Announcement] CoolChilli
+[02:56:58]: [Join Announcement] Lobak
+[03:15:41]: [Leave Announcement] ZeroRyuk
+[03:23:15]: [Say] (KU_dEYHQFc9) Lobak: lago u heard me?
+[03:23:52]: [Say] (KU_xj-WM3f-) Mr.Lago: nop
+[03:24:48]: [Say] (KU_dEYHQFc9) Lobak: imma relog see wuts da prob
+[03:24:51]: [Say] (KU_xj-WM3f-) Mr.Lago: oke
+[03:24:51]: [Say] (KU_dEYHQFc9) Lobak: weird
+[03:25:09]: [Say] (KU_dEYHQFc9) Lobak: no wonder u guys din reply wut im asking lol
+[03:25:15]: [Say] (KU_xj-WM3f-) Mr.Lago: kekw
+[03:25:31]: [Leave Announcement] Lobak
+[03:27:33]: [Join Announcement] Lobak
+[03:28:03]: [Say] (KU_dEYHQFc9) Lobak: can hear?
+[03:28:56]: [Say] (KU_dEYHQFc9) Lobak: the dc icon for me is green tho
+[03:41:13]: [Leave Announcement] Mr.Lago
+[03:41:25]: [Leave Announcement] Lobak
